@@ -1,29 +1,33 @@
-OPIc 교육
+# OPIc 교육
 
 ## 자기소개
 
-> 입 크게 벌기, 딕션 힘주기
+> [!NOTE]
 >
-> Not 강조하기, Language
->
-> Language, 톤조절
+> 1. 입크게벌리기
+> 2. 딕션에 힘주기
+> 3. Not 강조하기
+> 4. Language 발음 (x2)
+> 5. 톤 조절
 
 Hi there, How are you? 
 My Korean name is *Jiseo Son* and my English name is *Sam*
 Recently I have a problem. 
+
 I used to travel abroad at least twice a year.
 But, I've been too busy with work. So, I haven't been able to travel for the past 2 years.
 I really love experiencing new cultures such as the foods, the people, the language and so on.
 So, I'm planning to travel to New york this year. 
 I want to make lots of great memories by talking with local people and getting to know their culture
 That's actually the reason I started studying English.
+
 Ava, I'm very nervous right now. Because of this OPIc test.
 But, I'll try to do my best for getting high score.
 Wish me good luck, Bye
 
-## Movies
+---
 
-> S 붙이기, 입크게 벌리기, 호흡 길게하기, 감정 넣기, 눈뜨기
+## Movies
 
 ### 1. Genres / types / kinds
 
@@ -47,7 +51,7 @@ Wish me good luck, Bye
 I think I love enjoying romance films
 
 First of all, romantic movies help me feel many different emotions.
-For example, the movie *Me Before You* ==shows how man== slowly starts to feel love.
+For example, the movie *Me Before You* **shows how man** slowly starts to feel love.
 It's not just about the happiness of being in love, but also the sadness that can come with it.
 
 Next, romantic movies teach me something important.
@@ -66,55 +70,34 @@ But, They make me think again about the people I love.
 I like Jim Carrey the most.
 
 The first reason is he is very ~~h~~umorous.
-
 For example, the first movie I saw him was Truman**'s** show.
-
-예를 들어 내가 그를 처음본 영화 트루먼 쇼를 보면
-
 In that movie, I realized that a person can make others happy just with facial expressions.
-
-그 영화에서 나는 깨닳았어요 한 사람이 다른 사람들 표정만으로도 행복하게 할 있다는 것을
-
 To be honest, I'm not good at showing my emotions, That's something I really want to learn and improve.
 
+예를 들어 내가 그를 처음본 영화 트루먼 쇼를 보면
+그 영화에서 나는 깨닳았어요 한 사람이 다른 사람들 표정만으로도 행복하게 할 있다는 것을
 솔직하게, 나는 감정표현이 잘 못해요. 그래서 그건 정말 내가 배우고 바꿔나가고 싶어요.
 
 Next, He is also good at expressing **delicate** emotions. / 
-
-다음으로 그는 섬세한 감정도 잘 표현해요
-
 Some people know him as a funny actor and I also used to think like that.
-
-누군가는 그가 웃긴 배우로 알고 있어요. 나 역시 그렇게 생각 했어요
-
 But after watching the movie Eternal sunshine, I saw a different side of him.
-
-하지만 이터널선샤인를 보고 그의 다른 모습을 봤어요
-
 In that movie, he plays a quite and emotional man which is very different from previous roles.
-
-그 영화에서는 그는 조용하고 감수성있는 사람으로 이전 그의 역할과는 상당히 달랐어요
-
 However, he describes feelings of sadness and love really well.
-
-하지만 그는 슬픔과 사람이라는 느낌을 잘 묘사해냈어요
-
 After that, I started to like him as a real actor not just a funny actor.
 
+다음으로 그는 섬세한 감정도 잘 표현해요
+누군가는 그가 웃긴 배우로 알고 있어요. 나 역시 그렇게 생각 했어요
+하지만 이터널선샤인를 보고 그의 다른 모습을 봤어요
+그 영화에서는 그는 조용하고 감수성있는 사람으로 이전 그의 역할과는 상당히 달랐어요
+하지만 그는 슬픔과 사람이라는 느낌을 잘 묘사해냈어요
 그리고 나는 웃긴 배우가 아닌 진짜 배우로 좋아하기 시작했어요
 
 His recent movie, the sonic series. Actually the role looked too silly for me.
-
-그의 최근 영화인 소닉 시리즈는 사실 나에겐 너무 우스꽝스러워 보였어요
-
-(새로운 소닉 작품을 한다는걸 뉴스에서 봤다)
-
 so I haven't watched them.
-
-그래서 그걸은 본적은 없어요
-
 But, I always try to check if he has new movies coming out. because I'm still a big fan of him.
-
+그의 최근 영화인 소닉 시리즈는 사실 나에겐 너무 우스꽝스러워 보였어요
+(새로운 소닉 작품을 한다는걸 뉴스에서 봤다)
+그래서 그걸은 본적은 없어요
 하지만 항상 확인하고 있어요 그가 새로운 영화에 나오는지, 왜냐면 난 여전히 그의 팬이에요.
 
 Overall, I really favor him the best
@@ -124,55 +107,38 @@ Overall, I really favor him the best
 ### 2. Routine/ Before and after movies
 
 > Before / Concession stand(매점), window shopping, purchase tickets(how)
->
 > After / Eat out, 결말찾아보기, 스포해버리기, give a.rating, goods 사기
 
 > [루틴 문제] - 1 to 2 mins
 >
 > When it comes to **going to the movies**, I have some routines.
->
 > First, **before movies**,
->
 > Next, **after movies**,
 >
 > Overall, these are my routines.
 
 영화를 보러가는 것에 대해, 나는 루틴이 있다.
-
 When it comes to going to the movies, I have some routines.
 
 첫째로, 영화를 보기전
-
-First, before movies. 
-
 나는 보통 누구와 영화를 볼 지 찾는다. 왜냐면 난 혼자 영화를 보지 않는다.
-
-I usually figure out who I'm going with, because I've never watched a movie alone at the theater.
-
 보통은 가족 혹은 친구와 같이 간다.
-
-I normally go there with my friend or family.
-
 그리고 무엇을 볼지 정한다. 대부분의 경우 난 그들의 의견을 따른다.
-
-Then, we decide what to watch. In most cases, I follow their opinion .
-
 그리고, 우리는 티켓, 팝콘, 소다를 산다
 
+First, before movies. 
+I usually figure out who I'm going with, because I've never watched a movie alone at the theater.
+I normally go there with my friend or family.
+Then, we decide what to watch. In most cases, I follow their opinion .
 After that we purchase our tickets, popcorn and soda.
 
 다음으로 영화를 보고 난후
-
-Next, after movies, I clean up and organize my seat and ask them how the movie is.
-
 나는 내 좌석을 청소하고, 그들에게 영화가 어땠는지 물어본다.
-
 그리고 우리는 식사를 하고 영화에 대해서 더 이야기 한다.
-
-And we have a meal and talk more about the movie.
-
 만약 그 영화가 좋거나 실망스러우면, 인터넷에 평점도 남긴다.
 
+Next, after movies, I clean up and organize my seat and ask them how the movie is.
+And we have a meal and talk more about the movie.
 If the movie is great or disappointing, I make sure to leave a rating about the movie.
 
 Overall, these are my routines.
@@ -180,74 +146,45 @@ Overall, these are my routines.
 ### 3. Memorable movie / (worst movie 도 이름만 생각해보기)
 
 > 배우들 이름 2~3명, 감독 이름
->
 > 줄거리는 최소한 + 나의 생각
->
 > Also, 좋아하는 이유 + 기억에 나는 장면
->
 > 마무리, 친구에게 추천한다 / I would recommend this movie to my friends.
 
 내게 가장 기억에 남는 영화는 보헤미안 랩소디 입니다.
-
 사실 영화관에서 유일하게 2번 본 영화기도 합니다.
 
 One of the most memorable movies is *Bohemian Rhapsody*.
-
 It's actually the only one movie I've watched twice in the theater.
 
-
-
 첫째, Freddie Mercury를 연기한 Rami Malek 은 굉장한 배우입니다.
-
 그는 단순히 프레디 머큐리처럼 보이는게 아니다. 그는 그의 감정을 잘 표현한다.
 
 First, Rami Malek who played Freddie Mercury was an amazing actor.
-
 He didn’t just look like Freddie Mercury, he captured his emotions well, too.
-
-
 
 또한, 스토리라인이 완벽하다. 그 영화는 전설적인 밴드 퀸의 이야기와 여정를 이야기하고 있어요.
 
 Next, the storyline is just perfect.
-
 It tells the story of the legendary rock band Queen and their journey.
 
-
-
 사실, 그들의 노래는 많이 들었지만, 퀸이 누구인지는 궁금해 한 적 없다.
-
 그렇다고 해서 이 영화는 그저 유명인의 삶을 다룬 지루한 다큐가 아니다.
-
 그들의 노래 하나하나가 그들에게 어떤 의미인지 보여준다.
 
 To be honest, I've heard their songs many times before, but I've never wondered who they were.
-
 Anyway, It wasn't one of those boring documentaries about celebrity's life.
-
 It shows what each of their songs are meant to them.
 
-
-
 내가 가장 좋아하는 장면은 그들이 보헤미안 랩소디를 첫곡으로 아주 큰 스타디움에서 공연하는 건데,
-
 나는 그 노래를 들을 때 마다, 나는 그 스타디움의 사람들 중 하나가 되는 기분을 느낀다.
-
 아마도 영화 이름이 퀸이 아니라 보헤미안 랩소디인 이유가 아닐까?
 
 My favorite scene is when they perform Bohemian Rhapsody as the opening song at a large stadium. 
-
 Whenever I listen to that song, I feel like I'm one of the people in that stadium.
-
 Maybe that's why the movie is titled as Bohemian Rhapsody, not Queen.
 
-
-
 결론적으로, 보헤미안 랩소디는 내게 있어 기억에 남는 것 이상으로 잊지 못할 영화이다
-
 Overall, The movie Bohemian Rhapsody is more than just memorable. It's unforgettable for me.
-
-
 
 ### 11. Role playing / 영화 예매
 
@@ -255,29 +192,19 @@ Overall, The movie Bohemian Rhapsody is more than just memorable. It's unforgett
 > - 질문은 3가지는 필수
 
 Hello, there. This is Sam.
-
-~~I'm calling because I'd like to ~~~
-
+~~I'm calling because I'd like to~~
 I'm calling because I'm interested in watching the movie "F1" with my friend.
-
 I heard this movie is really awesome due to cool car racing scenes.
-
 ~~Can I ask some question~~  
-
 ==Q1==. First, Are there any tickets available tonight? I mean after 8 pm.
-
 R1. That's because I think we have to watch it after work. 
 
 ==Q2==. Next, What's the price of the movie tickets?
-
 R1. I need tickets for Two adults. Actually, I prefer some tickets including some snacks like pop corns and soda.
-
 ~~How much does it cost~~
 
 ==Q3==. Lastly, can I cancel the tickets without any cancellation fees?
-
 R1. You know, I may have urgent meetings at my work.
-
 Anyway, please call me back when you get this. Bye
 
 ### 12. Role playing / 문제 발생
@@ -286,24 +213,18 @@ Anyway, please call me back when you get this. Bye
 > - 문제설명 + 해결방법 2개
 
 Hello, there. My name is Sam.
-
 Actually, I have a problem with my movie tickets.
 
 First, I think I received the wrong tickets from you. 
-
 I mean I reserved the tickets for the movie "F1", but the title / of the tickets I **was given** / is "Superman". 
 
 Also, I definitely booked the tickets for the 4DX movie, but the tickets say they are for the regular screen room. 
-
 There must be a huge mistake from you.
 
 To fix this problem/issue, I have two alternatives.
-
-First, I'd like to exchange / the tickets / into the right ones. Alternatively, can you give me a full refund?
-
+First, I'd like to exchange / the tickets / into the right ones. 
+Alternatively, can you give me a full refund?
 Anyway, please let me know the best option. Bye.
-
-
 
 ### 13. 너의 경험과 의견 / 친구가 신작을 봤는데 질문해보기
 
@@ -313,61 +234,40 @@ Anyway, please let me know the best option. Bye.
 2. 가장 최악의/지루한 영화
 
 Hello, John. This is Sam.
-
 I'm calling because I'd like to ask you about the cool movie you've watched a few days ago.
 
-
-
 First, what's the title and genre of the movie?
-
 As you know, I'm not really into horror movies. I’d rather watch a romance.
 
-
-
 Next, How long is the movie? 
-
 If it's more than two and a half hours, I'd like to watch it on the weekend when I more felexiable
 
 As you know, we've watched The Lord of the Rings together before, and  It was so long I fell asleep.
-
-
 
 > [!NOTE]
 >
 > 영화에 대해서 물어보는 질문으로 교체하기
 
 ==Lastly, if the movie is really amazing, how about watching it again with me?
-
 I'll pay for everything, tickets, popcorn, and soda.==
-
-
-
 Anyway, please call me back when you get this. Bye
-
-
 
 ### 13. 영화과 너무 노잼 인데, 떠나고 싶어요
 
 Hey John.
 
 I'm sorry I have a problem with this movie.
-
 The problem is that I feel really bored with the movie.
 
 I haven't' seen the previous movies in the series, so I couldn't really understand the story.
-
 Also, the actor's acting was so bad. I cannot focus on it.
 
 Maybe it’s because I don’t really know who the actors are.
 
 to fix this problem, I have two alternatives.
-
 I have some work to take care of today, so I’ll go ahead and wait at Starbuck while working.
-
 Alternatively, maybe we could go out together and watch the previous movies in the series at home. 
-
 They will be still fun to watch them again.
-
 Anyway, please let me know the best option.
 
 
@@ -443,22 +343,29 @@ Overall, I think the best movies come out when CGI supports human talent while p
 > 할리우드 트럼프 관세, tariff (만능 치트키)
 >
 > 기사 출저? According to the article in CNN, 예시
->
 > I read an interesting article form NY times the other day,
->
 > Also(Next), 나의 의견과 감정을 표현해낸다.(main idea)
 
 > 주제 : AI 
->
 > Contents : 일자리 감소(작가, CG작업), Creative 감소, 예시
 
-영화 사업에 대해서, 사람들은 관세에 대한 이야기를 많이해
+When it comes to concerns in the movie industry, people say that the traditional side is struggling these days.
 
-첫째로, 트럼프 정부가 영화에 대해서도 관세에 예외는 없다
+First, people don’t go to the theater as often as they used to.
+For me, I go to the theater maybe once a year, if at all.
+This is because these days there are many streaming platforms like Netflix and Disney Plus.
+People can watch movies at home in a comfortable atmosphere without going to the theater.
+They can even enjoy them with their favorite food, not just popcorn or soda.
 
-어코딩투 CNN 아티클 내가 읽은
+Next, there is the recent tariff issue. [태맆]
+The Trump administration has announced several new policies about tariffs, and the movie industry is no exception.
+I don’t remember the exact title. But according to a CNN article I read recently, they decided to impose a 100% tariff on the movie industry as well.
+There might be some reasons or positions between the countries, but from my experience, tariff issues usually end up affecting consumers.
+Even in Korea, we already pay more than 20 dollars per person to watch a movie at the theater.
+Ticket prices are already high, and extra tariffs could make it worse.
+So, I’m worried that this will make people spend even less.
 
-
+Overall, I think these are some of the main concerns in today’s movie industry.
 
 ## Musics
 
@@ -622,41 +529,29 @@ What brand do you recommend? Because, my old one is
 
 ### 15. 최신 음악 기기에 대해 설명 ⭐️
 
-When it comes to the latest music electronic gadget(device), people are talking about ....**Open-ear earbuds**
+> When it comes to the latest music electronic gadget(device), people are talking about ....**Open-ear earbuds**
+> First, 제품 소개(브랜드, 모델명)
+> Also, 사고 싶다, 필요한 이유 -> 음악
+>
+> Bose : Ultra open earbuds / 보우즈
 
-First, 제품 소개(브랜드, 모델명)
+When it comes to the latest electronic music gadgets, people are talking about open-ear earbuds these days.
 
-Also, 사고 싶다, 필요한 이유 -> 음악
+First, I'd like to tell you about open-ear earbuds.
+They’re kind of a new style of earbuds
+Normally, earbuds go directly into your ears, but these don't.
+They hang on your ears like earrings.
+Out of many products, I think the Ultra Open Earbuds from Bose are the best.
+As you know, Bose is already known for its sound quality.
+So these days, they are popular with runners and people who enjoy outdoor activities.
 
+Also, I really want to get them
+Wearing regular in-ear earbuds for a long time is painful for my ears.
+So I can’t wear them for over two hours.
+But these can solve that problem.
+What’s more, they’re lightweight and let me hear the sounds around me while listening to music, so I can keep them on all day
 
-
-First, 요즘 나는 오픈 이어 이어 버드라는 제품에 대해서 흥미가 있다.
-
-오픈 이어 이어버드는 하나의 종류 이름인데, 귀에 직접적으로 삽입하는 전형적인 구조가 아니라
-
-귀에 거는 형태로 나오는 제품이야.
-
-각 제조사별로 여러가지 제품들이 나오고 있는데, 
-
-난 특히 보스에서 만든 제품이 특히 유명해
-
-이것은 말했듯이, 귀걸이처럼 귀에 걸어서 쓸 수 있는 제품이야.
-
-귀에서 잘 빠지지 않아 러너들이나 야외 활동을 하는 사람들한테 인기가 있어.
-
-Also, 나도 이것을 사고 싶어.
-
-나는 귀가 아파서 이어폰을 오래 끼고 있지 못해
-
-하지만 이건 귀에 통증을 안줘서 내가 찾던 제품이야.
-
-무게도 가볍고 외부의 소리도 같이 들을 수 있어서
-
-굳이 뺏다 꼈다 하지 않아도 돼.
-
-
-
-
+Overall, I think open-ear earbuds are the latest type of earphones.
 
 ## 공원
 
@@ -718,49 +613,63 @@ Overall, that’s why I really like this park.
 
 > When it comes to going to parks, I have some routines.
 >
-> First, ,
+> First, 
 >
 > Next, 
 >
 > Overall, these are my routines.
 
-When it comes to going to parks, I have some routines
+When it comes to going to a park, I have some routines
 
-첫째, 공원에 가기 전의 루틴이다
+First, before I go to a park,
 
-다음, 공원에 가서의 루틴이다.
+I usually check the weather because I like sunny days the most.
+
+Then, I try to find a park nearby.
+
+Of course, I also make sure the park allows dogs.
+
+After that, I change into comfortable clothes and prepare dog waste bags and some cold water.
+
+Next, when I arrive at the park, 
+
+I put a harness(하ㄹ너스) on my dog and plan our walking route.
+
+Actually, I usually just walk instead of running.
+
+During the walk, I sometimes sit on a bench and take a short break
+
+Sometimes, I throw my dog’s toys and play with her.
 
 Overall, these are my routines.
 
 ### Memorable park 사건 ⭐️
 
 > 방학숙제 사기 치기,
+> homework는 불가산 명사 + assignments 붙이기
+> 
 
-내 생각에는 나의 가장 기억에 남는 공원에서의 이벤트는
+I think the most memorable event in a park for me was golfing there.
 
-공원에서 골프를 친 것 이였다.
+First, to be more specific about it, 
 
-그것에 대해 좀 자세히 말해줄께
+it was when I was around thirteen.
 
-내가 13살 정도 되었을 떄 였어, 한국에서는 방학숙제라는게 조금 중요하다.
+In Korea, vacation homework is important.
 
-방학 숙제 중 하나가 새로운 야외활동을 체험해보기 였다.
+At that time, one of my vacation homework assignments was to experience a new outdoor activity.
 
-나는 그다지 액티비티 한 사람이 아니라서, 아빠의 취미인 골프 하기로 결심했었다.
+Since the vacation was almost over, I decided to play golf which is my father’s hobby.
 
-나는 타이거 우즈 자세를 몇개 찾아봤었고
+I took the shortest one of my father's golf clubs and went to the park nearby.
 
-아빠의 골프채중 가장 짧은 것을 들고, 집앞 공원으로 갔다.
+Then, I tried to imitate *Tiger Woods*’s swing I had looked up on the internet.
 
-그리고 공원에서 그자세들을 따라하며, 골프를 쳤다.
+To be exact, I didn’t actually play golf, I just pretended to, because I only did practice swings without a ball.
 
-정확히 말하면 골프를 친 것이 아닌 골프를 치는 척 한 것이였다.
+When I think about how ridiculous I must have looked to people, it still makes me laugh
 
-왜냐면, 공없이 빈스윙만 한 것이였거든.
-
-지금에 와서 생각해도 그떄 산책하는 사람들이 나를 얼마나 우스광스럽게 봤을지 생각하면 웃음이 난다.
-
-어버롤, 지금은 진짜 골프를 배우기 시작했다. 하지만 공원에서 골프를 치는 일은 다시는 없을꺼야
+Overall, I’ve actually started learning real golf now, but I will never play golf in a park again.
 
 ### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄) ⭐️
 
@@ -769,12 +678,28 @@ Overall, these are my routines.
 > 내가 저나했어, 너랑 공원가고시포서
 >
 > 왜냔면 우리 안본지 좀 오래됐잖아? 
+>
+> Q1. First, 언제/요일 구체적으로? 숫자? 요일?
+>
+> Q2. 같이 할 수 있는 활동 ? (Why don't we R? , How about S+V?)
+> 
+> Q3. 준비물/교통편/만나는 장소
 
-Q1. First, 언제/요일 구체적으로? 숫자? 요일?
+Hi Angela, This is Sam.
+I'm calling because I'd like to go to the park we went to before with you.
+It's been a while since we hung out.
+So I have some questions.
 
-Q2. 같이 할 수 있는 활동 ? (Why don't we R? , How about S+V?)
+First, Are you free this Saturday, the 16th?
+According to the weather forecast, it’s going to be really sunny.
 
-Q3. 준비물/교통편/만나는 장소
+Next, Can I bring my dog so we can go for a walk together?
+Because you told me before you wanted to see her.
+
+finally, I can pick you up by my car. How about meeting in front of the CVS near your house?
+
+Anyway, please call me back when you get this. Bye.
+
 
 ### 12.친구와 공원가기로 이미 했는데, 나의 사정으로 약속을 취소해야함. 대안 2개 ⭐️
 
@@ -818,12 +743,24 @@ I'm really sorry, but I think I have to cancel our plan.
 
 다시한번 정말 미안해
 
+Hi Angela, this is Sam.
 
+We were supposed to go to the park this Saturday, right?
+I’m really sorry, but I think I have to cancel our plan.
 
+That's because I completely forgot that it’s my wife’s birthday that day.
+And as you know, my wife can be really scary.
+I was really looking forward to having chicken and beer with you at the park, so I feel so disappointed.
 
+To fix the problems, I have two alternatives.
+First, how about going to the park nearby tonight?
+I can purchase some snacks and beer by CVS in front of the park.
 
+Alternatively, how about rescheduling for next Saturday?
+Of course, the chicken and beer will be on me.
 
-
+Again, I’m really sorry.
+plese let me know the best option. Bye
 
 
 ### 13. 기억에 남는 사건 (재탕) ⭐️
