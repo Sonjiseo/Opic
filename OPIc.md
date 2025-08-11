@@ -808,7 +808,7 @@ Again, I’m really sorry.
 
 
 
-**First,** about adults's activities in the park.
+**First,** about adults' activities in the park.
 
 They usually go for a walk or sometimes do light jogging.
 
@@ -826,15 +826,15 @@ They do more active things, just like I used to.
 
 For example, they enjoy riding bikes, playing ball games, and running.
 
-Recently, I went to the park near my house with my nephew.
+Recently, I went to the park near my place with my nephew.
 
-At the park, my nephew was totally in his element.
+At the park, he was totally in his element.
 
 I was having fun too, but I just couldn’t **keep up with** his energy / 따라 잡다, 뒤쳐지지 않다
 
 I think children use the park to burn energy, while adults use it to recharge.
 
-Still, both enjoy their time there in their own way.
+Still, they each enjoy the place in their own way.
 
 
 
@@ -852,15 +852,37 @@ Still, both enjoy their time there in their own way.
 >
 > ​	편의 시설, 크기, 위치
 
-When it comes to the parks I visit most often, I'd like to tell you about Buldang Park and Seongjeong Lake Park which are my favorites.
+When it comes to the parks I visit most often, I’d like to talk about Buldang Park and Seongjeong Lake Park, which are my favorites.
 
 
 
-First, The two parks have some things in common.
+First, these two parks have a lot in common.
+
+Both are just about ten minutes from my place, which makes them very convenient to visit.
+
+For me, the best park is close and easy to visit, not just nice-looking.
+
+Of course, both parks allow dogs and are kept clean since they’re managed by the city.
+
+Plus, there’s a Starbucks right at the entrance of each park, so I usually grab an iced Americano and walk my dog.
 
 
 
+However, there are also some differences.
 
+As you can guess from the names, one has a lake and the other doesn’t.
+
+If I want to walk by the water, I go to Seongjeong Lake Park.
+
+But if I want to walk through the forest, I head to Buldang Park.
+
+Around the lake park, there are fancier coffee shops and restaurants, while the other park feels more like a regular city park.
+
+My dog is a little timid, so when I take her to the more crowded lake park I keep a closer eye on her.
+
+
+
+Overall, those are the main similarities and differences.
 
 
 
@@ -874,15 +896,22 @@ When it comes to problems public parks face, people are talking about .... And .
 
 
 
-When it comes to problems public parks face, people are talking about vandalism and drinking problems.
+When it comes to problems public parks face, people usually talk about drinking and vandalism.
 
+First, one concern is public drinking in parks.
+In Korea, the rules are not very strict about drinking in these places.
+I’ve also enjoyed hanging out with friends at Hangang Park, drinking beer and eating snacks.
+Light drinking, like one or two cans of beer, doesn’t usually cause big problems.
+But sometimes, some people get really drunk. They get loud, use bad language, and act rudely.
+This is a real problem because many families visit parks, including young children. Such behavior can negatively influence children and ruin someone’s peaceful rest.
 
+Next, there’s vandalism.
+Most parks in Korea are public spaces.
+Some people, including drunk ones, sometimes damage the facilities made for citizens’ convenience.
+They might play roughly with outdoor exercise equipment or vandalize public property with graffiti.
+For example, just yesterday when I was walking my dog, I saw a bench covered with bad words.
 
-첫번째로, 공공기물 파손이다.
-
-
-
-한국에서는 대부분의 공원은 퍼블릭 공원이다.
+Overall, these are some of the main problems public parks face.
 
 
 
