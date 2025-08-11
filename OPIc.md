@@ -244,28 +244,24 @@ If it's more than two and a half hours, I'd like to watch it on the weekend when
 
 As you know, we've watched The Lord of the Rings together before, and  It was so long I fell asleep.
 
-> [!NOTE]
->
-> 영화에 대해서 물어보는 질문으로 교체하기
+Lastly, what was the movie about? Can you tell me a little bit about the story?
 
-==Lastly, if the movie is really amazing, how about watching it again with me?
-I'll pay for everything, tickets, popcorn, and soda.==
-Anyway, please call me back when you get this. Bye
+Anyway, please call me back **when** you get this. Bye
 
 ### 13. 영화과 너무 노잼 인데, 떠나고 싶어요
 
-Hey John.
+Hey, Brian
 
 I'm sorry I have a problem with this movie.
 The problem is that I feel really bored with the movie.
 
-I haven't' seen the previous movies in the series, so I couldn't really understand the story.
+I haven't seen the previous movies in the series, so I couldn't really understand the story.
 Also, the actor's acting was so bad. I cannot focus on it.
 
 Maybe it’s because I don’t really know who the actors are.
 
 to fix this problem, I have two alternatives.
-I have some work to take care of today, so I’ll go ahead and wait at Starbuck while working.
+so I’ll go ahead and wait at Starbuck while reading some books.
 Alternatively, maybe we could go out together and watch the previous movies in the series at home. 
 They will be still fun to watch them again.
 Anyway, please let me know the best option.
@@ -336,11 +332,11 @@ Overall, I think the best movies come out when CGI supports human talent while p
 >
 > When it comes to concerns in the **movie industry**, people are talking about ____.
 >
-> 쿠키 커러 , 포뮬레잌, 프레딕터블
+> 흔해빠진? 쿠키 커러 , 포뮬레잌, 프레딕터블
 >
 > Theater attendance = 관객.
 >
-> 할리우드 트럼프 관세, tariff (만능 치트키)
+> 할리우드 트럼프 관세, tariff (만능)
 >
 > 기사 출저? According to the article in CNN, 예시
 > I read an interesting article form NY times the other day,
@@ -349,7 +345,9 @@ Overall, I think the best movies come out when CGI supports human talent while p
 > 주제 : AI 
 > Contents : 일자리 감소(작가, CG작업), Creative 감소, 예시
 
-When it comes to concerns in the movie industry, people say that the traditional side is struggling these days.
+When it comes to concerns in the movie industry, people say that that the traditional side is struggling these days.
+
+영화 산업에 대한 걱정에 대해서, 사람들은 요즘 기존의 산업이 축소되는 것을 말한다.
 
 First, people don’t go to the theater as often as they used to.
 For me, I go to the theater maybe once a year, if at all.
@@ -357,13 +355,43 @@ This is because these days there are many streaming platforms like Netflix and D
 People can watch movies at home in a comfortable atmosphere without going to the theater.
 They can even enjoy them with their favorite food, not just popcorn or soda.
 
+첫쨰, 사람들이 예전처럼 영화관에 잘 가지 않음
+
+나도 아마 일년에 한번 갈까함
+
+왜냐면, 요즘 스트리밍 플랫폼이 많음 : 넷플릭스, 디즈니 플러스
+
+사람은 집에서 그냥 영화볼 수 있음 편안한 분위기에서, 영화관에 안가고
+
+심지어 최애 음식이랑 즐길 수 있음, 팝콘 소다 말고
+
 Next, there is the recent tariff issue. [태맆]
+
 The Trump administration has announced several new policies about tariffs, and the movie industry is no exception.
+
 I don’t remember the exact title. But according to a CNN article I read recently, they decided to impose a 100% tariff on the movie industry as well.
+
 There might be some reasons or positions between the countries, but from my experience, tariff issues usually end up affecting consumers.
+
 Even in Korea, we already pay more than 20 dollars per person to watch a movie at the theater.
+
 Ticket prices are already high, and extra tariffs could make it worse.
+
 So, I’m worried that this will make people spend even less.
+
+다음, 최근 관세 문제가 있음
+
+트럼프 정부는 몇가지 관세 정책를 발표함, 영화도 예외는 없음
+
+정확히 제목은 기억안나지만, 내가 최근에 본 CNN 기사에 따르면, 100퍼 영화에도 관세 부과하기로 함.
+
+뭐 나라간 각자 이유나 입장이 있겠지만 내 경험상 관세는 결국 소비자한테 영향을 줌
+
+한국에서도, 이미 인당 20달러 넘게 냄 영화관에서 영화보는데,
+
+티켓 값 이미 비싼데, 추가 관세는 이걸 더 안좋게 할 것 같음
+
+사람들이 돈 더 안쓰게 만들까봐 걱정임
 
 Overall, I think these are some of the main concerns in today’s movie industry.
 
@@ -371,16 +399,16 @@ Overall, I think these are some of the main concerns in today’s movie industry
 
 ### 1. Genre
 
-I think I really enjoy jazz music. To be more specific, I prefer jazz pop to traditional jazz.
+**I think I really enjoy** jazz music. To be more specific, I prefer jazz pop to traditional jazz.
 
-First, jazz has special charm that draws me in before I know it.
+**First,** jazz has special charm that draws me in before I know it.
 I remember the first time I went to a jazz bar with my friends.
 I used to listen to K-pop, so jazz was a completely / new kind of music to me.
 To be honest, I thought a jazz bar was / nothing more than a fancy bar.
 However, **at some point**, I realized that we were just sitting there, focused on the stage.
 We stopped talking and started imagining the meaning behind the lyrics.
 
-Next, Jazz makes me feel **classy**.
+**Next,** Jazz makes me feel **classy**.
 Whenever I go through something emotional, I spend some time alone, listening to jazz.
 One of my favorite songs is Don't Know Why by Norah Jones.
 When I close my eyes and listen, **it changes how I feel.**
@@ -388,7 +416,7 @@ On good days, it makes me feel like a classy gentleman.
 On the other hand, On sad days, it makes me feel like the main character in a sad movie.
 Jazz makes my emotions feel more meaningful and deep.
 
-Overall, these are the reasons why I love jazz(줴즈) music.
+**Overall,** these are the reasons why I love jazz(줴즈) music.
 
 ### 2. routine (2 mins under)
 
@@ -400,21 +428,21 @@ Overall, these are the reasons why I love jazz(줴즈) music.
 >   - 노이즈캔슬링
 >   - 째
 
-When it comes to / listening to music, / I have some routines.
+**When it comes to** / listening to music, / **I have some routines.**
 And It depends on situations.
 
-First, when I listen to music while working or studying, I need to stay focused.
+**First,** when I listen to music while working or studying, I need to stay focused.
 So, I usually listen to upbeat songs with little or no meaningful lyrics, like EDM or some K-pop songs.
 Among them, my favorite song is The Drum by Alan Walker.
 This song makes me feel excited and energetic, it helps me work or study more effectively.
 Also, I always make sure to listen to them using my noise-cancelling AirPods.
 
-The next routine is about the music I listen to when I drive.
+**The next routine is about** the music I listen to when I drive.
 Driving is one of the few times I’m alone, so I listen to jazz which is my favorite genre[쟌러].
 That's because I can sing along without worrying about anyone hearing me.
 Naturally, I turn up the volume and let the music fill the car
 
-Overall, these are my routines about the music.
+**Overall,** these are my routines about the music.
 
 
 
@@ -424,49 +452,37 @@ Overall, these are my routines about the music.
 >
 > - K-pop, Idols -> girl groups (예브고 신난, 중독성, 단순한 멜로디, 따라 부르기 좋음) / 소시, 원더걸스, Hook song
 > - However, These days, ----------- because of 나 due to 원인 간단하게?
+>
+> 톤업, 혀굴리기, 루즈함
 
 나의 음악 취향에 대해서, 과거와 현재에 일부 차이점이 있다.
 
-물론 음악 트랜드가 많이 변했지만, 나의 음악 취향이 어떻게 변했는지 말해주고싶어.
+~~물론 음악 트랜드가 많이 변했지만, 나의 음악 취향이 어떻게 변했는지 말해주고싶어.~~
 
-When it comes to my music tastes, there are some differences between the past and the present.
+**When it comes to** my music tastes, **there are some differences between the past and the present.**
 
-Although music trends have changed over time with each generation, I'd like to focus more on how my music taste has evolved.
+~~Although music trends have changed over time with each generation, I'd like to focus more on how my music taste has evolved.~~
 
 첫째, 과거에는, 나는 신나는 음악이나 따라부리기 좋은 노래를 선호했다
-
 왜냐면 내가 어릴때 나는 자주 친구들과 가라오케에서 시간을 보냈다.
-
-거기서 우리는 대부분 K-POP을 불렀는데, 그것들이 따라부르기도 쉽고 신나는 노래들이였다.
-
+거기서 우리는 대부분 K-POP을 불렀는데, 그것들이 따라 부르기도 쉽고 신나는 노래들이였다.
 누가 뭐래도, 그 순간들 만큼은 우리는 아이돌이 된 것처럼 노래를 불렀다.
 
-First, in the past, I used to prefer upbeat songs or ones that were easy to sing along to, like K-pop.
-
+**First, in the past,** I used to prefer upbeat songs or ones that were easy to sing along to, like K-pop.
 That’s because, when I was younger, I often spent time with my friends at karaoke.[ki]
-
 We mostly sang K-pop songs there, and they were not only easy to sing along. but also energetic and fun.
-
 No matter what anyone said, in those moments, we sang like we were real idols.
 
 하지만, 지금은, 나는 차분하고 조용한 음악을 선호한다
-
 삶이 바빠지면서, 나는 음악을 신나기 위해서 보단 쉬기위해서 듣는다.
-
 게다가 나이를 먹으며, 가사의 숨은 의미를 더 잘 이해하게 됐는데,
-
 이런 이유로 나는 내가 더를 더 감동시키는 내가 말한 음악들을 좋아한다
-
 최근에는 노러 죤즈의 선라이즈를 듣고 있는데, 평온한 삶을 상상하게 해준다.
 
-However, these days, I prefer calm and quiet music.
-
+**However, these days,** I prefer calm and quiet music.
 As my life has gotten busier, I listen to music to relax, not to get excited.
-
 What’s more, as I’ve grown older, I’ve started to understand the meaning behind lyrics more deeply
-
 Because of that, I like the kind of music I mentioned earlier, which touches me more emotionally.
-
 Recently, I’ve been listening to "Sunrise" by Norah Jones and it helps me imagine a peaceful life.
 
 한가지 변치 않는건, 둘다 여전히 나를 기쁘게 해준다
@@ -475,7 +491,7 @@ One thing that hasn’t changed is both still give me pleasure.
 
 전체적으로 이것들이 오늘과 과거의 차이다.
 
-Overall, these are the differences between the past and the present.
+**Overall,** these are the differences between the past and the present.
 
 ### 3. 콘서트(Concert or Live music) 들은 경험,언제,누구랑,누구의 공유
 
@@ -535,23 +551,65 @@ What brand do you recommend? Because, my old one is
 >
 > Bose : Ultra open earbuds / 보우즈
 
-When it comes to the latest electronic music gadgets, people are talking about open-ear earbuds these days.
+**When it comes to** the latest electronic music gadgets, **people are talking about** open-ear earbuds these days.
 
-First, I'd like to tell you about open-ear earbuds.
-They’re kind of a new style of earbuds
+최신 전자 음향기기에 대해, 사람들은 오픈 이어 이어버즈를 이야기함
+
+
+
+**First,** I'd like to tell you about open-ear earbuds in detail.
+
+오픈 이어 이어버즈에 대해서 이야기하고 싶음
+
+They’re kind of a new style of earbuds.
+
+새로움 스타일의 이어버즈임
+
 Normally, earbuds go directly into your ears, but these don't.
-They hang on your ears like earrings.
+
+보통 이버즈는 귓구멍에 직접 꽂는데, 이것들은 안그럼
+
+They just hang on your ears like earrings.
+
+그냥 귀에 귀걸이처럼 검
+
 Out of many products, I think the Ultra Open Earbuds from Bose are the best.
+
+많은 제품 중에, 보스의 울트라 오픈 이어버즈가 최고임
+
 As you know, Bose is already known for its sound quality.
+
+너도 알다 시피, 보스는 이미 사운드에 돼해서는 잘 알려져있음
+
 So these days, they are popular with runners and people who enjoy outdoor activities.
 
-Also, I really want to get them
-Wearing regular in-ear earbuds for a long time is painful for my ears.
-So I can’t wear them for over two hours.
-But these can solve that problem.
+그래서 요즘, 러너랑 아웃도어 할동 즐기는 사람한테 인기임
+
+
+
+**Also,** I really want to get them
+
+물론 나도 그걸 가지고 싶음
+
+I already have AirPods Pro, but wearing regular in-ear earbuds like them for a long time is painful for my ears.
+
+보통 인이어 이어버즈 오래 쓰면 귀가 아픔
+
+So I can’t wear them for more than two hours.
+
+그래서 나는 두시간 이상 못씀
+
+According to many reviews on the official website, these don’t hurt users ears, so they can solve that problem.
+
+근데 이건 이걸 해결해줄 수 있음
+
 What’s more, they’re lightweight and let me hear the sounds around me while listening to music, so I can keep them on all day
 
-Overall, I think open-ear earbuds are the latest type of earphones.
+더해서, 그것들은 가볍고 음악과 함께 주변소리를 들을 수 있어서 하루종일 착용 가능
+
+
+
+**Overall,** I think open-ear earbuds are the latest type of earbuds.
 
 ## 공원
 
@@ -561,9 +619,9 @@ Overall, I think open-ear earbuds are the latest type of earphones.
 
 단순히 가는 것만으로 건강해지는 기분이다.
 
-I think I love going to a park and spending time there.
+**I think** I love going to a park and spending time there.
 
-Just going to the park makes me feel healthier.
+Just going to a park makes me feel healthier.
 
 
 
@@ -575,13 +633,13 @@ Just going to the park makes me feel healthier.
 
 강아지도 허용되어 있어 나를 포함한 많은 사람들이 강아지와 산책을 한다.
 
-First, I think Buldang Park is the one I like and visit most often.
+**First,** I think Buldang Park is the one I like and visit most often.
 
 The park is located next to City Hall in Cheonan, where I live.
 
 I usually go there on Sundays if the weather is nice.
 
-Since dogs are allowed there, a lot of people, including me, enjoy walking their dogs.
+Since dogs are allowed==[얼라우드]== there, a lot of people, including me, enjoy walking their dogs.
 
 
 
@@ -595,7 +653,7 @@ Since dogs are allowed there, a lot of people, including me, enjoy walking their
 
 거기를 노래를 들으며 걸으면 숲속에 있는 기분이다.
 
-Next, there are some serveral reasons why I like there
+**Next,** there are some reasons why I like there
 
 I usually prefer bigger parks, and this one is the biggest neaby.
 
@@ -607,7 +665,7 @@ When I walk along there while listening to the music, it feels like I’m in a f
 
 
 
-Overall, that’s why I really like this park.
+**Overall,** that’s why I really like this park.
 
 ### 공원 루틴 ⭐️
 
@@ -619,9 +677,11 @@ Overall, that’s why I really like this park.
 >
 > Overall, these are my routines.
 
-When it comes to going to a park, I have some routines
+**When it comes to** going to a park, **I have some routines**
 
-First, before I go to a park,
+
+
+**First**, before I go to a park,
 
 I usually check the weather because I like sunny days the most.
 
@@ -631,9 +691,11 @@ Of course, I also make sure the park allows dogs.
 
 After that, I change into comfortable clothes and prepare dog waste bags and some cold water.
 
-Next, when I arrive at the park, 
+**Next,** when I arrive at a park, 
 
-I put a harness(하ㄹ너스) on my dog and plan our walking route.
+
+
+I put a harness(하네스) on my dog and plan our walking route.
 
 Actually, I usually just walk instead of running.
 
@@ -641,23 +703,24 @@ During the walk, I sometimes sit on a bench and take a short break
 
 Sometimes, I throw my dog’s toys and play with her.
 
-Overall, these are my routines.
+
+
+**Overall,** these are my routines.
 
 ### Memorable park 사건 ⭐️
 
 > 방학숙제 사기 치기,
 > homework는 불가산 명사 + assignments 붙이기
-> 
 
-I think the most memorable event in a park for me was golfing there.
+**I think** the most memorable event in a park for me was golfing there.
 
-First, to be more specific about it, 
+**First,** to be more specific about it, 
 
 it was when I was around thirteen.
 
 In Korea, vacation homework is important.
 
-At that time, one of my vacation homework assignments was to experience a new outdoor activity.
+At that time, one of my vacation assignments  was to experience a new outdoor activity.
 
 Since the vacation was almost over, I decided to play golf which is my father’s hobby.
 
@@ -667,9 +730,9 @@ Then, I tried to imitate *Tiger Woods*’s swing I had looked up on the internet
 
 To be exact, I didn’t actually play golf, I just pretended to, because I only did practice swings without a ball.
 
-When I think about how ridiculous I must have looked to people, it still makes me laugh
+When I think about how ridiculous I must have looked to people, it still makes me laugh.
 
-Overall, I’ve actually started learning real golf now, but I will never play golf in a park again.
+**Overall,** I’ve actually started learning real golf now, but I will never play golf in a park again.
 
 ### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄) ⭐️
 
@@ -685,87 +748,47 @@ Overall, I’ve actually started learning real golf now, but I will never play g
 > 
 > Q3. 준비물/교통편/만나는 장소
 
-Hi Angela, This is Sam.
-I'm calling because I'd like to go to the park we went to before with you.
-It's been a while since we hung out.
-So I have some questions.
+**Hi Angela, This is Sam.**
+**I'm calling because I'd like to** go to the park we went to before with you.
+It's been a long time since we hung out.
+**So I have some questions.**
 
-First, Are you free this Saturday, the 16th?
+**First,** Are you free this Saturday, the 16th?
 According to the weather forecast, it’s going to be really sunny.
 
-Next, Can I bring my dog so we can go for a walk together?
+**Next,** Can I bring my dog so we can go for a walk together?
 Because you told me before you wanted to see her.
 
-finally, I can pick you up by my car. How about meeting in front of the CVS near your house?
+**Lastly**, I can pick you up by my car. How about meeting in front of the CVS near your place?
 
-Anyway, please call me back when you get this. Bye.
+**Anyway, please call me back when you get this. Bye.**
 
 
 ### 12.친구와 공원가기로 이미 했는데, 나의 사정으로 약속을 취소해야함. 대안 2개 ⭐️
 
-Do you remember we supposed to go to a park on the Thursday.
+**Hi Angela, this is Sam.**
 
-I'm really sorry, but I think I have to cancel our plans for this week.
-
-긴급한일정이 생겻다
-
-너도 요즘 내가 바밨잔아.
-
-파이널 세미나가 열린꺼다.
-
-이해 해줬으면 좋겟다.
-
-(둘의 계획 설명, 아쉬움)
-
-리스케쥴
-
-Hello Angela, This is Sam.
-
-Do you remember we supposed to go to a park on the Saturday 
-
-I'm really sorry, but I think I have to cancel our plan.
-
-진짜로, 너랑 공원에서 치킨에 맥주마시는 걸 기대하고 있었는데,
-
-안타깝게, 그날이 나의 와이프 생일인 걸 완전 새까맣게 잊고 있엇어
-
-너도 알다시피 내 와이프가 화나면 한달은 가거든..
-
-이것을 해결하기위해, 오늘 밤에 시간 괜찮으면 집앞 공원에 가는 건 어때.
-
-거기 CVS에서 간단한 칩이랑 맥주를 사서 놀자.
-
-그게 어려우면 다음주 토요일로 리스케쥴하자. 
-
-사죄의 의미로 내가 맥주 살꼐.
-
-최고의 옵션을 알려줘 
-
-다시한번 정말 미안해
-
-Hi Angela, this is Sam.
-
-We were supposed to go to the park this Saturday, right?
+We are supposed to go to the park this Saturday, right?
 I’m really sorry, but I think I have to cancel our plan.
 
 That's because I completely forgot that it’s my wife’s birthday that day.
 And as you know, my wife can be really scary.
 I was really looking forward to having chicken and beer with you at the park, so I feel so disappointed.
 
-To fix the problems, I have two alternatives.
-First, how about going to the park nearby tonight?
+**To fix the problem, I have two alternatives.**
+**First,** how about going to a park nearby tonight?
 I can purchase some snacks and beer by CVS in front of the park.
 
-Alternatively, how about rescheduling for next Saturday?
+**Alternatively,** how about rescheduling for next Saturday?
 Of course, the chicken and beer will be on me.
 
 Again, I’m really sorry.
-plese let me know the best option. Bye
+**please let me know the best option. Bye**
 
 
 ### 13. 기억에 남는 사건 (재탕) ⭐️
 
-### 14. 공원에서의 어른 vs 아이 활동 비교
+### 14. 공원에서의 어른 vs 아이 활동 비교 😇
 
 > + 공통점과 차이점을 같이
 >
@@ -781,7 +804,45 @@ plese let me know the best option. Bye
 >
 > Overall, 
 
-### 14. 자주 가는 공원 2개 비교
+**When it comes to** activities in the park, **there are some differences between** children **and** adults.
+
+
+
+**First,** about adults's activities in the park.
+
+They usually go for a walk or sometimes do light jogging.
+
+Some people run in groups, and running crews are a big trend in Korea right now.
+
+Sometimes they bring food and drinks to have a picnic, and parents take photos while playing with their kids.
+
+In my opinion, adults usually spend more time relaxing or making memories than doing active things.
+
+
+
+**Next,** about children's activities in the park.
+
+They do more active things, just like I used to.
+
+For example, they enjoy riding bikes, playing ball games, and running.
+
+Recently, I went to the park near my house with my nephew.
+
+At the park, my nephew was totally in his element.
+
+I was having fun too, but I just couldn’t **keep up with** his energy / 따라 잡다, 뒤쳐지지 않다
+
+I think children use the park to burn energy, while adults use it to recharge.
+
+Still, both enjoy their time there in their own way.
+
+
+
+**Overall, I think these are the differences between** children **and** adults.
+
+
+
+### 14. 자주 가는 공원 2개 비교 😇
 
 > First, 공통점
 >
@@ -791,13 +852,41 @@ plese let me know the best option. Bye
 >
 > ​	편의 시설, 크기, 위치
 
-### 15. 공공 공원이 직면한 문제,
+When it comes to the parks I visit most often, I'd like to tell you about Buldang Park and Seongjeong Lake Park which are my favorites.
+
+
+
+First, The two parks have some things in common.
+
+
+
+
+
+
+
+### 15. 공공 공원이 직면한 문제, 😇
 
 > Public parks face, 문제 2개
 
 When it comes to problems public parks face, people are talking about .... And ...... .
 
 불법 노숙, 캠핑, 음주, 흡연, 공공기물 파손(vandalism),  
+
+
+
+When it comes to problems public parks face, people are talking about vandalism and drinking problems.
+
+
+
+첫번째로, 공공기물 파손이다.
+
+
+
+한국에서는 대부분의 공원은 퍼블릭 공원이다.
+
+
+
+
 
 ## Domestic trip
 
@@ -825,6 +914,104 @@ When it comes to problems public parks face, people are talking about .... And .
 
 > 베게 싸움하다가 다쳤다. 폐교체험
 
+### 3. 잊지 못할 기억 언제, 누구랑, 어디서
+
+### 14. 어려워 졌다 최근 5년간. (과거/현재 비교)
+
+> There are differences between the pas and the present about traveling domestically.
+>
+> First, 교통체증, Over tourism, 해외 여행 증가로 국내 여행산업이 어려워짐, 바기지 요금, 특성없이 획일화
+>
+> ​	+ Example 나,가족,친구의 경험, 
+>
+> Also, 
+>
+> Overall, 마무리(짧게)
+
+### 15. 여행 걱정과 우려
+
+> When it comes to concerns about travels, people are talking about --- and ---.
+>
+> - 분쟁지역이 많아서 조심히 다녀와야함
+> - 시위지역 많아져서 조심히 다녀왐 (LA여행)
+> - 오버투어리즘, 범죄가 증가했다, 인종차별, 인신매매 위험이 높아짐
+
+## 해외여행
+
+### 1. 기억에 남는 해외여행 국가나 도시
+
+> 서울을 도쿄 등 처럼 바꾸기? 너무 잘아는데 하기 조심, 홍콩, 
+
+### 2. 다른 나라가서 하는 일
+
+> 활동 위주,
+>
+> Local beer, booze
+>
+> 로컬 마켓(나이트 마켓), 기념품, 포즈하나 정해서 셀카 찍기, 화폐를 사온다. 로컬 담배 사오기,
+
+### 2. 유명한 해외 여행지(잘 안나옴)
+
+### 3. 첫 여행 언제 어디 누구 어디
+
+> 토론토(강매,초딩), 뉴욕   
+
+### 3. 잊지 못할 여행에서의 경험
+
+### 11. 여행사에 전화해서 국내여행 
+
+> I'm calling because I'm  interested in / I'd like to ask you a few questions about ----
+>
+> Traveling domestically alone / traveling to Busan/Jeju island alone.
+>
+> From August 1st to August 5th alone.
+>
+> First, are there any flight tickets available during those periods?
+>
+> Actually, I don't prefer Low Cost Carriers.
+>
+> Also, Can you tell me what hotel have an airplane shuttle.
+>
+> (Can you tell me about the hotels that allow pets?
+>
+> I think I'm gonna be with my dog there)
+>
+> Lastly, Do you have any idea for one-person activities?
+>
+> I heard taking a paddle boat should be the fun.
+
+### 11. 환불 불가 , 다음주 여행 취소
+
+> 나의 사정, 해결책
+
+- 저번주에 환불 불가 티켓을 샀는데,
+- 다음주 0 요일에 파리가는 비행기를 예약했음
+- 요통, 아이가 아프다, 음주운전으로 출국정지, 비자만료/거부
+- 해결책
+  - 리스케줄(한달뒤, 2주뒤)
+  - 양도 가능한지 / 친구나 가족
+  - 마일리지로 전환 가능한지
+
+### 12. 전화/ 일정이 안댄다고 알려줌
+
+> 날짜, 장소 특정, 상품, 숙소, 티켓
+>
+> 속상한 마음, 감정 넣기 / What a bummer, right? 까비
+>
+> 한달 전부터 기대했잖아
+>
+> 해결책, 리스케줄, different location,
+
+### 14. 과거 현재 비교 / Max 10년
+
+> 환전 방법, 테크놀로지 발달, 비자(중국), 숙박업소가 다양해졌다(에어비앤비, 쉐어하우스), AI번역기
+>
+> 기술의 발전
+
+### 15. 해외여행이 어떻게 변했는지 과거/현재, 여려워졌냐 쉬워졌나
+
+>  국내여행으로
+
 ## Note
 
 ### Vocabulary
@@ -844,6 +1031,16 @@ When it comes to problems public parks face, people are talking about .... And .
 > A piece of music
 >
 > Bottled water.
+>
+> Especially, in particular, particularly : 특히
+>
+> Resonate with me : 울림이 있다.
+
+The good place season 1 episode 1
+
+Modern Family
+
+Friends
 
 > Come up with ~ : 뭔가 떠올리다
 > Figure out : 이해하다
@@ -859,6 +1056,8 @@ When it comes to problems public parks face, people are talking about .... And .
 > Go over : 검토하다
 > Look forward to ~ : 기대하다
 > Stand out : 눈에 띄다
+>
+> Millennials, GenZ : MZ
 
 > Nailed it : 해냈어
 >
