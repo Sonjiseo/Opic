@@ -1022,11 +1022,39 @@ Overall, these are some of the main problems public parks face.
 >
 > Overall,
 
-I love 
+I think one of my favorite domestic destination is Seoul, the capital city of South Korea.
+
+First, there are many things to enjoy.
+
+I actually live in a quiet countryside town. So when I go on dates or hang out with friends, I often visit Seoul.
+
+That's because there are always new things to experience like night markes, pop-up stores, various events and so on.
+
+For example, last month I tried the service which called “Nike By You"
+
+Nike By You is a service that lets you design your own Nike products.
+
+It’s only available at certain Nike stores in Seoul.
 
 
 
+Next, it's very convenient to get around.
 
+In Seoul, I can go anywhere just by subway.
+
+If I set my destination on any popular map application on my phone.
+
+It gives me all the information I need.
+
+For example, it shows the exit number near my destination, the expected train arrival time, and the door number for the fastest transfer.
+
+Even if you miss a train, the next one usually comes within five minutes.
+
+That’s why I never take my own car when I visit the city.
+
+
+
+Overall, that’s why I go to Seoul so often.
 
 ### 2. 여행 준비 루틴 😎
 
