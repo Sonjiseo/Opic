@@ -326,7 +326,7 @@ Even so, CGI which stands for Computer Generated Imagery helps us experience mov
 
 Overall, I think the best movies come out when CGI supports human talent while preserving it.
 
-### 15. 요즘 영화에 관해서 사람들이 말하는 우려, 걱정 ⭐️
+### 15. 요즘 영화에 관해서 사람들이 말하는 우려, 걱정
 
 > 영화관을 잘 안가는 거, Streaming platform, Expensive ticket price, (+News 사례)
 >
@@ -345,15 +345,15 @@ Overall, I think the best movies come out when CGI supports human talent while p
 > 주제 : AI 
 > Contents : 일자리 감소(작가, CG작업), Creative 감소, 예시
 
-When it comes to concerns in the movie industry, people say that that the traditional side is struggling these days.
+When it comes to concerns in the movie industry, people say that the traditional side is struggling these days.
 
 영화 산업에 대한 걱정에 대해서, 사람들은 요즘 기존의 산업이 축소되는 것을 말한다.
 
-First, people don’t go to the theater as often as they used to.
-For me, I go to the theater maybe once a year, if at all.
-This is because these days there are many streaming platforms like Netflix and Disney Plus.
+First, people don’t go to the theater **as often as** they used to.
+For me, I go to the theater maybe once a year, **if at all.**
+That's because these days there are many streaming platforms like Netflix, Disney Plus and Amazon prime.
 People can watch movies at home in a comfortable atmosphere without going to the theater.
-They can even enjoy them with their favorite food, not just popcorn or soda.
+They can even **enjoy** them with their favorite food, not just popcorn or soda.
 
 첫쨰, 사람들이 예전처럼 영화관에 잘 가지 않음
 
@@ -369,13 +369,13 @@ Next, there is the recent tariff issue. [태맆]
 
 The Trump administration has announced several new policies about tariffs, and the movie industry is no exception.
 
-I don’t remember the exact title. But according to a CNN article I read recently, they decided to impose a 100% tariff on the movie industry as well.
+I don’t remember the exact title. But according to a CNN article I read recently, they decided to impose a 100% tariff **on** the movie industry **as well.(역시)**
 
-There might be some reasons or positions between the countries, but from my experience, tariff issues usually end up affecting consumers.
+There might be some reasons or positions between the countries, but **from** my experience, tariff issues usually end up affecting consumers.
 
 Even in Korea, we already pay more than 20 dollars per person to watch a movie at the theater.
 
-Ticket prices are already high, and extra tariffs could make it worse.
+Ticket prices are already high, and **extra tariffs** could make it worse.
 
 So, I’m worried that this will make people spend even less.
 
@@ -543,7 +543,7 @@ What brand do you recommend? Because, my old one is
 
 
 
-### 15. 최신 음악 기기에 대해 설명 ⭐️
+### 15. 최신 음악 기기에 대해 설명
 
 > When it comes to the latest music electronic gadget(device), people are talking about ....**Open-ear earbuds**
 > First, 제품 소개(브랜드, 모델명)
@@ -551,13 +551,15 @@ What brand do you recommend? Because, my old one is
 >
 > Bose : Ultra open earbuds / 보우즈
 
-**When it comes to** the latest electronic music gadgets, **people are talking about** open-ear earbuds these days.
+**When it comes to** the latest electronic music gadgets(devices), 
+
+I think **people are talking about** open-ear earbuds these days.
 
 최신 전자 음향기기에 대해, 사람들은 오픈 이어 이어버즈를 이야기함
 
 
 
-**First,** I'd like to tell you about open-ear earbuds in detail.
+**First,** I'd like to tell you about the open-ear earbuds in detail.
 
 오픈 이어 이어버즈에 대해서 이야기하고 싶음
 
@@ -569,29 +571,29 @@ Normally, earbuds go directly into your ears, but these don't.
 
 보통 이버즈는 귓구멍에 직접 꽂는데, 이것들은 안그럼
 
-They just hang on your ears like earrings.
+<u>They just</u> hang on your ears like earrings.
 
 그냥 귀에 귀걸이처럼 검
 
-Out of many products, I think the Ultra Open Earbuds from Bose are the best.
+Out of all the new products coming out these days, I think the Ultra Open Earbuds from Bose are the best.
 
 많은 제품 중에, 보스의 울트라 오픈 이어버즈가 최고임
 
-As you know, Bose is already known for its sound quality.
+Since it’s a new style, it might look pretty unusual at first.
+
+But this product has a really cool design, so it actually looks great.
+
+And of course, the most important thing is the sound quality — but it’s Bose, so there’s no need to say more.
 
 너도 알다 시피, 보스는 이미 사운드에 돼해서는 잘 알려져있음
 
-So these days, they are popular with runners and people who enjoy outdoor activities.
-
-그래서 요즘, 러너랑 아웃도어 할동 즐기는 사람한테 인기임
 
 
-
-**Also,** I really want to get them
+**Also,** I really want to purchase them
 
 물론 나도 그걸 가지고 싶음
 
-I already have AirPods Pro, but wearing regular in-ear earbuds like them for a long time is painful for my ears.
+I already have AirPods Pro which is the most popular, but wearing regular in-ear earbuds like them for a long time is painful for my ears.
 
 보통 인이어 이어버즈 오래 쓰면 귀가 아픔
 
@@ -599,11 +601,15 @@ So I can’t wear them for more than two hours.
 
 그래서 나는 두시간 이상 못씀
 
-According to many reviews on the official website, these don’t hurt users ears, so they can solve that problem.
+According to many reviews on the official website, 
+
+these don’t hurt users ears, so they can solve that problem.
 
 근데 이건 이걸 해결해줄 수 있음
 
-What’s more, they’re lightweight and let me hear the sounds around me while listening to music, so I can keep them on all day
+What’s more, they’re lightweight and let me hear the sounds around me while listening to music, 
+
+so I can keep them on all day
 
 더해서, 그것들은 가볍고 음악과 함께 주변소리를 들을 수 있어서 하루종일 착용 가능
 
@@ -667,17 +673,17 @@ When I walk along there while listening to the music, it feels like I’m in a f
 
 **Overall,** that’s why I really like this park.
 
-### 공원 루틴 ⭐️
+### 공원 루틴
 
-> When it comes to going to parks, I have some routines.
+> When it comes to going to parks, I have some routines. /얼라우
 >
-> First, 
+> First, 날씨 장소 강아지, 옷
 >
-> Next, 
+> Next, 하네스, 경로, 걷기, 쉬기, 놀기, 사진찍기
 >
 > Overall, these are my routines.
 
-**When it comes to** going to a park, **I have some routines**
+**When we talk about** going to a park, **I have some routines**
 
 
 
@@ -685,15 +691,15 @@ When I walk along there while listening to the music, it feels like I’m in a f
 
 I usually check the weather because I like sunny days the most.
 
-Then, I try to find a park nearby.
+Then, I try to find a park near my place
 
-Of course, I also make sure the park allows dogs.
+Of course, I also make sure the park allows dogs to walk my dog.
 
 After that, I change into comfortable clothes and prepare dog waste bags and some cold water.
 
+
+
 **Next,** when I arrive at a park, 
-
-
 
 I put a harness(하네스) on my dog and plan our walking route.
 
@@ -701,13 +707,13 @@ Actually, I usually just walk instead of running.
 
 During the walk, I sometimes sit on a bench and take a short break
 
-Sometimes, I throw my dog’s toys and play with her.
+Sometimes I throw my dog’s toys and play with her. I also take selfies with her to post on Instagram.
 
 
 
-**Overall,** these are my routines.
+**Overall,** these are my routines when I go to a park.
 
-### Memorable park 사건 ⭐️
+### Memorable park 사건
 
 > 방학숙제 사기 치기,
 > homework는 불가산 명사 + assignments 붙이기
@@ -734,7 +740,7 @@ When I think about how ridiculous I must have looked to people, it still makes m
 
 **Overall,** I’ve actually started learning real golf now, but I will never play golf in a park again.
 
-### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄) ⭐️
+### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄)
 
 > 안녕 누구야 난 샘이야
 >
@@ -749,12 +755,12 @@ When I think about how ridiculous I must have looked to people, it still makes m
 > Q3. 준비물/교통편/만나는 장소
 
 **Hi Angela, This is Sam.**
-**I'm calling because I'd like to** go to the park we went to before with you.
+**I'm calling because I'd like to** go to the park we went before together
 It's been a long time since we hung out.
-**So I have some questions.**
+**So, let me ask you some questions**
 
-**First,** Are you free this Saturday, the 16th?
-According to the weather forecast, it’s going to be really sunny.
+**First,** Are you free this Saturday, I mean the 16th?
+According to the weather forecast, it’s gonna be really sunny.
 
 **Next,** Can I bring my dog so we can go for a walk together?
 Because you told me before you wanted to see her.
@@ -763,20 +769,24 @@ Because you told me before you wanted to see her.
 
 **Anyway, please call me back when you get this. Bye.**
 
-
-### 12.친구와 공원가기로 이미 했는데, 나의 사정으로 약속을 취소해야함. 대안 2개 ⭐️
+### 12.친구와 공원가기로 이미 했는데, 나의 사정으로 약속을 취소해야함. 대안 2개
 
 **Hi Angela, this is Sam.**
 
 We are supposed to go to the park this Saturday, right?
-I’m really sorry, but I think I have to cancel our plan.
 
-That's because I completely forgot that it’s my wife’s birthday that day.
-And as you know, my wife can be really scary.
-I was really looking forward to having chicken and beer with you at the park, so I feel so disappointed.
+I’m really sorry, but I **won’t be able to make it.**
+
+That’s because I completely forgot it’s my wife’s birthday on that day. 
+
+And as you know, my wife can be pretty scary. 
+
+I was really looking forward to having chicken and beer at the park together,
+
+ so I’m really disappointed.
 
 **To fix the problem, I have two alternatives.**
-**First,** how about going to a park nearby tonight?
+**First,** how about going to a nearby park tonight?
 I can purchase some snacks and beer by CVS in front of the park.
 
 **Alternatively,** how about rescheduling for next Saturday?
@@ -785,10 +795,9 @@ Of course, the chicken and beer will be on me.
 Again, I’m really sorry.
 **please let me know the best option. Bye**
 
+### 13. 기억에 남는 사건 (재탕)
 
-### 13. 기억에 남는 사건 (재탕) ⭐️
-
-### 14. 공원에서의 어른 vs 아이 활동 비교 😇
+### 14. 공원에서의 어른 vs 아이 활동 비교
 
 > + 공통점과 차이점을 같이
 >
@@ -804,23 +813,35 @@ Again, I’m really sorry.
 >
 > Overall, 
 
-**When it comes to** activities in the park, **there are some differences between** children **and** adults.
+**When it comes to** activities in a park, **there are some differences and similarities between** children **and** adults.
+
+공원에서의 활동에 대해, 애랑 어른이랑 좀 차이가 있음
 
 
 
-**First,** about adults' activities in the park.
+**First,** As for/Regarding adults' activities in a park.
 
 They usually go for a walk or sometimes do light jogging.
 
-Some people run in groups, and running crews are a big trend in Korea right now.
+Some people run in groups, and running crews are a big trend in South Korea right now.
 
 Sometimes they bring food and drinks to have a picnic, and parents take photos while playing with their kids.
 
 In my opinion, adults usually spend more time relaxing or making memories than doing active things.
 
+첫째, 어른들의 공원활동
+
+그들은 산책 or 가벼운 조깅
+
+일부는 무리지어 뜀, 러닝크루는 한국에서 좀 핫함
+
+음식이랑 마실것 들고 피크닉도 종종 함, 부모들은 애들이랑 노는걸 사진 찍음
+
+내 생각에 어른은 활동적인 것보다 쉬거나 추억만들기에 시간을 씀
 
 
-**Next,** about children's activities in the park.
+
+**Next,** As for children's activities in a park.
 
 They do more active things, just like I used to.
 
@@ -832,17 +853,33 @@ At the park, he was totally in his element.
 
 I was having fun too, but I just couldn’t **keep up with** his energy / 따라 잡다, 뒤쳐지지 않다
 
-I think children use the park to burn energy, while adults use it to recharge.
+I think children use a park to burn energy, while adults use it to recharge.
 
-Still, they each enjoy the place in their own way.
+Still, they each enjoy a place in their own way.
+
+다음, 애들의 공원활동
+
+그들은 더 활동적인걸 함, 나도 그랫듯
+
+예를 들어, 자전거 타고 공놀이하고 달리고
+
+최근에 근처 공원에 조카랑 갔는데
+
+공원에서 그는 미쳤음
+
+나도 재밌었지만, 걔 에너지를 못 따라가겠음
+
+내 생각에 애들은 에너지 쓰기위해 공원을 가고 반면에 어른은 충전하러감
+
+하지만 여전히 그들은 그들의 방식으로 즐김
 
 
 
-**Overall, I think these are the differences between** children **and** adults.
+**Overall, I think these are the differences and smulisd between** children **and** adults.
 
 
 
-### 14. 자주 가는 공원 2개 비교 😇
+### 14. 자주 가는 공원 2개 비교
 
 > First, 공통점
 >
@@ -862,31 +899,53 @@ Both are just about ten minutes from my place, which makes them very convenient 
 
 For me, the best park is close and easy to visit, not just nice-looking.
 
-Of course, both parks allow dogs and are kept clean since they’re managed by the city.
+Of course, both parks allow dogs and are kept clean since they’re managed by my city.
 
-Plus, there’s a Starbucks right at the entrance of each park, so I usually grab an iced Americano and walk my dog.
+Plus, there’s Starbucks right at the entrance of each park, so I usually grab an iced Americano and walk my dog.
+
+첫째, 두공원 공통점 있음
+
+둘다 우리집에서 10분 거리임, 방문하기에 굉장히 편함
+
+나의 경우, 최고의 공원은 가깝고 가기 좋은 곳임, 보기 좋은게 아니라.
+
+물론 두 공원은 강아지를 데려갈 수 있음 그리고 깨끗함 시에서 관리해서
+
+또한, 스타벅스가 공원 입구에 있어서, 보통 아이스 아메리카노 한잔 사서 강아지랑 산책함
 
 
 
 However, there are also some differences.
 
-As you can guess from the names, one has a lake and the other doesn’t.
+As you can guess from the names, one has a lake --  and the other doesn’t.
 
-If I want to walk by the water, I go to Seongjeong Lake Park.
+If I wanna walk by the water, I go to Seongjeong Lake Park.
 
 But if I want to walk through the forest, I head to Buldang Park.
 
-Around the lake park, there are fancier coffee shops and restaurants, while the other park feels more like a regular city park.
+Around the lake park, there are fancier coffee shops(coffee houses/places) and restaurants, while the other park feels more like park in the city center.
 
-My dog is a little timid, so when I take her to the more crowded lake park I keep a closer eye on her.
+My dog is a little timid, so when I take her to the more crowded lake park I **keep a / closer eye on** her.
+
+하지만 차이점도 좀 있음
+
+이름에서 알 수 있듯, 하나는 호수가 있고 하나는 없음
+
+내가 물가를 걷고 싶으면 성정 호수 공원을 가고
+
+내가 숲속을 걷고 싶으면 불당 공원을 감
+
+호수공원은 화려한 커피샵과 식당있고, 반면 다른 공원은 일반 도심 공원 같음
+
+내 강아지는 조금 겁쟁이라, 사람 많은 호수공원에 갈때 좀더 신경씀
 
 
 
-Overall, those are the main similarities and differences.
+Overall, these are the similarities and differences between the two parks, they’re both great places to spend time.
 
 
 
-### 15. 공공 공원이 직면한 문제, 😇
+### 15. 공공 공원이 직면한 문제
 
 > Public parks face, 문제 2개
 
@@ -898,18 +957,50 @@ When it comes to problems public parks face, people are talking about .... And .
 
 When it comes to problems public parks face, people usually talk about drinking and vandalism.
 
-First, one concern is public drinking in parks.
-In Korea, the rules are not very strict about drinking in these places.
-I’ve also enjoyed hanging out with friends at Hangang Park, drinking beer and eating snacks.
+First, one concern is drinking in public parks.
+In South Korea, the rules are not very strict about drinking in these places.
+I’ve also enjoyed hanging out with friends at Han River Park, drinking beer and eating snacks.
 Light drinking, like one or two cans of beer, doesn’t usually cause big problems.
 But sometimes, some people get really drunk. They get loud, use bad language, and act rudely.
-This is a real problem because many families visit parks, including young children. Such behavior can negatively influence children and ruin someone’s peaceful rest.
+This is a real problem because many families visit parks, including young children. Such behavior can have a bad influence on the children and disturb their rest.
+
+하나의 걱정은 공원에서 술마시는 거임
+
+한국은 그렇게 술마시는 것에 대해 엄격하지 않음
+
+나도 역시 친구들과 한강에서 맥주와 과자를 먹은 적 있음
+
+맥주 한두캔의 가벼운 음주는 그렇게 큰 문제가 되지 않음
+
+하지만 일부는 만취해서, 고서방가에 욕설에 무례한 짓들을 함
+
+이건 진짜 문제임, 왜냐면 많은 가족들이 오고 애들도 오는데,
+
+그런 행동은 애들한테 나쁜 영향을 주고 평화로운 휴식시간을 방해함
 
 Next, there’s vandalism.
-Most parks in Korea are public spaces.
+
+Most parks in South Korea are public spaces.
+
 Some people, including drunk ones, sometimes damage the facilities made for citizens’ convenience.
-They might play roughly with outdoor exercise equipment or vandalize public property with graffiti.
+
+They might play roughly with the facilities or vandalize public property with graffiti.
+
 For example, just yesterday when I was walking my dog, I saw a bench covered with bad words.
+
+I saw an article recently that said some people even steal plants from parks.
+
+It seems to be a serious global problem.
+
+다음으로 공공기물 파손이 있음
+
+대부분 한국 공원은 공공장소임
+
+술취한 사람을 포함해서 일부 사람들은 가끔 시민들의 편의를 위한 시설들을 부숨
+
+아마도 거칠게 시설물을 가지고 놀거나 그래피티로 공공기물을 부숨
+
+예를 들어 바로 어제 강아지랑 산책을 갔는데, 나쁜말이 가득 적힌 벤치를 봤음
 
 Overall, these are some of the main problems public parks face.
 
@@ -919,7 +1010,7 @@ Overall, these are some of the main problems public parks face.
 
 ## Domestic trip
 
-### 1. 내가 자주가는 Domestic destinations.
+### 1. 내가 자주가는 Domestic destinations. 😎
 
 > Let me tell you about my favorite domestic destinatons
 >
@@ -931,7 +1022,13 @@ Overall, these are some of the main problems public parks face.
 >
 > Overall,
 
-### 2. 여행 준비 루틴
+I love 
+
+
+
+
+
+### 2. 여행 준비 루틴 😎
 
 > First, 준비물 (모든 것 나열금지, 이유를 많이, 특별히 내가 챙기는 거면 좋은거 같은데) / 한국 음식, 팩소주, 샤워 필터, 트레블월렛
 >
@@ -939,7 +1036,7 @@ Overall, these are some of the main problems public parks face.
 >
 > 날씨, 숙소 영문주소, 전화번호, 안전점검, 여행계획, 오프라인 영상, 영화 저장
 
-### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄)
+### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄) 😎
 
 > 베게 싸움하다가 다쳤다. 폐교체험
 
@@ -1041,6 +1138,28 @@ Overall, these are some of the main problems public parks face.
 
 >  국내여행으로
 
+## 가구
+
+### 11. 사고싶은 가구에 대해서 질문하기
+
+> Q. I am going to give you a situation to act out. Imagine that you have gone to a store to buy new furniture. Ask you salesperson three or four questions about the furniture you are looking for.
+
+Hi there, my name is Sam.
+
+I’m looking for a new sofa for my living room, and this one really caught my attention.
+So, I'd like to ask you some questions.
+
+First, is this sofa available in a larger size?
+I like lying down on the sofa, but this one looks a little small for that.
+
+Next, what kind of warranty does it come with?
+Since a sofa is a big investment for me, I want to make sure it’s well covered.
+
+Lastly, what’s the average delivery time if I order today?
+I hope to have it before next month, so I’m wondering if that’s possible.
+
+That’s all I needed to know for now.
+
 ## Note
 
 ### Vocabulary
@@ -1064,6 +1183,16 @@ Overall, these are some of the main problems public parks face.
 > Especially, in particular, particularly : 특히
 >
 > Resonate with me : 울림이 있다.
+>
+> Let me tell you about / when It comes to / I'll tell you about / I think, guess, believe / when we talk about
+>
+> Adults/grown-ups/the older/older people
+>
+> Let me tell you what's different and what's similar about ~
+>
+> Office clown
+>
+> Watch video clips on Youtube
 
 The good place season 1 episode 1
 
