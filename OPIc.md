@@ -899,7 +899,7 @@ Both are just about ten minutes from my place, which makes them very convenient 
 
 For me, the best park is close and easy to visit, not just nice-looking.
 
-Of course, both parks allow dogs and are kept clean since they’re managed by my city.
+Of course, both parks allow**[얼라우]** dogs and are kept clean since they’re managed by my city.
 
 Plus, there’s Starbucks right at the entrance of each park, so I usually grab an iced Americano and walk my dog.
 
@@ -923,7 +923,7 @@ If I wanna walk by the water, I go to Seongjeong Lake Park.
 
 But if I want to walk through the forest, I head to Buldang Park.
 
-Around the lake park, there are fancier coffee shops(coffee houses/places) and restaurants, while the other park feels more like park in the city center.
+Around the lake park, there are fancier coffee places and restaurants, while the other park feels more like park in the city center.
 
 My dog is a little timid, so when I take her to the more crowded lake park I **keep a / closer eye on** her.
 
@@ -988,9 +988,7 @@ They might play roughly with the facilities or vandalize public property with gr
 
 For example, just yesterday when I was walking my dog, I saw a bench covered with bad words.
 
-I saw an article recently that said some people even steal plants from parks.
-
-It seems to be a serious global problem.
+I recently saw / an article saying / some people even steal / some plants from public parks, / which seems to be a serious issue.
 
 다음으로 공공기물 파손이 있음
 
@@ -1022,7 +1020,170 @@ Overall, these are some of the main problems public parks face.
 >
 > Overall,
 
-I think one of my favorite domestic destination is Seoul, the capital city of South Korea.
+I think one of my favorite domestic destination is Seoul - the capital city of South Korea.
+
+
+
+First, there are many things to enjoy.
+
+I actually live in a quiet countryside town. So when I go on dates or hang out with my friends, I often visit Seoul.
+
+That's because there are always new things to experience like night markes, pop-up stores, various events and so on.
+
+For example, last month I tried the service which called “Nike By You"
+
+Nike By You is a service that lets you design your own Nike products.
+
+It’s only available at certain Nike stores in Seoul.
+
+
+
+Next, it's very convenient to get around.
+
+In Seoul, I can go anywhere just by subway.
+
+If I set my destination on any popular map application on my phone.
+
+It gives me all the information I need.
+
+For example, it shows the exit number near my destination, the expected train arrival time, and the door number for the fastest transfer.
+
+Even if you miss a train, the next one usually comes within five minutes.
+
+So, I never take my own car when I visit Seoul.
+
+
+
+Overall, that’s why I go to Seoul so often.
+
+### 2. 여행 준비 루틴 😎
+
+> First, 준비물 (모든 것 나열금지, 이유를 많이, 특별히 내가 챙기는 거면 좋은거 같은데) / 한국 음식, 팩소주, 샤워 필터, 트레블월렛
+>
+> Also, 나만의 준비활동
+>
+> 날씨, 숙소 영문주소, 전화번호, 안전점검, 여행계획, 오프라인 영상, 영화 저장
+
+When it comes to preparing for a trip, I have some routines
+
+First, there are a few things I usually pack in my bag.
+I always bring my travel card, which is a rechargeable card similar to a debit card.
+That way, I only need to exchange a minimal amount of cash.
+I also take my international driver’s license, even if I don’t plan to drive during the trip, just in case an unexpected situation comes up.
+
+There are also a few things I make sure to check before I leave.
+I find a place for my dog to stay while I’m traveling, like my parents’ house or a pet hotel.
+I also note down the exact address and contact information of the hotels where I’ll be staying.
+Plus, I download videos and music so I can enjoy them on the plane without an internet connection.
+As you know, these days YouTube and Netflix allow you to download content for offline viewing.
+
+Overall, there might be other little things I do, but these are the main routines
+
+### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄) 😎
+
+> 베게 싸움하다가 다쳤다. 폐교체험
+
+The most memorable trip from my childhood was my school trip in elementary school.
+
+가장 기억에 남는 어릴적 여행은 초등학교 수학여행 이다.
+
+
+
+첫째, 엄빠없이 가는 첫번쨰 여행
+
+물론 선생님들이 같이갔지만, 반친구들이랑 방을 같이쓰는 것만으로 신남
+
+졸려도 밤새도록 떠들고 웃었다. 왜냐면 먼저 잠들면, 얼굴에 낙서를 해버려서
+
+나도 잠들지 않아서 그 장난을 당하지는 않음
+
+
+
+First, It was the first time I had ever traveled without my parents.
+
+Sure, our teachers were with us, but just sharing a room with my classmates was exciting.
+
+Even though we were sleepy, we stayed up all night laughing and talking.
+
+because if someone fell asleep first, the others would draw all over their face.
+
+I stayed awake long enough to avoid that prank.
+
+
+
+다음, 여행의 끝이 안좋음
+
+나는 친구들이랑 여행가면, 항상 배게싸움을 했음
+
+그날도 같음
+
+전쟁터처럼 베개로 치고 받음
+
+근데 딱딱한 게 내팔을 떄림
+
+옥이 들어간 베개였음, 할머니집들에 있는
+
+나는 고통을 참고 잠잤고, 아침에 퉁퉁부어있는 걸 봄
+
+선생님이 병원에 데려감, 팔이 부러짐
+
+그래서 남은 여행을 깁스한 채 벤치에 앉아서 친구들이 즐겁게 노는 걸 구경만 함
+
+
+
+Next, The ending of the trip was not so great.
+
+whenever I went on trips with my friends, we always ended up having pillow fights. That night was no different.
+
+We were hitting each other with pillows like it was a battlefield.
+
+Then, something hard smacked my arm.
+
+It was a kind of special pillow stuffed with some jade — the kind every grandmather seemed to have.
+
+I tried to ignore the pain and fell asleep, but the next morning, my arm was really swollen.
+
+My teacher took me to the hospital, and that’s when I found out I had a fracture.
+
+So, for the rest of the trip, I sat on a bench with my arm in a cast, just watching my friends have fun.
+
+
+
+Overall, this is my memorable domestic travel when I was younger.
+
+
+
+### 3. 잊지 못할 기억 언제, 누구랑, 어디서
+
+### 14. 어려워 졌다 최근 5년간. (과거/현재 비교) 👼🏻
+
+> There are differences between the pas and the present about traveling domestically.
+>
+> First, 교통체증, Over tourism, 해외 여행 증가로 국내 여행산업이 어려워짐, 바기지 요금, 특성없이 획일화
+>
+> ​	+ Example 나,가족,친구의 경험, 
+>
+> Also, 
+>
+> Overall, 마무리(짧게)
+
+### 15. 여행 걱정과 우려 👼🏻
+
+> When it comes to concerns about travels, people are talking about --- and ---.
+>
+> - 분쟁지역이 많아서 조심히 다녀와야함
+> - 시위지역 많아져서 조심히 다녀왐 (LA여행)
+> - 오버투어리즘, 범죄가 증가했다, 인종차별, 인신매매 위험이 높아짐
+
+## 해외여행
+
+### 1. 기억에 남는 해외여행 국가나 도시
+
+> 서울을 도쿄 등 처럼 바꾸기? 너무 잘아는데 하기 조심, 홍콩, 
+
+I think one of my favorite oversea destination is Tokyo, the capital city of Japan.
+
+
 
 First, there are many things to enjoy.
 
@@ -1056,47 +1217,7 @@ That’s why I never take my own car when I visit the city.
 
 Overall, that’s why I go to Seoul so often.
 
-### 2. 여행 준비 루틴 😎
-
-> First, 준비물 (모든 것 나열금지, 이유를 많이, 특별히 내가 챙기는 거면 좋은거 같은데) / 한국 음식, 팩소주, 샤워 필터, 트레블월렛
->
-> Also, 나만의 준비활동
->
-> 날씨, 숙소 영문주소, 전화번호, 안전점검, 여행계획, 오프라인 영상, 영화 저장
-
-### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄) 😎
-
-> 베게 싸움하다가 다쳤다. 폐교체험
-
-### 3. 잊지 못할 기억 언제, 누구랑, 어디서
-
-### 14. 어려워 졌다 최근 5년간. (과거/현재 비교)
-
-> There are differences between the pas and the present about traveling domestically.
->
-> First, 교통체증, Over tourism, 해외 여행 증가로 국내 여행산업이 어려워짐, 바기지 요금, 특성없이 획일화
->
-> ​	+ Example 나,가족,친구의 경험, 
->
-> Also, 
->
-> Overall, 마무리(짧게)
-
-### 15. 여행 걱정과 우려
-
-> When it comes to concerns about travels, people are talking about --- and ---.
->
-> - 분쟁지역이 많아서 조심히 다녀와야함
-> - 시위지역 많아져서 조심히 다녀왐 (LA여행)
-> - 오버투어리즘, 범죄가 증가했다, 인종차별, 인신매매 위험이 높아짐
-
-## 해외여행
-
-### 1. 기억에 남는 해외여행 국가나 도시
-
-> 서울을 도쿄 등 처럼 바꾸기? 너무 잘아는데 하기 조심, 홍콩, 
-
-### 2. 다른 나라가서 하는 일
+### 2. 다른 나라(도착)가서 하는 일 👼🏻
 
 > 활동 위주,
 >
@@ -1104,15 +1225,85 @@ Overall, that’s why I go to Seoul so often.
 >
 > 로컬 마켓(나이트 마켓), 기념품, 포즈하나 정해서 셀카 찍기, 화폐를 사온다. 로컬 담배 사오기,
 
+When we talk about things I usually do at a travel destination, I have some routines.
+
+여행지에서 내가 주로하는 것에 대해 이야기할 때, 루틴이 있어요.
+
+First, there are some common routines I've had for a long time.
+
+As soon as I arrive, I go straight to my accommodation, check in, and drop off my luggage.
+
+On the first day, I don't start sightseeing right away. Instead, I like to explore the neighborhood around my accommodation. I usually stop by a CVS to grab some water and some local snacks.
+
+Since I'm a smoker, I also like to try different kinds of local cigarettes during my trip. 
+
+Of course, If I find one that I really enjoy, I always purchase a carton at the duty-free shop before I leave the country.
+
+첫째로, 오랫동안 조금 일반적인 루틴들이 있어여
+
+도착했을 때, 나는 바로 숙소로 가서 체크인 하고 짐을 맡기고
+
+첫쨰날은 관광을 바로 시작하지 않고 숙소 주변을 우선 탐색해요.
+
+보통은 편의점가서 물이랑 과자를 좀 미리 사놔요
+
+난 흡연자라 다양한 종류의 그곳 담배를 펴봐요
+
+물론 좋은 걸 찾으면, 한 보루(carton)을 면세점에서 떠나기 전에 사요.
+
+
+
+Next, I also have a photo routine that I really enjoy these days.
+
+I choose a special theme for each trip and take pictures that match it
+
+Those themes usually reflect the character of the destination
+
+Sometimes it's a certain pose, and other times it's small souvenir from the place.
+
+It makes the trip more memorable and fun.
+
+For instance, when I traveled to Osaka, Japan recently, I copied the famous pose, Glico-san pose in Dotonbori. 
+
+That’s the pose that the runner has both arms up while crossing the finish line.
+
+Actually, I posed like that in almost all my Osaka photos, so now I don’t have any normal ones at all.
+
+It was hilarious[hɪˈleəriəs], and now those photos are the highlight of that trip
+
+그리고, 나는 최근 즐기는 사진 루틴도 있어요. 
+
+각 여행 별로 특별한 테마를 정하고 사진을 그에 맞춰 찍어요
+
+그 테마들은 여행지의 특징을 반영해요
+
+특정 포즈나 아니면 그 곳의 작은 기념품 같은 것들이다.
+
+이 것은 여행을 좀더 기억에 남고 재밋게 해준다.
+
+예를 들어 최근에 오사카에 가서, 도톤보리의 글리코상 포즈를 따라했어요.
+
+양팔을 들고 결승선을 통과하는 포즈에요
+
+사실 모든 오사카 사진을 그 포즈를 해서, 정상적인 사진이 없어요.
+
+이건 아직도 재밌고, 그 사진들이 그 여행에서 제일 하이라이트에요.
+
+
+
+Overall, these are my routines when I travel.
+
+
+
 ### 2. 유명한 해외 여행지(잘 안나옴)
 
 ### 3. 첫 여행 언제 어디 누구 어디
 
 > 토론토(강매,초딩), 뉴욕   
 
-### 3. 잊지 못할 여행에서의 경험
+### 3. 잊지 못할 여행에서의 경험 (위랑 비슷함)
 
-### 11. 여행사에 전화해서 국내여행 
+### 11. 여행사에 전화해서 여행 👼🏻
 
 > I'm calling because I'm  interested in / I'd like to ask you a few questions about ----
 >
@@ -1134,19 +1325,123 @@ Overall, that’s why I go to Seoul so often.
 >
 > I heard taking a paddle boat should be the fun.
 
-### 11. 환불 불가 , 다음주 여행 취소
+Hello there, this is Sam.
+
+안녕 샘이다.
+
+I'm calling because I'm interested in a trip to Busan these days.
+
+Because, I've heard Haeundae Beach is great to enjoy in September.
+
+So, I'd like to travel from Sep 1st to Sep 5th and I have some questions.
+
+요즘 부산 여행에 관심이 있어서 전화했다.
+
+왜냐면 해운대 해변이 9월에 즐기기 좋다고 들었다.
+
+9월 1일 부터 5일까지 여행을 가고 싶고 질문이 좀 있다.
+
+First, are there any flight tickets available for those periods?
+
+Specifically, I prefer a morning departure and an evening return. Also If possible, I'd like to fly with Korean Air
+
+Because I earn miles.
+
+그 기간 동안 비행기 티켓 있나요?
+
+상세하게, 아침 출발 저녁 복귀 하는 걸 선호하고, 가능하면 대한항공으로 부탁해요. 마일리지 쌓아야해요.
+
+
+
+Next, Could you tell me about the hotels that offer an airport shuttle?
+
+My luggage is pretty large, So I'd rather take a shuttle than public transportation.
+
+공항 셔틀 되는 호텔들 있으면 알려주세요?
+
+내 짐이 좀 커서 대중 교통보다 셔틀 타고 싶어요.
+
+
+
+Lastly, do you have a travel guidebook or brochure for Busan?
+
+It would be great if it includes activity suggestions, such as local food tour or an evening cruise.
+
+여행 안내 책자나 브로셔도 있나요?
+
+엑티비티 추천이 있는 거면 더 좋아요. 현지음식투어나 저녁크루즈라던지
+
+
+
+Please call me back when you get this. Bye :D
+
+
+
+### 11. 환불 불가 , 다음주 여행 취소 👼🏻
 
 > 나의 사정, 해결책
+>
+> - 저번주에 환불 불가 티켓을 샀는데,
+> - 다음주 0 요일에 파리가는 비행기를 예약했음
+> - 요통, 아이가 아프다, 음주운전으로 출국정지, 비자만료/거부
+> - 해결책
+>   - 리스케줄(한달뒤, 2주뒤)
+>   - 양도 가능한지 / 친구나 가족
+>   - 마일리지로 전환 가능한지
 
-- 저번주에 환불 불가 티켓을 샀는데,
-- 다음주 0 요일에 파리가는 비행기를 예약했음
-- 요통, 아이가 아프다, 음주운전으로 출국정지, 비자만료/거부
-- 해결책
-  - 리스케줄(한달뒤, 2주뒤)
-  - 양도 가능한지 / 친구나 가족
-  - 마일리지로 전환 가능한지
+Hello there, this is Sam.
 
-### 12. 전화/ 일정이 안댄다고 알려줌
+
+
+As you know, I booked a ticket with your agency last week for a trip to Boston.
+
+The flight is scheduled to leave next Monday and return two weeks later
+
+I know the ticket is non-refundable, but an unexpected issue came up with my U.S. visa.
+
+it was about to expire so I reapplied, but I made a mistake in the application and it was rejected.
+
+Now I need to visit the embassy to fix it and I don't think I can make it before Monday.
+
+알다시피, 너희 여행사를 통해서 보스턴 가는 티켓을 지난 주에 예약했어요
+
+비행기는 다음주 월요일에 떠나서 2주후에 돌아오는 건데,
+
+환불 불가인건 알고 있는데, 예상치 못한 문제가 내 비자에 생겼어
+
+이게 만료예정이라 다시 신청했는데, 내가 신청서를 잘 못 해서 거절됐어
+
+대사관에 가서 해결해야하는데, 월요일 전에 불가능할 것 같아
+
+
+
+To fix this problem, I have 2 alternatives.
+
+First, Could you reschedule my ticket for about two weeks later?
+
+According to the embassy, I should be able to get my visa within that period.
+
+Alternatively, is it possible to convert the ticket into mileage instead of getting a refund?
+
+As soon as I receive my visa, I will purchase the ticket right away.
+
+그래서 티켓을 2주 뒤쯤으로 일정을 바꿀 수 있을까?
+
+대사관에서 그정도 기간이면 받을 수 있을 꺼라고 했어.
+
+그게 안되면, 티켓을 환불 대신 마일리지로 전환할 수 있을까?
+
+비자를 받는 대로, 티켓을 다시 사긴할 꺼야.
+
+
+
+Anyway, please call me back and let me know which option works best. Bye :D
+
+
+
+### 12. 친구와 함께갈 여행 여행사 질문 
+
+### 12. 전화/ 일정이 안댄다고 알려줌, 친구에게 전화 👼🏻
 
 > 날짜, 장소 특정, 상품, 숙소, 티켓
 >
@@ -1156,19 +1451,240 @@ Overall, that’s why I go to Seoul so often.
 >
 > 해결책, 리스케줄, different location,
 
-### 14. 과거 현재 비교 / Max 10년
+Hello Brian, this is Sam.
+
+
+
+You remember we were supposed to go to the Philippines from August 21st to 25th, right?
+
+I just talked to the travel agency, and they said we cannot take that trip on those periods.
+
+I'm pretty upset, since we already booked the hotel and the activities.
+
+But Don't worry, I'll handle the cancellations of them.
+
+Anyway, I was really looking forward to spending our vacation with the nice beach with you.
+
+So, to fix this problem, I have two alternatives.
+
+
+
+First, If you're free a month later, I mean around the 1st week of September. How about rescheduling for then?
+
+The agency said it's definitely possible, and the weather should be a litter cooler so we can enjoy it more.
+
+Alternatively, If you don't mind, we could go to Bali instead.
+
+It might be a little more expensive, but I heard the beaches there are amazing,
+
+Because I heard the beaches there are incredible.
+
+We might actually have an even better time.
+
+
+
+Please call me back with the best option. Bye
+
+### 14. 과거 현재 비교 / Max 10년 👼🏻
 
 > 환전 방법, 테크놀로지 발달, 비자(중국), 숙박업소가 다양해졌다(에어비앤비, 쉐어하우스), AI번역기
 >
 > 기술의 발전
 
+When it comes to traveling, I'd like to tell you how convenient it is today compared to the past.
+
+
+
+First, the process of going on a trip is much easier now.
+
+In the past, I had to apply for a visa in person and wait in long lines at immigration.
+
+But now, I can apply online and pass through the airport much more smoothly using fingerprint or facial recognition.
+
+Even duty-free shopping has become simpler. Instead of spending a lot of time at the airport, I just order online in advance and pick it up.
+
+Also, I used to buy a physical SIM card at a store either after arriving or before departing. But now with an e-SIM, I can activate it just by changing a few phone settings.
+
+Travel cards have also made things easier. I don’t need to carry a lot of cash anymore because I can exchange money instantly through my banking app and use the card like a debit card.
+That's why I don’t make long checklists before traveling anymore, and I rarely buy package tours from travel agencies.
+
+
+
+Next, there are also many different travel platforms.
+
+I used to stay at hotels when I traveled, but I prefer Airbnb now.
+
+That's because it allows me to experience the local lifestyle, just like their slogan says, “Don’t go there, live there.”
+
+Also, with services like Uber or Lyft, I don’t need to explain directions in a foreign language.
+I can just enter my destination in the app, call a car, and pay directly through it.
+And even if the driver asks me something in their own language, I don’t really need to worry anymore.
+
+I can simply communicate with an AI translator. 
+
+For example, when I recently went to Tokyo, I couldn’t speak Japanese at all.
+But every time I had trouble, I used Samsung Galaxy’s real-time AI translation feature, and it solved my communication problems right away.
+
+Overall, technology has developed so much that traveling has become far more convenient and enjoyable than in the past.
+
 ### 15. 해외여행이 어떻게 변했는지 과거/현재, 여려워졌냐 쉬워졌나
 
 >  국내여행으로
 
-## 가구
+## 쇼핑
 
-### 11. 사고싶은 가구에 대해서 질문하기
+### 1. 우리나라의 쇼핑센터와 가게에 대해서 설명 👼🏻
+
+> 스타필드,
+>
+> 강아지도 갈 수 있다. 즐길거리, 교통이 편리한 곳에 있다, 전통시장, 프랜차이즈 대형마트 (개인상점 죽음)
+
+When it comes to my country shopping center, I'd like to talk about Starfield, which is my favorite shopping center.
+
+First, there are so many things you can buy there.
+Most of the brands you can find in a department store are also available at Starfield, and sometimes the prices are even cheaper.
+
+They also hold a lot of collaboration events and pop-up stores with well-known brands. But it’s not just about sales, they provide experience-based events where you can actually participate and try something yourself.
+
+Of course, people even say “We go to Starfield just to eat” because there are so many dining options. From famous chain restaurants to small food courts, you can basically find any type of cuisine there.
+And they even sell cars. My wife actually bought her car there, and I still remember when we picked it up at the entrance of the mall with a big ribbon on it.
+
+Next, there are also many things to enjoy besides shopping.
+Sometimes I go there even if I don’t need to buy anything, just to relax or have fun.
+On days when I need to recharge, I go to the spa inside Starfield to relieve my stress.
+And when I’m in the mood for excitement, I go to *Sports Monster*, which is an indoor sports theme park.
+It’s designed for both kids and adults, and I usually enjoy activities like the air track, cycling, and VR games.
+
+There are also well-designed parks and resting areas, and even dogs are allowed. So I often go there with my wife to take a walk with our pet.
+
+Overall, I think Starfield is one of the most iconic shopping malls in South Korea.
+
+
+
+### 2. 페이보릿 쇼핑 스팟
+
+> 신세계 , 직원할인 있음(always 10%), local vouchers, produce/sport goods  **section**, multiplex building
+>
+> 사는 물품에 따라서 구분 해도 좋을 것 같아요.
+
+### 2. 쇼핑 루틴 / 집떠날때 부터 돌아 올때까지
+
+> 날씨 체크, 편한 복장, 층별안내, 쿠폰, 쇼핑리스트
+>
+> 집갈때는 커피(아바라)나 디저트 먹음
+>
+> It is a such a great shopping spree! : 플렉스 조진다.
+
+### 3. 어릴 적 어떻게 쇼핑에 관심을 가지게 되었습니꽈?
+
+> 초등 고학년떄 패션에 관심이 생겨서 옷 악세사리 신발을 구매하기 시작해서.
+>
+> 교복, Mania, 온라인 쇼핑(짝퉁), 
+
+### 3. 최근 쇼핑 경험
+
+### 3. 메모러블 쇼핑 경험
+
+### 11. 옷가게에서 옷사려 
+
+> Materials(Fabric, leather, goose, cotton), couple's look, 다른 지점에서 교환 가능 하냐
+>
+> 파자마스, 
+
+### 11. 옷이 이상함 못 옴
+
+> Can I get a partial refund?
+>
+> Seam line, stitches(바느질), messy, 
+>
+> 2장은 정상이다
+
+### 11. 다른 옷이 옴 / 언제 오또케 정상제품으로 제안
+
+> 집으로 배송 해주기(시간), 내가 직접 찾아가기(오늘)
+
+### 11. 서비스/산거에 대해서
+
+> 음악 디바이스 / 퀄리티 떨어진다, 무겁다, 배터리가 오래 안간다.
+>
+> + 감정표현, 과대광고, 리뷰조작
+
+### 11. 빅세일 광고판을 봤다. 상점가서 가서 질문.
+
+> 옷가게 아니여도 됌, 세일 기간(날짜, 달, 누구랑 같이 오고 싶다), 세일, 마일리지, 멤버쉽 추가 할인
+
+### 11. 집에와서 확인 해보니 아이템이 손상되었다. (전화/해결책)
+
+> 내가 한시간 시내에 있는 어디서 뭘 샀는데, 브라이언과 구매 상담을 했었다.
+
+### 11. 동작하지 않거나 손상된 경험을 구매한 경험
+
+> : 가전 제품(냉장고, 로봇청소기, 제외) or 휴대 전화
+
+### 11. 사고 보니 세일 가격으로 결제된 게 아니다 (집/전화)
+
+> Salesperson, regular price(sales price), embarrassed, business hours, apply 적용하다.
+>
+> 차액 difference, discount rate, -% off
+
+This product I made a purchase wasn't applied with the sales price
+
+1. Transfer 
+2. 직접 방문 ( 차액을 받겠다. )
+
+### 11. 아이템이 없거나, 너무 비싸거나, 오또케 해결했다 
+
+> 최근 쇼핑 경험이랑 같이 해버리자. 최근 쇼핑 경험, 기억에 남는 쇼핑, 쇼핑에서 생긴 문제
+
+### 11. 그레잇 세일에 대해서 친구에게 물어봐라. 
+
+### 11. 집에 왔더니 산 것 중에 아이템이 없다. (전화)
+
+> 식료품 / 하자 검수 난 1+1(Get one, Get free) 하나 못받았다,
+>
+> 가지러 가겠다.
+>
+> 부분환불해달라.
+
+### 13. 메모러블 경험
+
+### 13. Food store/식료품점 말함, 물어봐 3가지?
+
+> : 건강식품 상점(**health food store**), 식료품 점
+>
+> 위치, 주력상품[main products], 너는 언제 뭐샀어?(경험)
+
+### 13. 신 식품점 생겨서 갔는데, 한개가 빠진걸 발견 함, 전화 해서 대안 제시
+
+> Food store
+
+### 13. Food store 설명
+
+>  오또케 발견하고, 위치가 어디에있고, 소개 (+ 영업시간, 배송여부, 온라인몰 연계여부)
+>
+> : health food store, supplements 영양제, protein powder, snack .... 
+
+
+
+
+
+
+
+### 14. 쇼핑 변화 (과거/현재)
+
+> 과거: 배송비도 있고 오래 걸림, 나의 이야기
+>
+> Amazon Prime Shipping / Same-Day delivery, 맴버쉽가입, 무료 반품, 나의 이야기
+
+### 15. 요즘 핫한 서비스 , 상품
+
+> 음악 Devices
+
+
+
+## RP
+
+### 사고싶은 가구에 대해서 질문하기
 
 > Q. I am going to give you a situation to act out. Imagine that you have gone to a store to buy new furniture. Ask you salesperson three or four questions about the furniture you are looking for.
 
@@ -1177,16 +1693,193 @@ Hi there, my name is Sam.
 I’m looking for a new sofa for my living room, and this one really caught my attention.
 So, I'd like to ask you some questions.
 
-First, is this sofa available in a larger size?
+First, is this sofa available for 6 people. I mean mush larger sized one?
 I like lying down on the sofa, but this one looks a little small for that.
 
-Next, what kind of warranty does it come with?
-Since a sofa is a big investment for me, I want to make sure it’s well covered.
+Next, what kind of warranty does it come with? 
+Since a sofa is a big investment for me, I'd like to make sure it’s well-covered just in cases when the parts of the sofa including springs or frames happen to be broken.
 
-Lastly, what’s the average delivery time if I order today?
-I hope to have it before next month, so I’m wondering if that’s possible.
+Lastly, When can I received sofa if I order it today?
+I hope to have it delivered until next month, so I’m wondering if that’s possible.
 
 That’s all I needed to know for now.
+
+### 렌터카
+
+RP) 렌터카 빌리기
+안녕하세요. 제 이름은 준입니다.
+Hi, my name is Jun.
+저는 가족과 함께 이 나라를 일주일 동안 여행할 예정이에요. 차를 빌리기 전에 몇 가지 질문이 있어요.
+I’m here with my family, and we’re going to travel around this country for a week. I have a few questions before I rent a car.
+Q1) 첫째, 테슬라 모델Y 주니퍼 차량이 있나요?
+R1) 이 차는 제가 사고 싶은 차라 여행 중에 한번 운전해 보고 싶다.
+First, do you have a Tesla Model Y Juniper? I’ve been thinking about buying this car, so I’d love to try driving it during my trip.
+Q2) 다음으로, 차량에 네비게이션 기능이 있나요?
+R2) 저는 이 나라의 길을 잘 몰라서 꼭 필요해요.
+Q2) Next, does the car have a GPS with Korean?
+R2) I’m not familiar with the roads here, so it would be very helpful and my English is not good enough.
+Q3) 마지막으로, 하루 렌트 비용이 얼마인가요?
+R3) 보험료를 포함한 총 금액을 알려주세요.
+Q3) Lastly, how much is the daily rental fee including insurance?
+R3) I'd like to know if the rental fee is over 200 dollars and I can purchase a full-coverage plan for my family's safety.
+
+도와주셔서 정말 감사합니다. 
+Thanks so much for your help. 
+
+### 놓고 온 지갑을 돌려받도록 부탁하기
+
+Upon arriving home from the gym, you noticed that you left your wallet behind. Call the gym and explain your situation to the manager and ask him or her to look for it.
+
+[Script]
+Hello, there. This is Kay who have been a long-time member of your gym.
+
+I think I left my wallet at fitness center. 
+
+It’s been about 2 hours since I left the gym. 
+
+My wallet is a black leather one from Tom Brown. 
+
+I think when I did a treadmill, I left my wallet next to it. 
+
+Actually, I'm not sure about it
+
+I know you’re probably super busy, but could you take a quick look around treadmills? 
+
+I’m really concerned because there is a lot of cash because today is when I receive my weekly paycheck. 
+
+If you find it, could you please hold on to it? 
+
+I know it’s almost closing time, but I am on my way to the gym, so it will take about 30 minutes for me to get there
+
+When I get my wallet back, I’ll make it worth your while.
+
+Anyway, please call me back when you get this message. See you soon.
+
+> To fix this problem, I have two alternatives.
+>
+> First, Can you put my wallet into my locker if you find it? My password of the locker is one-one-four
+>
+> Alternatively, .....
+
+### 초대받은 파티에 대해 질문하기 - 3개
+
+Hello, Jack. This is Jason. 
+
+ 
+
+Thank you so much for inviting me to the party. 
+
+I saw you text including the basic info. Like time and location, which is perfect for me.
+So let me ask you a few questions. 
+
+What's the dress code of you party?
+
+Is it Pajama? or costume?, If you tell me the dress code, I'll get dressed up according to this. 
+
+I'm so excited.
+
+ 
+
+What time does the party start? 
+I have a meeting on the same day, so I'm going to change my schedule. 
+
+파티는 몇시에 시작하나요? 
+
+같은 날 미팅이 있어서 스케줄을 바꾸려고 합니다. 
+
+ 
+
+Where is the party? 
+I'll check the road conditions, and I'll arrive on time. 
+
+파티는 어디서 하나요? 
+
+도로가 상황을 
+
+확인해보고, 늦지 않게 도착할게요. 
+
+ 
+
+Can I bring wine to the party? 
+I have wine from my trip to Australia. 
+
+파티에 와인을 가져가도 되나요? 
+
+호주 여행에서 사 온 와인이 있습니다. 
+
+> 음식이랑 연계해서 쓰면 좋음?
+
+
+
+Am I allowed to bring my plus-one?
+
+Actually, I have my friend, Kay who came from North Korea and he's never been invited to A party.
+
+> [표현] I'm gonna hook him up with your friend. 
+
+Anyway, please call me back when you get this. Bye 
+
+### 항공사로 전화 :  예약
+
+Hi there, this is Edi.
+
+I’m calling to book flight tickets for two adults for a trip to Bangkok, Thailand. I tentatively consider my trip from Jan. 1st to Jan. 10th. I also need return tickets for that trip.
+
+I'd like to ask some questions to book the tickets.
+
+First, do you have any mileage tickets available? My friend and I each have one million miles, and we’d like to use them first.
+
+Nice to hear that. Next, are there any extra charges, such as fuel taxes or an airport service charge? 
+
+Lastly, can I upgrade to business class with miles? If so, how many extra miles would be required ? I don’t need first class.
+
+Please call me back when you get this message.
+
+Bye.
+
+### 호텔 예약
+
+Now, I’ll give you a situation and ask you to act it out. You are planning an upcoming stay at a hotel. Call the manager and ask three or four questions about the reservation you would like to make.
+Hello, there, this is ____. 
+I’m calling because I wanna make a reservation for your hotel. I will visit the hotel with my friend from August 4th to 7th. so I have some questions. 
+나 너희 호텔 예약하고 싶어서 전화했어. 8월 4일부터 7 일까지 내 친구와 함께 너희 호텔에 가게 될 것 같아. 그래서 몇가지 질문이 있어. 
+First, Is there any room available during those days I mentioned?  
+Two adults will use the room. 
+내가 말한 4일간 가능한 방이 있니?/ 어른 두명이 그 방을 사용할거야. 
+What’s the price of the Deluxe or twin room? 
+I prefer a twin room with separate beds. 
+그 방 가격이 어떻게 돼?/ 나는 침대가 분리되어있는 트윈룸을 선호해. 
+Does your hotel provide room service? 
+I think I’ll arrive at the hotel around 9 P.M., I also wonder what time the last order is available. 
+너희 호텔이 룸서비스를 제공하니? 
+나는 아마 저녁 9시에쯤 호텔에 도착할 것 같은데, 라스트오더 시간이 몇시인지도 궁금해
+Anyway, please call me back when you get this. Bye
+이 전화 들으면 다시 전화해줘 바이~~ 
+
+### 가구 배송 오류 상황 설명하고 대안 제시하기.
+
+Hello there, this is Nick
+I'm calling because there are some problems with the furniture I ordered.
+내가 주문한 가구에 문제가 있는 것 같습니다.
+Recently, I moved in/out and purchased a sofa and a table, but there’s serious problems with the sofa you delivered.
+최근에 이사를 하면서 소파와 테이블을 구매했는데, 당신들이 배송한 소파에 심각한 문제가 있습니다.
+I clearly ordered a leather sofa, but the one I received is made of fabric.
+저는 분명히 가죽 소파를 주문했는데, 배송된 소파는 패브릭 소재입니다.
+Also, the sofa’s packaging was already removed, so I think there was a big problem during delivery.
+게다가 소파의 포장도 이미 다 벗겨져 있어서, 배송 과정에 큰 문제가 있었던 것 같습니다.
+So, to fix these problems, I have a two alternatives.
+그래서 두 가지 대안을 제시하고 싶습니다.
+First, I'd like you to send a delivery person to pick up the wrong sofa and make sure I get the right one by tomorrow.
+첫째, 배송 기사님을 보내서 잘못 온 소파를 회수해 가시고, 내일까지 올바른 소파를 받을 수 있도록 해 주시죠.
+
+I'm so disappointed because ~~ 이유(한달 기다렸다, 파티가있다, 집을 비운다.)
+
+Or, if not, Can I a partial refund? I mean at least 20%.
+만약 그것이 불가능하다면, 최소한 구매 금액의 20%를 환불해 주셨으면 합니다.
+
+
+
+Anyway please let me know the best option. Bye
 
 ## Note
 
@@ -1221,6 +1914,24 @@ That’s all I needed to know for now.
 > Office clown
 >
 > Watch video clips on Youtube
+>
+> Significant / a lot 
+>
+> Open a new bank account.
+>
+> Shop for / Purchase / Buy / 
+>
+> Make it : 제 시간에 도착하다, 성공하다
+>
+> Stunning : amazing,  beautiful...
+>
+> Game-changer : 상황을 바꾸는
+>
+> Spooky 소름끼치는
+>
+> I'm dying for pizza.
+>
+> Wasted : 취하다는 뜻도 있음
 
 The good place season 1 episode 1
 
@@ -1256,6 +1967,12 @@ Friends
 > DUI : 음주운전
 >
 > Um...well.....you know,,, what I'm trying to say ...
+>
+> I was in panic. / I lost my mind.
+>
+> I was freaked out.
+>
+> The ad seemed like a fraud.
 
 ### Grammars
 
