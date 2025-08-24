@@ -29,7 +29,7 @@ Wish me good luck, Bye
 
 ## Movies
 
-### 1. Genres / types / kinds
+### 1. Genres / types / kinds ✅
 
 > ## 📝 정리 (로맨스 영화 주제)
 >
@@ -77,7 +77,7 @@ But he realizes that every time he travels, the good memories also disappear.
 They are not just sweet and fun. Sometimes it makes me sad.
 But, They make me think again about the people I love.
 
-### 2. Actors
+### 2. Actors ✅
 
 > ## 📝 정리 (Jim Carrey 주제)
 >
@@ -129,7 +129,7 @@ But, I always try to check if he has new movies coming out. because I'm still a 
 
 **Overall**, I really favor him the best
 
-### 2. Routine/ Before and after movies
+### 2. Routine/ Before and after movies ✅
 
 > [Items]
 >
@@ -178,7 +178,7 @@ If the movie is great or disappointing, I make sure to leave a rating about the 
 
 **Overall**, these are my routines.
 
-### 3. Memorable movie / (worst movie 도 이름만 생각해보기)
+### 3. Memorable movie / (worst movie 도 이름만 생각해보기) ✅
 
 > ## 📝 정리 (Bohemian Rhapsody 주제)
 >
@@ -232,7 +232,7 @@ Maybe that's why the movie is titled as Bohemian Rhapsody, not Queen.
 
 **Overall**, The movie Bohemian Rhapsody is more than just memorable. It's unforgettable for me.
 
-### 11. Role playing / 영화 예매
+### 11. Role playing / 영화 예매 ✅
 
 > ## 📝 정리 (전화 문의: 영화 예매)
 >
@@ -282,7 +282,7 @@ R1. You know, I may have urgent meetings at my work.
 
 Anyway, please call me back when you get this. Bye
 
-### 12. Role playing / 문제 발생
+### 12. Role playing / 문제 발생 ✅
 
 > ## 📝 정리 (티켓 문제 제기 전화)
 >
@@ -330,7 +330,7 @@ Alternatively, can you give me a full refund?
 
 Anyway, please let me know the best option. Bye.
 
-### 13. 너의 경험과 의견 / 친구가 신작을 봤는데 질문해보기
+### 13. 너의 경험과 의견 / 친구가 신작을 봤는데 질문해보기 ✅
 
 > Prevent you from going : Prevent A from B : A에게 B하는 것을 막다.
 
@@ -382,7 +382,7 @@ Lastly, what was the movie about? Can you tell me a little bit about the story?
 
 Anyway, please call me back when you get this. Bye
 
-### 13. 영화과 너무 노잼 인데, 떠나고 싶어요
+### 13. 영화과 너무 노잼 인데, 떠나고 싶어요 ✅
 
 > ## 📝 정리 (친구에게 영화 문제 제기)
 >
@@ -437,7 +437,7 @@ Anyway, please let me know the best option.
 
 
 
-### 14. 과거 vs 현재 뭐가 다르냐? (시제가 과거랑 현재가 섞임)
+### 14. 과거 vs 현재 뭐가 다르냐? (시제가 과거랑 현재가 섞임) ✅
 
 > There are some differences between the past and present about **movies**.
 >
@@ -499,7 +499,7 @@ Even so, CGI which stands for Computer Generated Imagery helps us experience mov
 
 **Overall**, I think the best movies come out when CGI supports human talent while preserving it.
 
-### 15. 요즘 영화에 관해서 사람들이 말하는 우려, 걱정
+### 15. 요즘 영화에 관해서 사람들이 말하는 우려, 걱정 ✅
 
 > ## 📝 정리 (영화 산업의 우려)
 >
@@ -558,7 +558,7 @@ So, I’m worried that this will make people spend even less.
 
 ## Musics
 
-### 1. Genre
+### 1. Genre ✅
 
 > ## 📝 정리 (좋아하는 음악: Jazz)
 >
@@ -611,7 +611,7 @@ Jazz makes my emotions feel more meaningful and deep.
 
 **Overall,** these are the reasons why I love jazz music.
 
-### 2. routine (2 mins under)
+### 2. routine (2 mins under) ✅
 
 > ## 📝 정리 (음악 루틴)
 >
@@ -662,7 +662,7 @@ Naturally, I turn up the volume and let the music fill the car
 
 
 
-### 3. 나의 음악감상, 과거/현재 비교
+### 3. 나의 음악감상, 과거/현재 비교 ✅
 
 > ## 📝 정리 (음악 취향: 과거 vs 현재)
 >
@@ -714,7 +714,7 @@ One thing that hasn’t changed is both still give me pleasure.
 
 **Overall,** these are the differences between the past and the present.
 
-### 3. 콘서트(Concert or Live music) 들은 경험,언제,누구랑,누구의 공유
+### 3. 콘서트(Concert or Live music) 들은 경험,언제,누구랑,누구의 공유 ✅
 
 > ## 📝 정리 (콘서트 경험)
 >
@@ -828,7 +828,7 @@ What brand do you recommend? Because, my old one is ...
 >
 > (원인 과정 결과, 다 필요)
 
-### 15. 최신 음악 기기에 대해 설명
+### 15. 최신 음악 기기에 대해 설명 ✅
 
 > When it comes to the latest music electronic gadget(device), people are talking about ....**Open-ear earbuds**
 > First, 제품 소개(브랜드, 모델명)
@@ -914,7 +914,7 @@ so I can keep them on all day
 
 ## 공원
 
-### 공원 설명
+### 공원 설명 ✅
 
 > ## 📝 정리 (좋아하는 공원: 불당공원)
 >
@@ -982,7 +982,7 @@ When I walk along there while listening to the music, it feels like I’m in a f
 
 **Overall,** that’s why I really like this park.
 
-### 공원 루틴
+### 공원 루틴 ✅
 
 > ## 📝 정리 (공원 루틴)
 >
@@ -1045,7 +1045,7 @@ Sometimes I throw my dog’s toys and play with her. I also take selfies with he
 
 **Overall,** these are my routines when I go to a park.
 
-### Memorable park 사건
+### Memorable park 사건 ✅
 
 > ## 📝 정리 (기억에 남는 공원 경험: 골프 흉내)
 >
@@ -1103,7 +1103,7 @@ When I think about how ridiculous I must have looked to people, it still makes m
 
 **Overall,** I’ve actually started learning real golf now, but I will never play golf in a park again.
 
-### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄)
+### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄) ✅
 
 **Hi Angela, This is Sam.**
 **I'm calling because I'd like to** go to the park we went before together
@@ -1120,7 +1120,7 @@ Because you told me before you wanted to see her.
 
 **Anyway, please call me back when you get this. Bye.**
 
-### 12.친구와 공원가기로 이미 했는데, 나의 사정으로 약속을 취소해야함. 대안 2개
+### 12.친구와 공원가기로 이미 했는데, 나의 사정으로 약속을 취소해야함. 대안 2개 ✅
 
 **Hi Angela, this is Sam.**
 
@@ -1148,7 +1148,7 @@ Again, I’m really sorry.
 
 ### 13. 기억에 남는 사건 (재탕)
 
-### 14. 공원에서의 어른 vs 아이 활동 비교
+### 14. 공원에서의 어른 vs 아이 활동 비교 ✅
 
 > ## 📝 정리 (공원 활동: 어린이 vs 어른)
 >
@@ -1221,7 +1221,7 @@ Still, they each enjoy a place in their own way.
 
 
 
-### 14. 자주 가는 공원 2개 비교
+### 14. 자주 가는 공원 2개 비교 ✅
 
 > ## 📝 정리 (불당공원 vs 성정호수공원)
 >
@@ -1293,7 +1293,7 @@ Overall, these are the similarities and differences between the two parks, they�
 
 
 
-### 15. 공공 공원이 직면한 문제
+### 15. 공공 공원이 직면한 문제 ✅
 
 > ## 📝 정리 (공원의 문제점)
 >
@@ -1357,7 +1357,7 @@ I recently saw an article saying some people even steal some plants from public 
 
 ## Domestic trip
 
-### 1. 내가 자주가는 Domestic destinations. 
+### 1. 내가 자주가는 Domestic destinations. ✅
 
 > ## 📝 정리 (좋아하는 국내 여행지: 서울)
 >
@@ -1427,7 +1427,7 @@ So, I never take my own car when I visit Seoul.
 
 Overall, that’s why I go to Seoul so often.
 
-### 2. 여행 준비 루틴 
+### 2. 여행 준비 루틴 ✅
 
 > ## 📝 정리 (여행 준비 루틴)
 >
@@ -1479,7 +1479,7 @@ As you know, these days YouTube and Netflix allow you to download content for of
 
 Overall, there might be **other little things** I do, but these are the main routines
 
-### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄) 
+### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄) ✅
 
 > ## 📝 정리 (어린 시절 기억에 남는 여행)
 >
@@ -1563,7 +1563,7 @@ So, for the rest of the trip, I sat on a bench with my arm in a cast, just watch
 >
 > Overall, 마무리(짧게)
 
-### 15. 여행 걱정과 우려 (e.g. visa, safety, conflict)
+### 15. 여행 걱정과 우려 (e.g. visa, safety, conflict) ✅
 
 > - ## 📝 정리 (여행의 문제: 비자 & 안전)
 >
@@ -1624,52 +1624,7 @@ Overall, stricter immigration checks and safety issues are two major concerns th
 
 ### 1. 기억에 남는 해외여행 국가나 도시
 
-> ## 📝 정리 (좋아하는 해외 여행지: 도쿄)
->
-> ### 🔑 **키워드**
->
-> - 도쿄 = 일본 수도, 내가 좋아하는 해외 여행지
-> - 즐길거리 → 나리타/하네다 통해 입국 / 나카메구로·시부야·아키하바라 / 나이트 마켓·팝업·테마 카페 / 일본 한정 체험 (예: 나이키 바이 유, 포켓몬 센터)
-> - 교통 → 지하철·JR선 등 대중교통 발달 / 환승 정보 앱 / 3~5분 간격 전철 → 차 필요 없음
-> - 결론 → 도쿄는 볼거리·즐길거리 많고 이동도 편리해서 좋아하는 해외 도시
-
-I think one of my favorite oversea destination is Tokyo, the capital city of Japan.
-
-
-
-First, there are many things to enjoy.
-
-I actually live in a quiet countryside town. So when I go on dates or hang out with friends, I often visit Seoul.
-
-That's because there are always new things to experience like night markes, pop-up stores, various events and so on.
-
-For example, last month I tried the service which called “Nike By You"
-
-Nike By You is a service that lets you design your own Nike products.
-
-It’s only available at certain Nike stores in Seoul.
-
-
-
-Next, it's very convenient to get around.
-
-In Seoul, I can go anywhere just by subway.
-
-If I set my destination on any popular map application on my phone.
-
-It gives me all the information I need.
-
-For example, it shows the exit number near my destination, the expected train arrival time, and the door number for the fastest transfer.
-
-Even if you miss a train, the next one usually comes within five minutes.
-
-That’s why I never take my own car when I visit the city.
-
-
-
-Overall, that’s why I go to Seoul so often.
-
-### 2. 다른 나라(도착)가서 하는 일 
+### 2. 다른 나라(도착)가서 하는 일 ✅
 
 > # 🗂️ 여행지에서 하는 루틴 정리
 >
@@ -1743,13 +1698,13 @@ It was hilarious[hɪˈleəriəs], and now those photos are the highlight of that
 
 ### 2. 유명한 해외 여행지(잘 안나옴)
 
-### 3. 첫 여행 언제 어디 누구 어디
+### 3. 첫 여행 언제 어디 누구 어디 ✅
 
 > 토론토(강매,초딩), 뉴욕   
 
 ### 3. 잊지 못할 여행에서의 경험 (위랑 비슷함)
 
-### 11. 여행사에 전화해서 여행 
+### 11. 여행사에 전화해서 여행 ✅
 
 > I'm calling because I'm  interested in / I'd like to ask you a few questions about ----
 >
@@ -1772,8 +1727,6 @@ It was hilarious[hɪˈleəriəs], and now those photos are the highlight of that
 > I heard taking a paddle boat should be the fun.
 
 Hello there, this is Sam.
-
-
 
 
 
@@ -1801,7 +1754,7 @@ Please call me back when you get this. Bye :D
 
 
 
-### 11. 환불 불가 , 다음주 여행 취소
+### 11. 환불 불가 , 다음주 여행 취소 ✅
 
 Hello there, this is Sam.
 
@@ -1833,7 +1786,7 @@ Anyway, please call me back and let me know which option works best. Bye :D
 
 ### 12. 친구와 함께갈 여행 여행사 질문
 
-### 12. 전화/ 일정이 안댄다고 알려줌, 친구에게 전화 
+### 12. 전화/ 일정이 안댄다고 알려줌, 친구에게 전화 ✅
 
 > # 📌 여행 취소 통화 스크립트 정리
 >
@@ -1911,7 +1864,7 @@ We might actually have an even better time.
 
 Please call me back with the best option. Bye
 
-### 14. 과거 현재 비교 / Max 10년 
+### 14. 과거 현재 비교 / Max 10년 ✅
 
 > # 📌 Traveling: Convenience Today vs. Past
 >
@@ -2009,7 +1962,7 @@ But every time I had a trouble, I used Samsung Galaxy’s real-time AI translato
 
 Overall, technology has developed so much that traveling has become more convenient and enjoyable than in the past.
 
-### 15. 해외여행이 어떻게 변했는지 과거/현재, 여려워졌냐 쉬워졌나
+### 15. 해외여행이 어떻게 변했는지 과거/현재, 여려워졌냐 쉬워졌나 ✅
 
 >  # 📌 Domestic Travel: Difficulties in the Last 5 Years
 >
@@ -2068,7 +2021,7 @@ Overall, I think these are the main reasons why traveling has become more diffic
 
 ## 쇼핑
 
-### 1. 우리나라의 쇼핑센터와 가게에 대해서 설명 
+### 1. 우리나라의 쇼핑센터와 가게에 대해서 설명 ✅
 
 > # 🛍️ Shopping in Korea
 >
@@ -2137,7 +2090,7 @@ So, when I go on an unexpected trip, I always order what I need on Coupang and r
 
 Overall, I think these are the typical shopping malls and stores in my country.
 
-### 2. 페이보릿 쇼핑 스팟 (신세계 10%활용)
+### 2. 페이보릿 쇼핑 스팟 (신세계 10%활용) ✅
 
 > # 🏬 Favorite Shopping Center: Starfield
 >
@@ -2211,7 +2164,7 @@ There are also well-designed parks and resting spaces and resting areas, and eve
 
 Overall, I think Starfield is one of the most iconic shopping malls in South Korea.
 
-### 2. 쇼핑 루틴 / 집떠날때 부터 돌아 올때까지 
+### 2. 쇼핑 루틴 / 집떠날때 부터 돌아 올때까지 ✅
 
 > It is a such a great shopping spree! : 플렉스 조진다.
 
@@ -2281,32 +2234,13 @@ On the way home, I stop by a Starbucks DT and grab an iced Americano to wrap up 
 
 Overall, these are my routines whenever I go shopping.
 
-### 3. 어릴 적 어떻게 쇼핑에 관심을 가지게 되었습니꽈?
+### 3. 어릴 적 어떻게 쇼핑에 관심을 가지게 되었습니꽈? 
 
 > 초등 고학년떄 패션에 관심이 생겨서 옷 악세사리 신발을 구매하기 시작해서.
 >
 > 교복, Mania, 온라인 쇼핑(짝퉁), 
 
-3-1)   Early memory=childhood, 어릴적의 어떻게 쇼핑에 관심을 가지게 되었는지  2분 20초
-Let me tell you about how I became interested in shopping first, I’d like talk about Pokemon stickers.
-어릴 때의 쇼핑에 관심을 가지게 된 계기에 대해 말해본다면, 나는 포켓몬 스티커에 대해서 말하고 싶다.
-When I was an elementary school student, there was a Pokemon sticker in the bread sold at the store. There were about 150 speciess and I wanted to collect all kinds. 
-내가 초등학교 학생 때, 빵을 구매하면 포켓몬 스티커가 들어있었다. 이 스티커의 종류는 약 150개가 있었는데, 나는 모든 종류를 모으고 싶었다. 
-Back then, sticker collection was all the rage, so many people lined up in the store every morning to collect these stickers and so I did. 
-그 당시에 스티커 모으기는 대유행이였기 때문에 많은 사람들이 이 스티커를 모으기 위하여 매일 아침 가게에 줄을 서 있었고, 나도 마찬가지였다. 
-Every morning when I got pocket money from my parents, I could buy a bread and I always waited for this time. I did housework to get pocket money and when I got more pocket money, I ran to the store and bought bread. 
-매일 아침마다 부모님께 용돈을 받으면, 빵 하나를 살수 있었는데 난 항상 이 시간을 기다렸다. 
-용돈을 받기 위해서 항상 집안일을 했고 용돈을 더 받으면 바로 가게로 뛰어가 빵을 구매했다. 
-Actually, there was a time when I didn’t eat it after buying bread and only collected stickers. The bread I didn’t eat was always eaten by my dad and my house was full of bread. 
-사실 빵만 사고 스티커만 모은 적도 있었다. 먹지 않은 빵은 항상 아빠 차지였고, 그때 우리집은 먹지 않은 빵으로 가득 차 있었다. 
-My mom and dad didn’t understand me, but I was totally crazy=mad=insane about colleting stickers. 
-엄마아빠는 나를 이해하지 못하였지만 나는 완전 스티커 모으기에 미쳐있었다. 
-I scrapped these items because it was so precious[프레셔스] and this scrapbook was one of my brags[브랙스]. 
-나는 이 스티커가 너무나 소중해서 스크랩북에 스크랩을 하였는데, 이 스크랩북은 내 자랑 중 하나였다. 
-I had time to get together with my friends every day to compare my stickers and exchange stickers that each person didn’t have. I gathered almost 50 kinds, but compared to my friends, I couldn’t gather much, so I was always jealous [젤러스]of other friends. 
-매일 친구들과 모여서 자신의 스티커를 비교하고, 각자에게 없는 스티커를 교환하는 시간을 가졌다. 나는 거의 50가지 종류를 모았는데, 친구들에 비하면 나는 많이 모으지 못해서 항상 다른친구들이 부러웠다. 
-Overalls, now I’ve lost interest, but this is the memory that stared my shopping interest. 
-이제는 흥미를 잃어버렸지만, 이것이 내 쇼핑 흥미시작이 된 기억이다. 
+
 
 ### 3. 최근 쇼핑 경험
 
@@ -2391,7 +2325,7 @@ This product I made a purchase wasn't applied with the sales price
 >
 > : health food store, supplements 영양제, protein powder, snack .... 
 
-### 14. 쇼핑 변화 (과거/현재) 
+### 14. 쇼핑 변화 (과거/현재) ✅
 
 > # 🛍 Past vs Present Shopping
 >
@@ -2465,7 +2399,7 @@ Overall, I think these are the main differences between the past and the present
 
 ## 해변
 
-### 1. 페이보릿 해변 
+### 1. 페이보릿 해변 ✅
 
 > First, 해변 자체(교통, 지역, 위치)
 > Also, 주변 환경(자연, 카페)
@@ -2522,7 +2456,7 @@ There are many new fancy coffee places where you can sit on a terrace, have a cu
 
 Overall, these are the reasons Mongdol Beach is my favorite place to relax.
 
-### 2. 해변에서의 활동/루틴 
+### 2. 해변에서의 활동/루틴 ✅
 
 > # 🏖 Beach Routines
 >
@@ -2570,7 +2504,7 @@ Next, there are a couple of things I usually do at a beach.
 
 Overall, these are my routines whenever I go to a beach.
 
-### 3. 메모러블 해변 
+### 3. 메모러블 해변 ✅
 
 > # 🏖 Memorable Beach Story – Taean Beach
 >
@@ -2641,7 +2575,7 @@ Overall, Taean Beach is the most memorable beach for me, and I sometimes go back
 
 ## 부동산
 
-### 11. 집을 찾고 있음, 부동산 중개업체(a real estate agency/agent) 전화, 자기 소개, 질문 3개(마지막 약속 잡기 하면 좋음) 
+### 11. 집을 찾고 있음, 부동산 중개업체(a real estate agency/agent) 전화, 자기 소개, 질문 3개(마지막 약속 잡기 하면 좋음) ✅
 
 > [자기소개]
 >
@@ -2678,7 +2612,7 @@ Would you be available then? I’ll bring my car, so we can go around and see th
 
 Anyway, please call me back, when you get this. Bye
 
-### 11.  집갔더니 유리가 망가져서 수리점에 오늘 당장 수리 받기 
+### 11.  집갔더니 유리가 망가져서 수리점에 오늘 당장 수리 받기  ✅
 
 > 금가거나 꺠진거 설명
 >
@@ -2697,7 +2631,7 @@ Please let me know what can be done as soon as possible. Thank you for your help
 
 ## 재활용
 
-### 1. 우리나라의 재활용 시스템 소개, Practice 시행하다. (Technology 기사 추가) 😶‍🌫️
+### 1. 우리나라의 재활용 시스템 소개, Practice 시행하다. (Technology 기사 추가) ✅
 
 > ------
 >
@@ -2756,7 +2690,7 @@ Overall, this system is clear, and it makes recycling a normal part of life.
 
 
 
-### 2. 나의 재활용 루틴 (재활용품의 이름) 😶‍🌫️
+### 2. 나의 재활용 루틴 (재활용품의 이름) ✅
 
 > 시간(on Wednesdays) / 장소(utility room, storage room, my room) / 방법 (each bag / separate bin)
 
@@ -2811,7 +2745,7 @@ Overall, that’s how I handle my recycling routine.
 
 
 
-### 3/14. 어릴 때 재활용(과거/현재) 😶‍🌫️
+### 3/14. 어릴 때 재활용(과거/현재) ✅
 
 > # ♻ Recycling: Past vs Present
 >
@@ -2914,113 +2848,62 @@ Also, 재활용품은 언제 어디서 수거해 간다.
 
 ## 지형
 
-### 1. 우리나라의 지형 묘사 📕
-
-> # 🌏 South Korea’s Geography
->
-> ## 🔑 키워드
->
-> - **Mountains** → 75%, eastern part mountainous, reachable in 1 hr, 4 seasons → different scenery
-> - **Childhood** → didn’t like → hiking tough → now see advantage (rest, recharge)
-> - **Seas** → Peninsula, 3 sides sea, other side North Korea (feels like island)
-> - **East vs West** → West = shallow, East = deep + clear + beautiful, trip not easy but special
->
-> ------
->
-> ## 🧩 핵심 이야기 흐름
->
-> 1. 주제 제시 → “When it comes to the geography of South Korea, I’d like to talk about the mountains and the seas.”
-> 2. Mountains → 75%, close by, seasonal beauty → childhood dislike → now big advantage
-> 3. Seas → peninsula, 3 sides sea, almost like island → West shallow, East deep & clear, mountainous coast → harder to reach, but more special
-> 4. 결론 → “Overall, these are key features of South Korea’s geography.”
->
-> ------
->
-> ## 💡 표현 패턴
->
-> - 시작:
->   - “South Korea is known for its mountains.”
->   - “About 75 percent of the land is covered with mountains.”
->   - “No matter where you are, you can usually reach a mountain within an hour.”
-> - 경험:
->   - “When I was young, I didn’t like hiking, but now I see it as a huge advantage.”
->   - “It gives me a great place to rest and recharge.”
-> - 바다:
->   - “South Korea is a peninsula, so three sides are surrounded by seas.”
->   - “It almost feels like an island because the north borders North Korea.”
->   - “The West Sea is shallow, but the East Sea is deeper, clearer, and more beautiful.”
->   - “The trip to the east coast is not always easy, but that makes it special.”
-> - 마무리:
->   - “Overall, I think these are some key features of South Korea’s geography.”
+### 1. 우리나라의 지형 묘사 ✅📕
 
 **When it comes to** the geography of South Korea, I’d like to talk about two things (I mean) the mountains and the seas.
 
 **First**, South Korea is known for its mountains. 
 
-About 75 percent of the land is covered with mountains, and the eastern part is especially mountainous. 
-
-No matter where you are, you can usually reach a mountain within an hour. 
-
-Since Korea has four distinct seasons, the scenery looks different all year round.
-
-**When I was young,** I didn’t like the mountains because my family often took me hiking, and I found it really tough. 
-
-But now, I realize that having nature so close is actually a huge advantage, since it gives me a great place to rest and recharge.
+About 75 percent of the land is covered with mountains, and the eastern part is especially mountainous. No matter where you are, you can usually reach a mountain within an hour. Since Korea has four distinct seasons, the scenery looks different all year round.**When I was young,** I didn’t like the mountains because my family often took me hiking, and I found it really tough. But now, I realize that having nature so close is actually a huge advantage, since it gives me a great place to rest and recharge.
 
 **Next**, my country is a peninsula[페닌술라-], so three sides are surrounded by the seas. 
 
-The other side borders North Korea, so it almost feels like an island. 
-
-The West Sea is quite shallow, while the East Sea is much deeper. 
-
-I prefer the East Sea because the water is more clear and the scenery is more beautiful. 
-
-The east coast is also mountainous, so getting there is not always easy, but that makes the trip even more special.
+The other side borders North Korea, so it almost feels like an island. The West Sea is quite shallow, while the East Sea is much deeper. I prefer the East Sea because the water is more clear and the scenery is more beautiful. The east coast is also mountainous, so getting there is not always easy, but that makes the trip even more special.
 
 **Overall**, I think these are some key features of South Korea’s geography.
 
- 
+---
 
-### 2. 주변국 묘사 📕
+When it comes to the geography of South Korea, / I’d like to talk about two things. / (I mean) the mountains / and the seas.
+ → 한국의 지리에 대해 말하자면, / 저는 두 가지, / 즉 산과 바다에 대해 이야기하고 싶습니다.
 
-> # 🇯🇵 South Korea’s Neighbor: Japan
->
-> ## 🔑 키워드
->
-> - **Close** → 2 hrs by plane, familiar yet different
-> - **Food** → sushi (fresh/light), ramen (Ichiran), tempura
-> - **Culture** → anime/manga, *Attack on Titan* (popular, global influence)
-> - **People** → polite, bowing, kind to visitors → good impression
->
-> ------
->
-> ## 🧩 핵심 이야기 흐름
->
-> 1. 주제 제시 → “When it comes to South Korea’s neighboring countries, I’d like to talk about Japan.”
-> 2. 가까움 → short flight, familiar but different
-> 3. 음식 → sushi, ramen (Ichiran), tempura, personal preference 강조
-> 4. 문화 → anime/manga, 영향력, 개인 경험 (*Attack on Titan*)
-> 5. 사람들 → polite, bowing, 친절, 좋은 인상
-> 6. 마무리 → “Overall, these are some things I’d like to share about Japan.”
->
-> ------
->
-> ## 💡 표현 패턴
->
-> - 거리/접근성
->   - “It only takes a couple of hours by plane.”
->   - “The culture feels familiar but also different, which makes it interesting.”
-> - 음식
->   - “Japanese dishes like sushi, ramen, and tempura are very popular in Korea.”
->   - “Personally, I really enjoy sushi because it’s fresh and light.”
->   - “Whenever I visit Japan, I always look for a good sushi restaurant.”
-> - 문화
->   - “Japanese anime and comics, called manga, are really popular.”
->   - “Recently, I watched *Attack on Titan*, and it was really exciting.”
-> - 사람들
->   - “People in Japan are usually very polite and well-mannered.”
->   - “They bow to greet each other, and they are kind to visitors.”
->   - “That left a strong impression on me.”
+First, / South Korea is **known for** its mountains.
+ → 첫째, / 한국은 산으로 유명합니다.
+
+About 75 percent of the land / is **covered with** mountains, / and the eastern part / is especially mountainous.
+ → 국토의 약 75%가 / 산으로 덮여 있고, / 동부 지역은 / 특히 산이 많습니다.
+
+No matter where you are, / you can usually **reach** a mountain / within an hour.
+ → 어디에 있든, / 보통 한 시간 안에 / 산에 도착할 수 있습니다.
+
+Since Korea has **four distinct seasons**, / the scenery looks different / all year round.
+ → 한국에는 뚜렷한 4계절이 있어서, / 경치가 달라 보입니다 / 일 년 내내.
+
+When I was young, / I didn’t like the mountains / because my family often took me hiking, / and I found it really tough.
+ → 어렸을 때, / 저는 산을 좋아하지 않았습니다. / 가족이 자주 저를 등산에 데려갔고, / 그것이 정말 힘들었기 때문입니다.
+
+But now, / I realize that **having nature so close** / is actually **a huge advantage**, / since it gives me / a great place to rest and recharge.
+ → 하지만 지금은, / 자연이 가까이에 있다는 것이 / 사실 큰 장점임을 깨닫습니다. / 왜냐하면 그것이 저에게 / 휴식하고 재충전할 수 있는 좋은 장소를 주기 때문입니다.
+
+Next, / my country is **a peninsula[pə-ˈnɪn-sə-lə]**, / so three sides are surrounded by the seas.
+ → 다음으로, / 우리나라는 반도라서, / 세 면이 바다로 둘러싸여 있습니다.
+
+The other side **borders[ˈbɔːr.dɚz]** North Korea, / so it almost feels like an island.
+ → 나머지 한 면은 북한과 접하고 있어서, / 거의 섬처럼 느껴집니다.
+
+The West Sea is quite shallow, / while the East Sea is much deeper.
+ → 서해는 꽤 얕고, / 반면에 동해는 훨씬 깊습니다.
+
+I prefer the East Sea / because the water is more clear / and the scenery is more beautiful.
+ → 저는 동해를 더 좋아합니다. / 물이 더 맑고, / 풍경이 더 아름답기 때문입니다.
+
+The east coast is also mountainous, / so **getting there** is not always easy, / but that makes the trip / even more special.
+ → 동해안도 산이 많아서, / 가는 것이 항상 쉽지는 않지만, / 그렇기 때문에 그 여행이 / 더 특별해집니다.
+
+Overall, / I think these are some key features / of South Korea’s geography.
+ → 전반적으로, / 저는 이것들이 몇 가지 주요 특징이라고 생각합니다 / 한국 지리의.
+
+### 2. 주변국 묘사 ✅📕
 
 **When it comes to** South Korea’s neighboring countries, I’d like to talk about Japan.
 
@@ -3052,7 +2935,87 @@ When I traveled to Japan, I noticed that people bowed to greet each other, and t
 
 **Overall**, these are some things I’d like to share about Japan.
 
+---
 
+When it comes to South Korea’s neighboring countries, / I’d like to talk about Japan.
+ → 한국의 주변국에 대해 말하자면, / 저는 일본에 대해 이야기하고 싶습니다.
+
+- When it comes to ~ : ~에 대해 말하자면
+
+First of all, / Japan is very close to my country, / so a lot of Koreans travel there often.
+ → 첫째, / 일본은 우리나라와 매우 가까워서, / 많은 한국 사람들이 자주 여행을 갑니다.
+
+- very close to ~ : ~에 매우 가깝다
+
+It only takes a couple of hours by plane, / and the culture feels familiar but also different, / which makes it really interesting.
+ → 비행기로 몇 시간밖에 걸리지 않고, / 문화는 익숙하면서도 달라서, / 정말 흥미롭게 만듭니다.
+
+- a couple of hours : 몇 시간
+- familiar but also different : 익숙하면서도 다른
+
+Also, / Japan is famous for its food.
+ → 또한, / 일본은 음식으로 유명합니다.
+
+- be famous for ~ : ~로 유명하다
+
+Japanese dishes like sushi, ramen, and tempura / are very popular in South Korea.
+ → 초밥, 라면, 튀김 같은 일본 요리는 / 한국에서 매우 인기가 많습니다.
+
+- dishes like ~ : ~와 같은 요리
+
+Personally, / I really enjoy sushi because it’s fresh and light, / and whenever I visit Japan, / I always look for a good sushi restaurant.
+ → 개인적으로, / 저는 초밥이 신선하고 가벼워서 정말 좋아합니다. / 일본에 갈 때마다, / 저는 항상 좋은 초밥집을 찾습니다.
+
+- look for ~ : ~을 찾다
+- fresh and light : 신선하고 가벼운
+
+I also enjoy ramen, / and my favorite place is Ichiran Ramen.
+ → 저는 라면도 좋아하는데, / 제가 가장 좋아하는 곳은 이치란 라멘입니다.
+
+Next, / Japanese culture has a big influence around the world.
+ → 다음으로, / 일본 문화는 전 세계에 큰 영향을 끼칩니다.
+
+- have a big influence : 큰 영향을 끼치다
+
+For example, / Japanese anime[아니메] and comics, called manga, / are really popular.
+ → 예를 들어, / 일본 애니메이션과 만화인 망가는 / 정말 인기가 많습니다.
+
+- anime, manga : 일본 애니메이션·만화
+
+Many young people in Korea / grew up watching Japanese cartoons, / and I think they are part of everyday life now.
+ → 한국의 많은 젊은이들이 / 일본 만화를 보며 자랐고, / 지금은 그것이 일상의 일부라고 생각합니다.
+
+- grow up ~ing : ~하면서 자라다
+
+Recently, / I watched *Attack on Titan*, / and it was really exciting.
+ → 최근에 / 저는 진격의 거인을 봤는데, / 정말 재미있었습니다.
+
+- exciting : 신나는, 재미있는
+
+Finally, / I’d like to mention the people in Japan.
+ → 마지막으로, / 일본 사람들에 대해 말하고 싶습니다.
+
+They are usually very polite and well-mannered.
+ → 그들은 보통 매우 예의 바르고 매너가 좋습니다.
+
+- polite and well-mannered : 예의 바르고 매너가 좋은
+
+When I traveled to Japan, / I noticed that people bowed to greet each other, / and they were very kind to visitors.
+ → 제가 일본에 여행 갔을 때, / 사람들이 인사할 때 절하는 것을 보았고, / 관광객들에게 매우 친절했습니다.
+
+- bow to greet : 절하며 인사하다
+- be kind to ~ : ~에게 친절하다
+
+That left a strong impression on me / and made my trip even more pleasant.
+ → 그것은 저에게 강한 인상을 남겼고, / 제 여행을 더 즐겁게 만들어줬습니다.
+
+- leave a strong impression : 강한 인상을 남기다
+- pleasant : 즐거운
+
+Overall, / these are some things I’d like to share about Japan.
+ → 전반적으로, / 이것이 제가 일본에 대해 나누고 싶은 몇 가지 이야기입니다.
+
+- I’d like to share about ~ : ~에 대해 나누고 싶다
 
 ### 3. 우리나라 야외 활동
 
@@ -3076,45 +3039,7 @@ Overall, I think Korea’s unique geography (with its mountains and seas) gives 
 
 ### 4.메모러블 지형관련 기억에 남는 경험
 
-### 3. 우리나라 지역 한 곳 10년간 과거, 현재 비교 (도시 개발, 관광....등)📕
-
-> # 🏙 Pangyo’s Transformation
->
-> ## 🔑 키워드
->
-> - **Past (10 yrs ago)** → quiet town, apartments, small shops
-> - **Now** → “Silicon Valley of Korea”
-> - **Companies** → Naver HQ, Kakao offices, startups
-> - **Lifestyle** → shopping malls, cafés, department store, cultural spaces
-> - **Vibe** → more vibrant, family-friendly
-> - **Personal experience** → amazed by growth, good place to live (software background)
->
-> ------
->
-> ## 🧩 핵심 이야기 흐름
->
-> 1. 주제 → “I’d like to talk about Pangyo, which has changed a lot over the past ten years.”
-> 2. 과거 → quiet residential area, few shops/restaurants → people went to Seoul
-> 3. 현재 → IT hub (“Silicon Valley of Korea”), Naver HQ, Kakao offices → startups thrive
-> 4. 생활 → new malls, cafés, department store → vibrant weekends, cultural spaces
-> 5. 경험 → 방문(지난달) → amazed by modern vibe → great place for IT professionals
-> 6. 마무리 → “Overall, Pangyo has grown from a quiet town into a hub for technology and modern life.”
->
-> ------
->
-> ## 💡 표현 패턴 (암기 포인트)
->
-> - **비교/대조**
->   - “About ten years ago, Pangyo was just a quiet place…”
->   - “But now, it’s often called the Silicon Valley of Korea.”
-> - **예시**
->   - “For example, Naver built its headquarters there, and Kakao also opened offices.”
-> - **변화 강조**
->   - “Life there has gotten a lot better.”
->   - “The area feels much more vibrant than before.”
-> - **개인 경험**
->   - “When I visited last month, I was amazed at how modern it was.”
->   - “With my background in software programming, I thought it would be a great place to live someday.”
+### 3. 우리나라 지역 한 곳 10년간 과거, 현재 비교 (도시 개발, 관광....등)✅📕
 
 I’d like to talk about Pangyo, which has changed a lot over the past ten years.
 
@@ -3140,6 +3065,67 @@ Because of that, the area feels more **vibrant** than before.
 
 **Overall**, Pangyo has grown from a quiet town into a hub for technology and modern life.
 
+---
+
+I’d like to talk about Pangyo, which has changed a lot over the past ten years.
+ → 지난 10년 동안 많이 변한 판교에 대해 이야기하고 싶습니다.
+
+- over the past ten years : 지난 10년 동안
+
+First, the business environment has changed dramatically.
+ → 첫째, 비즈니스 환경이 극적으로 변했습니다.
+
+- change dramatically : 극적으로 변하다
+
+About ten years ago, Pangyo was just a quiet place to live with some apartments and shops.
+ → 약 10년 전만 해도, 판교는 아파트와 가게 몇 개가 있는 조용한 주거지였습니다.
+
+But now, it’s often called the “Silicon Valley of South Korea”, because many IT companies have moved there.
+ → 하지만 지금은 많은 IT 기업들이 들어서면서 “한국의 실리콘밸리”라고 불립니다.
+
+- be called ~ : ~라고 불리다
+
+For example, Naver built its headquarters in Pangyo, and Kakao also opened its offices there.
+ → 예를 들어, 네이버가 판교에 본사를 세웠고, 카카오도 사무실을 열었습니다.
+
+- headquarters (헤드쿼터즈) : 본사
+- open offices : 사무실을 열다
+
+These two companies are very famous in Korea, so the area soon became a tech hub.
+ → 이 두 회사는 한국에서 매우 유명해서, 그 지역은 곧 기술 중심지가 되었습니다.
+
+- tech hub : 기술 중심지
+
+Next, life there has also gotten a lot better.
+ → 다음으로, 그곳의 생활도 훨씬 나아졌습니다.
+
+In the past, there were only a few restaurants and small stores, so people often went to Seoul for shopping or entertainment.
+ → 과거에는 식당과 작은 가게 몇 개만 있어서, 사람들은 쇼핑이나 여가를 위해 종종 서울에 갔습니다.
+
+But today, Pangyo has modern shopping malls, trendy cafes, and cultural spaces.
+ → 하지만 오늘날 판교에는 현대적인 쇼핑몰, 세련된 카페, 문화 공간이 있습니다.
+
+- trendy cafes : 세련된 카페
+
+A large department store opened, and now many families spend their weekends there.
+ → 대형 백화점도 생겨서, 이제 많은 가족들이 주말을 그곳에서 보냅니다.
+
+Because of that, the area feels more vibrant than before.
+ → 그 덕분에, 이 지역은 전보다 더 활기차게 느껴집니다.
+
+- vibrant : 활기찬
+
+When I visited there last month, I was amazed at how modern it was, with so many tech offices and startups.
+ → 지난달에 방문했을 때, 수많은 기술 기업과 스타트업들로 얼마나 현대적인지 놀랐습니다.
+
+- be amazed at ~ : ~에 놀라다
+
+With my background in software programming, I thought it would be a great place to live someday.
+ → 제 소프트웨어 프로그래밍 배경을 생각했을 때, 언젠가 살기에 좋은 곳이 될 거라 생각했습니다.
+
+Overall, Pangyo has grown from a quiet town into a hub for technology and modern life.
+ → 전반적으로, 판교는 조용한 마을에서 기술과 현대적인 삶의 중심지로 성장했습니다.
+
 ### 11. 미국 갔다온 친구에게 전화를 걸어서 지형을 포함 3가지 질문,
 
 > 서부, 동부... 교통 날씨...
@@ -3148,15 +3134,183 @@ Because of that, the area feels more **vibrant** than before.
 
 > Reschedule, zoom, DM, 
 
-### 14. 주변국과 외교관계 (정책,문화,경제) 😇
+### 14. 주변국과 외교관계 (정책,문화,경제) ✅😇
 
-### 15. 주변국과 역사적 사건... 관계에 영향을 준 것... 문화행사(올림픽)...... 대통령이나 장관이 방문.... 😇
+When it comes to Korea’s relationship with neighboring countries, I’d like to talk about our cooperation with Japan and China.
+
+First, in terms of the economy, these countries are Korea’s biggest trading partners. 
+
+Our economies are deeply connected and rely on each other in many ways. For example, many Korean companies export semiconductors and cars to China and Japan, and at the same time, we import raw materials and important technology from them. I think this close economic cooperation makes all three countries stronger and more competitive in the global market.
+
+Next, we also share many cultural exchanges. 
+
+Culture is something that people can easily relate to in daily life. For instance, K-pop, K-dramas, and Korean food are very popular in Japan and China, while Korean people enjoy Japanese animations and Chinese food. Personally, I feel this kind of cultural exchange brings people closer, even when there are political issues.
+
+Overall, I think these relationships are important for peace and growth in the region.
+
+---
+
+When it comes to Korea’s relationship with neighboring countries, I’d like to talk about our cooperation with Japan and China.
+ → 한국의 주변국과의 관계에 대해 말하자면, 저는 일본과 중국과의 협력에 대해 이야기하고 싶습니다.
+
+First, in terms of the economy, these countries are Korea’s biggest trading partners.
+ → 첫째, 경제적인 측면에서 이 나라들은 한국의 가장 큰 교역 상대국입니다.
+
+Our economies are deeply connected and rely on each other in many ways.
+ → 우리 경제는 깊이 연결되어 있고 여러 면에서 서로에게 의존하고 있습니다.
+
+For example, many Korean companies export semiconductors and cars to China and Japan, and at the same time, we import raw materials and important technology from them.
+ → 예를 들어, 많은 한국 기업들은 반도체와 자동차를 중국과 일본에 수출하고, 동시에 우리는 그들로부터 원자재와 중요한 기술을 수입합니다.
+
+I think this close economic cooperation makes all three countries stronger and more competitive in the global market.
+ → 저는 이런 긴밀한 경제 협력이 세 나라 모두를 더 강하고 세계 시장에서 경쟁력 있게 만든다고 생각합니다.
+
+Next, we also share many cultural exchanges.
+ → 다음으로, 우리는 많은 문화 교류도 하고 있습니다.
+
+Culture is something that people can easily relate to in daily life.
+ → 문화는 사람들이 일상에서 쉽게 공감할 수 있는 것입니다.
+
+For instance, K-pop, K-dramas, and Korean food are very popular in Japan and China, while Korean people enjoy Japanese animations and Chinese food.
+ → 예를 들어, K-pop, 한국 드라마, 한국 음식은 일본과 중국에서 인기가 많고, 한국 사람들은 일본 애니메이션과 중국 음식을 즐깁니다.
+
+Personally, I feel this kind of cultural exchange brings people closer, even when there are political issues.
+ → 개인적으로 저는 이런 문화 교류가 정치적 문제가 있을 때에도 사람들을 더 가깝게 만든다고 느낍니다.
+
+Overall, I think these relationships are important for peace and growth in the region.
+ → 전반적으로, 저는 이런 관계들이 지역의 평화와 성장을 위해 중요하다고 생각합니다.
+
+### 15. 주변국과 역사적 사건... 관계에 영향을 준 것... 문화행사(올림픽)...... 대통령이나 장관이 방문.... ✅😇
+
+When it comes to a recent event with a neighboring country, I’d like to talk about the removal of loudspeakers along the border in 2025.
+
+First, these loudspeakers had been used for decades to send messages and even music across the border. They were very **symbolic**, because they reminded people of the constant hostility between the two Koreas. So when South Korea turned them off, I felt it was more than just a small change. To me, it was a hopeful **gesture** showing that both sides might be ready to reduce tension.
+
+Next, I believe this move opened the door for better communication. It may look simple, but I think small actions like this can create trust and prepare the ground for real dialogue. Personally, I was quite encouraged when I read the news, because it showed that peace can start from very basic steps.
+
+**Overall, I think it was a small but meaningful step toward peace.**
+
+---
+
+When it comes to a recent event with a neighboring country, I’d like to talk about the removal of loudspeakers along the border in 2025.
+ → 최근 있었던 주변국 관련 사건으로는 2025년 국경의 확성기 철거를 이야기하고 싶습니다.
+
+- When it comes to ~ : ~에 대해 말하자면
+- removal of ~ : ~의 철거
+
+First, these loudspeakers had been used for decades to send messages and even music across the border.
+ → 첫째, 이 확성기들은 수십 년 동안 국경을 넘어 메시지와 음악을 보내는 데 사용되었습니다.
+
+- for decades : 수십 년 동안
+- send messages : 메시지를 보내다
+
+They were very symbolic, because they reminded people of the constant hostility between the two Koreas.
+ → 그것들은 매우 상징적이었는데, 남북 간의 지속적인 적대감을 사람들에게 상기시켰기 때문입니다.
+
+- symbolic : 상징적인
+- constant hostility : 지속적인 적대감
+
+So when South Korea turned them off, I felt it was more than just a small change.
+ → 그래서 한국이 그것들을 껐을 때, 저는 단순한 작은 변화 이상이라고 느꼈습니다.
+
+- more than just ~ : 단순히 ~ 이상의
+- I felt ~ : 나는 ~라고 느꼈다
+
+To me, it was a hopeful gesture showing that both sides might be ready to reduce tension.
+ → 제게는 양측이 긴장을 완화할 준비가 되어 있음을 보여주는 희망적인 제스처였습니다.
+
+- hopeful gesture : 희망적인 제스처
+- reduce tension : 긴장을 완화하다
+
+Next, I believe this move opened the door for better communication.
+ → 다음으로, 저는 이 조치가 더 나은 대화를 위한 문을 열었다고 생각합니다.
+
+- opened the door for ~ : ~의 길을 열다
+
+It may look simple, but I think small actions like this can create trust and prepare the ground for real dialogue.
+ → 단순해 보일 수 있지만, 이런 작은 행동들이 신뢰를 쌓고 실제 대화를 위한 기반을 마련한다고 생각합니다.
+
+- small actions like this : 이런 작은 행동들
+- create trust : 신뢰를 쌓다
+- prepare the ground for ~ : ~을 위한 기반을 마련하다
+
+Personally, I was quite encouraged when I read the news, because it showed that peace can start from very basic steps.
+ → 개인적으로, 이 뉴스를 읽었을 때 꽤 고무되었는데, 이는 평화가 아주 기본적인 조치에서 시작될 수 있음을 보여줬기 때문입니다.
+
+- I was encouraged : 나는 고무되었다, 힘을 얻었다
+- peace can start from ~ : 평화는 ~에서 시작될 수 있다
+
+Overall, I think it was a small but meaningful step toward peace.
+ → 전반적으로, 저는 이것이 작지만 의미 있는 평화를 향한 한 걸음이었다고 생각합니다.
+
+- a small but meaningful step : 작지만 의미 있는 한 걸음
+- toward peace : 평화를 향해
 
 ## 산업
 
-### 1. 너네 나라 잘알려진 산업 😇
+### 1. 너네 나라 잘알려진 산업 ✅😇
 
-> 업종, 이유 2개, 업체는 소개 정도만
+When it comes to a well-known industry in my country, I’d like to talk about the semiconductor industry.
+
+First, semiconductors are essential for modern life. Without them, smartphones, laptops, or even cars wouldn’t work. They basically act as the brains of electronic devices and control how they function. For example, the recent boom in AI technology, like ChatGPT or self-driving cars, is only possible because of high-performance chips that process enormous amounts of data quickly.
+
+Next, only a few companies in the world can produce these advanced semiconductors, and Korea is home to some of them. Global leaders like Samsung and SK Hynix supply memory chips to major tech firms across the world. Thanks to their products, Korea has become a strong player in the global market and a reliable partner in the high-tech industry.
+
+Overall, I believe semiconductors are Korea’s pride and a key driver of global innovation.
+
+---
+
+When it comes to a well-known industry in my country, I’d like to talk about the semiconductor industry.
+ → 우리나라에서 잘 알려진 산업으로는 반도체 산업에 대해 이야기하고 싶습니다.
+
+- When it comes to ~ : ~에 대해 말하자면
+- well-known industry : 잘 알려진 산업
+
+First, semiconductors are essential for modern life. Without them, smartphones, laptops, or even cars wouldn’t work.
+ → 첫째, 반도체는 현대 생활에 필수적입니다. 그것이 없으면 스마트폰, 노트북, 자동차조차 작동하지 않습니다.
+
+- essential for ~ : ~에 필수적인
+- wouldn’t work : 작동하지 않을 것이다
+
+They basically act as the brains of electronic devices and control how they function.
+ → 반도체는 기본적으로 전자 기기의 두뇌 역할을 하며 그 작동을 제어합니다.
+
+- act as ~ : ~의 역할을 하다
+- the brains of ~ : ~의 두뇌
+
+For example, the recent boom in AI technology, like ChatGPT or self-driving cars, is only possible because of high-performance chips that process enormous amounts of data quickly.
+ → 예를 들어, 최근의 AI 기술 붐(챗GPT나 자율주행차 같은)은 방대한 데이터를 빠르게 처리하는 고성능 칩 덕분에 가능합니다.
+
+- recent boom in ~ : 최근 ~의 붐
+- high-performance chips : 고성능 칩
+- enormous amounts of data : 막대한 양의 데이터
+
+Next, only a few companies in the world can produce these advanced semiconductors, and Korea is home to some of them.
+ → 다음으로, 전 세계에서 이러한 첨단 반도체를 생산할 수 있는 기업은 몇 개 되지 않으며, 한국은 그중 일부 기업들의 본거지입니다.
+
+- only a few : 극소수의
+- advanced semiconductors : 첨단 반도체
+- is home to ~ : ~의 본거지이다
+
+Global leaders like Samsung and SK Hynix supply memory chips to major tech firms across the world.
+ → 삼성과 SK 하이닉스 같은 글로벌 선도 기업들이 전 세계 주요 기술 기업에 메모리 칩을 공급합니다.
+
+- global leaders : 세계적인 선도 기업
+- supply A to B : A를 B에 공급하다
+- tech firms : 기술 기업
+
+Thanks to their products, Korea has become a strong player in the global market and a reliable partner in the high-tech industry.
+ → 이들 제품 덕분에 한국은 세계 시장에서 강력한 경쟁자가 되었고, 첨단 산업 분야에서 신뢰할 수 있는 파트너가 되었습니다.
+
+- Thanks to ~ : ~ 덕분에
+- a strong player : 강력한 경쟁자
+- reliable partner : 신뢰할 수 있는 파트너
+
+Overall, I believe semiconductors are Korea’s pride and a key driver of global innovation.
+ → 전반적으로, 반도체는 한국의 자랑이자 세계 혁신을 이끄는 핵심 동력이라고 생각합니다.
+
+- Korea’s pride : 한국의 자랑
+- a key driver of ~ : ~의 핵심 동력
 
 ### 2. 위에 소개한 페이머스 컴퍼니(1~2개)
 
