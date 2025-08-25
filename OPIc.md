@@ -1,5 +1,9 @@
 # OPIc 교육
 
+[TOC]
+
+
+
 ## 자기소개
 
 > [!NOTE]
@@ -31,34 +35,12 @@ Wish me good luck, Bye
 
 ### 1. Genres / types / kinds ✅
 
-> ## 📝 정리 (로맨스 영화 주제)
->
-> ### 🔑 **키워드**
->
-> - 감정 느끼기 → 기쁨 & 슬픔
-> - 교훈 → 사랑하는 사람과의 시간 소중함
-> - 예시 1: *미 비포 유* → 남자가 천천히 사랑에 빠짐
-> - 예시 2: *어바웃 타임* → 시간여행, 좋은 기억도 사라짐
-> - 결론 → 사랑하는 사람을 다시 생각하게 됨
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 나는 로맨스 영화를 좋아한다.
-> 2. **감정** → 기쁨과 슬픔을 느끼게 한다 (*미 비포 유*).
-> 3. **교훈** → 사랑하는 사람과 시간을 보내는 가치 (*어바웃 타임*).
-> 4. **마무리** → 단순히 달콤한 게 아니라, 사랑하는 사람들을 돌아보게 한다.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *Romantic movies help me feel…* → 로맨스 영화는 내가 … 느끼도록 해준다.
-> - *For example, [movie title] shows…* → 예를 들어, [영화 제목]은 … 보여준다.
-> - *It’s not just about ~, but also about…* → 단순히 ~뿐만 아니라 …이기도 하다.
-> - *The reason why I like ~ is that…* → 내가 ~를 좋아하는 이유는 … 때문이다.
-> - *They make me think about…* → 그것들은 내가 …를 생각하게 만든다.
+> - 로맨스 films
+> - First, 많은 감정을 느끼게 해줌
+>   - Me before You 영화에서 사랑의 행복과 슬픔을 같이 느낄 수 있음
+> - Next, 많은 중요한 것을 가르쳐줌
+>   - About Time에서 사랑이 아니라, 소중한 사람들과의 시간을 알 수 있음
+> - Overall, 달콤하거나 재밌기만 한게 아니라, 슬플 때도 있지만, 사랑하는 사람들에 대해 다시 생각해보게함
 
 I think I love enjoying romance films
 
@@ -79,35 +61,11 @@ But, They make me think again about the people I love.
 
 ### 2. Actors ✅
 
-> ## 📝 정리 (Jim Carrey 주제)
->
-> ### 🔑 **키워드**
->
-> - 이유 1 → 유머러스 / 얼굴 표정만으로 행복 주는 배우 (*트루먼 쇼*)
-> - 개인 연결 → 나는 감정을 잘 못 드러내는데, 배우면서 배우고 싶음
-> - 이유 2 → 섬세한 감정 표현 (*이터널 선샤인*) → 슬픔과 사랑 잘 표현 → 단순히 코미디 배우가 아님
-> - 최근 영화 → *소닉 시리즈*는 안 봤지만 여전히 새 영화 체크함
-> - 결론 → 여전히 가장 좋아하는 배우
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 내가 가장 좋아하는 배우는 짐 캐리다.
-> 2. **첫 번째 이유** → 유머러스 / *트루먼 쇼*에서 얼굴 표정으로 사람을 행복하게 함 → 나와의 연결 (나는 감정 표현이 서툴다).
-> 3. **두 번째 이유** → 섬세한 감정 표현 / *이터널 선샤인*에서 진지하고 감정적인 연기 → 배우로서 다시 보게 됨.
-> 4. **최근 활동** → *소닉 시리즈*는 안 봤지만 여전히 신작 체크할 정도로 팬.
-> 5. **결론** → 그래서 여전히 가장 좋아하는 배우다.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *The first reason is that…* → 첫 번째 이유는 … 때문이다.
-> - *For example, in [movie], I realized that…* → 예를 들어, [영화]에서 …를 깨달았다.
-> - *To be honest, I’m not good at ~, but I want to improve.* → 솔직히 나는 ~에 약하지만, 배우고 싶다.
-> - *I used to think ~, but after [movie], I realized…* → 예전에는 ~라고 생각했는데, [영화] 이후로 … 알게 됐다.
-> - *Overall, I really like him as…* → 종합적으로, 나는 그를 …로서 정말 좋아한다.
+> - 짐캐리
+>   - 유머러스 함
+>     - 트루먼쇼 : 표정만으로도 행복함
+>     - 난 감정 표현이 서툴러서 배우고 싶음
+>   - 
 
 I like Jim Carrey the most.
 
@@ -2854,7 +2812,7 @@ Also, 재활용품은 언제 어디서 수거해 간다.
 
 **First**, South Korea is known for its mountains. 
 
-About 75 percent of the land is covered with mountains, and the eastern part is especially mountainous. No matter where you are, you can usually reach a mountain within an hour. Since Korea has four distinct seasons, the scenery looks different all year round.**When I was young,** I didn’t like the mountains because my family often took me hiking, and I found it really tough. But now, I realize that having nature so close is actually a huge advantage, since it gives me a great place to rest and recharge.
+About 75 percent of the land is covered with mountains, and the eastern part is especially mountainous. No matter where you are, you can usually reach a mountain within an hour. Since Korea has four distinct seasons, the scenery looks different all year round. **When I was young,** I didn’t like the mountains because my family often took me hiking, and I found it really tough. But now, I realize that having nature so close is actually a huge advantage, since it gives me a great place to rest and recharge.
 
 **Next**, my country is a peninsula[페닌술라-], so three sides are surrounded by the seas. 
 
@@ -3061,13 +3019,13 @@ A large department store opened, and now many families spend their weekends ther
 
 Because of that, the area feels more **vibrant** than before.
 
-**When I visited there last month**, I was amazed at how modern it was, with so many tech offices and startups. With my background in software programming, I thought it would be a great place to live someday.
+**When I visited there last month**, I was amazed at how modern it was, with so many tech offices and startups. With my background in software programming, I thought I hope I can live there someday.
 
 **Overall**, Pangyo has grown from a quiet town into a hub for technology and modern life.
 
 ---
 
-I’d like to talk about Pangyo, which has changed a lot over the past ten years.
+I’d like to talk about *Pangyo*, which **has changed a lot** over the past ten years.
  → 지난 10년 동안 많이 변한 판교에 대해 이야기하고 싶습니다.
 
 - over the past ten years : 지난 10년 동안
@@ -3077,7 +3035,7 @@ First, the business environment has changed dramatically.
 
 - change dramatically : 극적으로 변하다
 
-About ten years ago, Pangyo was just a quiet place to live with some apartments and shops.
+About ten years ago, Pangyo was just a quiet place to **live with** some apartments and shops.
  → 약 10년 전만 해도, 판교는 아파트와 가게 몇 개가 있는 조용한 주거지였습니다.
 
 But now, it’s often called the “Silicon Valley of South Korea”, because many IT companies have moved there.
@@ -3085,18 +3043,18 @@ But now, it’s often called the “Silicon Valley of South Korea”, because ma
 
 - be called ~ : ~라고 불리다
 
-For example, Naver built its headquarters in Pangyo, and Kakao also opened its offices there.
+For example, Naver which is the Korean version of Google, built its headquarters in Pangyo, and Kakao which is the most well-known IT company in my country, also opened its offices there.
  → 예를 들어, 네이버가 판교에 본사를 세웠고, 카카오도 사무실을 열었습니다.
 
 - headquarters (헤드쿼터즈) : 본사
 - open offices : 사무실을 열다
 
-These two companies are very famous in Korea, so the area soon became a tech hub.
+~~These two companies are very famous in South Korea,~~ so the area soon became a tech hub.
  → 이 두 회사는 한국에서 매우 유명해서, 그 지역은 곧 기술 중심지가 되었습니다.
 
 - tech hub : 기술 중심지
 
-Next, life there has also gotten a lot better.
+Next, **life there** has also gotten a lot better.
  → 다음으로, 그곳의 생활도 훨씬 나아졌습니다.
 
 In the past, there were only a few restaurants and small stores, so people often went to Seoul for shopping or entertainment.
@@ -3107,10 +3065,10 @@ But today, Pangyo has modern shopping malls, trendy cafes, and cultural spaces.
 
 - trendy cafes : 세련된 카페
 
-A large department store opened, and now many families spend their weekends there.
+~~A large department store opened,~~ and now many families spend their weekends there.
  → 대형 백화점도 생겨서, 이제 많은 가족들이 주말을 그곳에서 보냅니다.
 
-Because of that, the area feels more vibrant than before.
+Because of that, the area feels more vibrant[바이브런트] than before.
  → 그 덕분에, 이 지역은 전보다 더 활기차게 느껴집니다.
 
 - vibrant : 활기찬
@@ -3120,7 +3078,7 @@ When I visited there last month, I was amazed at how modern it was, with so many
 
 - be amazed at ~ : ~에 놀라다
 
-With my background in software programming, I thought it would be a great place to live someday.
+With my background in software programming, I hope I can live there someday.
  → 제 소프트웨어 프로그래밍 배경을 생각했을 때, 언젠가 살기에 좋은 곳이 될 거라 생각했습니다.
 
 Overall, Pangyo has grown from a quiet town into a hub for technology and modern life.
@@ -3136,181 +3094,65 @@ Overall, Pangyo has grown from a quiet town into a hub for technology and modern
 
 ### 14. 주변국과 외교관계 (정책,문화,경제) ✅😇
 
-When it comes to Korea’s relationship with neighboring countries, I’d like to talk about our cooperation with Japan and China.
+**When it comes to** South Korea’s relationship with Japan, I want to talk about diplomacy and the economy.
 
-First, in terms of the economy, these countries are Korea’s biggest trading partners. 
+**First**, South Korea and Japan share a troubled past.
+ Because of history, many South Koreans still have negative feelings toward Japan.
+ But recently, both sides have tried to ease tensions and get closer.
+ There have been more talks, visits, and efforts to build trust step by step.
+ **For example**, in August 2025, the leaders of South Korea and Japan held a summit meeting and announced a joint statement for the first time in 17 years.
+ It was just one meeting, but I think it showed that both countries are trying to move forward.
 
-Our economies are deeply connected and rely on each other in many ways. For example, many Korean companies export semiconductors and cars to China and Japan, and at the same time, we import raw materials and important technology from them. I think this close economic cooperation makes all three countries stronger and more competitive in the global market.
+**Next**, the two countries also have strong **economic connections**.
+ Japan is one of South Korea’s biggest trading partners.
+ South Korea buys machines and materials needed to make semiconductors, while many South Korean products like electronics and cosmetics are sold in Japan.
+ **For instance**, in 2019 Japan restricted some key semiconductor materials.
+ Companies like Samsung and SK Hynix were affected, but Japanese suppliers also lost business because South Korea was their biggest customer.
+ This incident clearly showed how much the two countries depend on each other.
+ **Since I work in the semiconductor field, I know very well how serious this issue was.**
 
-Next, we also share many cultural exchanges. 
-
-Culture is something that people can easily relate to in daily life. For instance, K-pop, K-dramas, and Korean food are very popular in Japan and China, while Korean people enjoy Japanese animations and Chinese food. Personally, I feel this kind of cultural exchange brings people closer, even when there are political issues.
-
-Overall, I think these relationships are important for peace and growth in the region.
-
----
-
-When it comes to Korea’s relationship with neighboring countries, I’d like to talk about our cooperation with Japan and China.
- → 한국의 주변국과의 관계에 대해 말하자면, 저는 일본과 중국과의 협력에 대해 이야기하고 싶습니다.
-
-First, in terms of the economy, these countries are Korea’s biggest trading partners.
- → 첫째, 경제적인 측면에서 이 나라들은 한국의 가장 큰 교역 상대국입니다.
-
-Our economies are deeply connected and rely on each other in many ways.
- → 우리 경제는 깊이 연결되어 있고 여러 면에서 서로에게 의존하고 있습니다.
-
-For example, many Korean companies export semiconductors and cars to China and Japan, and at the same time, we import raw materials and important technology from them.
- → 예를 들어, 많은 한국 기업들은 반도체와 자동차를 중국과 일본에 수출하고, 동시에 우리는 그들로부터 원자재와 중요한 기술을 수입합니다.
-
-I think this close economic cooperation makes all three countries stronger and more competitive in the global market.
- → 저는 이런 긴밀한 경제 협력이 세 나라 모두를 더 강하고 세계 시장에서 경쟁력 있게 만든다고 생각합니다.
-
-Next, we also share many cultural exchanges.
- → 다음으로, 우리는 많은 문화 교류도 하고 있습니다.
-
-Culture is something that people can easily relate to in daily life.
- → 문화는 사람들이 일상에서 쉽게 공감할 수 있는 것입니다.
-
-For instance, K-pop, K-dramas, and Korean food are very popular in Japan and China, while Korean people enjoy Japanese animations and Chinese food.
- → 예를 들어, K-pop, 한국 드라마, 한국 음식은 일본과 중국에서 인기가 많고, 한국 사람들은 일본 애니메이션과 중국 음식을 즐깁니다.
-
-Personally, I feel this kind of cultural exchange brings people closer, even when there are political issues.
- → 개인적으로 저는 이런 문화 교류가 정치적 문제가 있을 때에도 사람들을 더 가깝게 만든다고 느낍니다.
-
-Overall, I think these relationships are important for peace and growth in the region.
- → 전반적으로, 저는 이런 관계들이 지역의 평화와 성장을 위해 중요하다고 생각합니다.
+**Overall, South Korea and Japan are closely connected.**
 
 ### 15. 주변국과 역사적 사건... 관계에 영향을 준 것... 문화행사(올림픽)...... 대통령이나 장관이 방문.... ✅😇
 
-When it comes to a recent event with a neighboring country, I’d like to talk about the removal of loudspeakers along the border in 2025.
+**When it comes to** a historical event with a neighboring country, I want to talk about the **tariff issue with the U.S. in 2025**.
 
-First, these loudspeakers had been used for decades to send messages and even music across the border. They were very **symbolic**, because they reminded people of the constant hostility between the two Koreas. So when South Korea turned them off, I felt it was more than just a small change. To me, it was a hopeful **gesture** showing that both sides might be ready to reduce tension.
+**First**, earlier this year, the Trump administration announced a **25% tariff** on South Korean exports.
+ This was a big problem because the U.S. is one of South Korea’s main trading partners.
+ South Korean companies worried about losing sales, and many people were worried about jobs and higher prices.
 
-Next, I believe this move opened the door for better communication. It may look simple, but I think small actions like this can create trust and prepare the ground for real dialogue. Personally, I was quite encouraged when I read the news, because it showed that peace can start from very basic steps.
+**Next**, in July 2025, South Korea’s Industry Minister went to Washington, D.C. and met with the U.S. Commerce Secretary.
+ After tough talks, the two sides reached an agreement.
+ The tariff was reduced from **25% to 15%**, and South Korea promised about **350 billion dollars of investment** in the U.S. in semiconductors, energy, and shipbuilding.
+ It was not an easy deal, but it helped keep trade stable and calm the markets.
 
-**Overall, I think it was a small but meaningful step toward peace.**
+**Personally**, I was very interested in this issue because tariffs can have a huge impact on the economy.
+ I felt relieved that the two countries managed to reach a reasonable agreement before things got worse.
 
----
-
-When it comes to a recent event with a neighboring country, I’d like to talk about the removal of loudspeakers along the border in 2025.
- → 최근 있었던 주변국 관련 사건으로는 2025년 국경의 확성기 철거를 이야기하고 싶습니다.
-
-- When it comes to ~ : ~에 대해 말하자면
-- removal of ~ : ~의 철거
-
-First, these loudspeakers had been used for decades to send messages and even music across the border.
- → 첫째, 이 확성기들은 수십 년 동안 국경을 넘어 메시지와 음악을 보내는 데 사용되었습니다.
-
-- for decades : 수십 년 동안
-- send messages : 메시지를 보내다
-
-They were very symbolic, because they reminded people of the constant hostility between the two Koreas.
- → 그것들은 매우 상징적이었는데, 남북 간의 지속적인 적대감을 사람들에게 상기시켰기 때문입니다.
-
-- symbolic : 상징적인
-- constant hostility : 지속적인 적대감
-
-So when South Korea turned them off, I felt it was more than just a small change.
- → 그래서 한국이 그것들을 껐을 때, 저는 단순한 작은 변화 이상이라고 느꼈습니다.
-
-- more than just ~ : 단순히 ~ 이상의
-- I felt ~ : 나는 ~라고 느꼈다
-
-To me, it was a hopeful gesture showing that both sides might be ready to reduce tension.
- → 제게는 양측이 긴장을 완화할 준비가 되어 있음을 보여주는 희망적인 제스처였습니다.
-
-- hopeful gesture : 희망적인 제스처
-- reduce tension : 긴장을 완화하다
-
-Next, I believe this move opened the door for better communication.
- → 다음으로, 저는 이 조치가 더 나은 대화를 위한 문을 열었다고 생각합니다.
-
-- opened the door for ~ : ~의 길을 열다
-
-It may look simple, but I think small actions like this can create trust and prepare the ground for real dialogue.
- → 단순해 보일 수 있지만, 이런 작은 행동들이 신뢰를 쌓고 실제 대화를 위한 기반을 마련한다고 생각합니다.
-
-- small actions like this : 이런 작은 행동들
-- create trust : 신뢰를 쌓다
-- prepare the ground for ~ : ~을 위한 기반을 마련하다
-
-Personally, I was quite encouraged when I read the news, because it showed that peace can start from very basic steps.
- → 개인적으로, 이 뉴스를 읽었을 때 꽤 고무되었는데, 이는 평화가 아주 기본적인 조치에서 시작될 수 있음을 보여줬기 때문입니다.
-
-- I was encouraged : 나는 고무되었다, 힘을 얻었다
-- peace can start from ~ : 평화는 ~에서 시작될 수 있다
-
-Overall, I think it was a small but meaningful step toward peace.
- → 전반적으로, 저는 이것이 작지만 의미 있는 평화를 향한 한 걸음이었다고 생각합니다.
-
-- a small but meaningful step : 작지만 의미 있는 한 걸음
-- toward peace : 평화를 향해
+**Overall**, this is the recent event with a neighboring country that I have followed most closely.
 
 ## 산업
 
 ### 1. 너네 나라 잘알려진 산업 ✅😇
 
-When it comes to a well-known industry in my country, I’d like to talk about the semiconductor industry.
+**When it comes to** a well-known industry in my country, I’d like to talk about the semiconductor industry.
 
-First, semiconductors are essential for modern life. Without them, smartphones, laptops, or even cars wouldn’t work. They basically act as the brains of electronic devices and control how they function. For example, the recent boom in AI technology, like ChatGPT or self-driving cars, is only possible because of high-performance chips that process enormous amounts of data quickly.
+**First**, South Korea is a global powerhouse in semiconductors.
+ Since the 1980s, the government and companies have invested heavily in research, and the industry has grown very quickly.
+ Today, South Korea produces over half of the world’s memory semiconductors, and it’s even the country’s number one export item.
+ Considering Korea’s technology level back then, I think this was truly an amazing achievement.
 
-Next, only a few companies in the world can produce these advanced semiconductors, and Korea is home to some of them. Global leaders like Samsung and SK Hynix supply memory chips to major tech firms across the world. Thanks to their products, Korea has become a strong player in the global market and a reliable partner in the high-tech industry.
+**Next**, semiconductors are also the key to the future.
+ SK Hynix currently produces about 90% of the HBM chips that NVIDIA uses in its GPUs, which are essential for AI.
+ And according to an article I read recently, Samsung signed a $16.5 billion deal with Tesla to supply AI chips.
+ This shows that South Korean companies are not only strong today but also playing a key role in the future of global technology.
 
-Overall, I believe semiconductors are Korea’s pride and a key driver of global innovation.
+**Personally**, I think semiconductors are more than just a business.
+ They are the foundation of our economy and also a source of pride.
 
----
+**Overall**, I believe semiconductors are South Korea’s most important industry.
 
-When it comes to a well-known industry in my country, I’d like to talk about the semiconductor industry.
- → 우리나라에서 잘 알려진 산업으로는 반도체 산업에 대해 이야기하고 싶습니다.
 
-- When it comes to ~ : ~에 대해 말하자면
-- well-known industry : 잘 알려진 산업
-
-First, semiconductors are essential for modern life. Without them, smartphones, laptops, or even cars wouldn’t work.
- → 첫째, 반도체는 현대 생활에 필수적입니다. 그것이 없으면 스마트폰, 노트북, 자동차조차 작동하지 않습니다.
-
-- essential for ~ : ~에 필수적인
-- wouldn’t work : 작동하지 않을 것이다
-
-They basically act as the brains of electronic devices and control how they function.
- → 반도체는 기본적으로 전자 기기의 두뇌 역할을 하며 그 작동을 제어합니다.
-
-- act as ~ : ~의 역할을 하다
-- the brains of ~ : ~의 두뇌
-
-For example, the recent boom in AI technology, like ChatGPT or self-driving cars, is only possible because of high-performance chips that process enormous amounts of data quickly.
- → 예를 들어, 최근의 AI 기술 붐(챗GPT나 자율주행차 같은)은 방대한 데이터를 빠르게 처리하는 고성능 칩 덕분에 가능합니다.
-
-- recent boom in ~ : 최근 ~의 붐
-- high-performance chips : 고성능 칩
-- enormous amounts of data : 막대한 양의 데이터
-
-Next, only a few companies in the world can produce these advanced semiconductors, and Korea is home to some of them.
- → 다음으로, 전 세계에서 이러한 첨단 반도체를 생산할 수 있는 기업은 몇 개 되지 않으며, 한국은 그중 일부 기업들의 본거지입니다.
-
-- only a few : 극소수의
-- advanced semiconductors : 첨단 반도체
-- is home to ~ : ~의 본거지이다
-
-Global leaders like Samsung and SK Hynix supply memory chips to major tech firms across the world.
- → 삼성과 SK 하이닉스 같은 글로벌 선도 기업들이 전 세계 주요 기술 기업에 메모리 칩을 공급합니다.
-
-- global leaders : 세계적인 선도 기업
-- supply A to B : A를 B에 공급하다
-- tech firms : 기술 기업
-
-Thanks to their products, Korea has become a strong player in the global market and a reliable partner in the high-tech industry.
- → 이들 제품 덕분에 한국은 세계 시장에서 강력한 경쟁자가 되었고, 첨단 산업 분야에서 신뢰할 수 있는 파트너가 되었습니다.
-
-- Thanks to ~ : ~ 덕분에
-- a strong player : 강력한 경쟁자
-- reliable partner : 신뢰할 수 있는 파트너
-
-Overall, I believe semiconductors are Korea’s pride and a key driver of global innovation.
- → 전반적으로, 반도체는 한국의 자랑이자 세계 혁신을 이끄는 핵심 동력이라고 생각합니다.
-
-- Korea’s pride : 한국의 자랑
-- a key driver of ~ : ~의 핵심 동력
 
 ### 2. 위에 소개한 페이머스 컴퍼니(1~2개)
 
@@ -3367,6 +3209,149 @@ Q2. 줌/이메일/구글 드라이브/퀵서비스 으로 보내달라
 > 현재재에는 팬데믹, 경기불황등의 이유로 일자리가 줄어듬 -> 각종 스펙을 준비하지 않으면 많이 어려움.
 
 ### 15. 우리나라사람들이 관심있는 업종
+
+## 날씨
+
+### 1. 우리나라의 날씨
+
+> Four distinct seasons,
+>
+> Spring: picnic, 소풍, 골프, 꽃놀이, 캠핑
+>
+> Summer: 최고기온, 어휘어필, 
+>
+> Fall: 등산, 단풍놀이, 캠핑
+>
+> Winter: 스키, 스노우보딩, 눈공싸움, 눈사람
+
+### 2. 오늘 날씨 / 뭐가 일어나고 있음? (거의 안나옴) - 1m 30s
+
+> 날씨 예보 치팅, 온도 좋아요
+
+### 2/14. 어릴 적과 오늘날의 날씨 비교 
+
+> 예시 중요해요, floods, extreme weather(heatwaves), 봄가을 짧아짐(원인을 이야기하기:지구온나나)
+
+### 3/15. 심각한/혹독한(severe:sɪˈvɪr) 날씨로 문제로 문제된 적 : 도로 침수, 사무실 못감...
+
+> 잘 만들면 교통에서도 소재 활용 가능 / frost : 성에, 서리
+
+### 15. 날씨 뉴스
+
+## 주거
+
+### 1. 내가 사는 곳 설명 (방의 개수, 주거 형태 등)
+
+> 위치, 층수, 방 개수, 각 방 소개, 거실(좋아하는 방 살짝 어필)
+>
+> Master room(안방), 서재(study), 거실(living room), 화장실(bathroom), 유틸리티룸, 팬트리
+
+### 2. Favorite room
+
+> 화장실, Gaming room, 주방, reading nook
+
+### 2. 집에서 루틴, 평일, 주말
+
+> Weekdays(평일) : 출/퇴근 이후에... 밥하기... 재활용....간단한 세탁기, 빨래 개기, 설거지
+>
+> Weekends(주말) : 대청소, 화장실 청소, 냉장고 정리, 음쓰버리기, 화분물주기, 침구류 세탁....
+>
+> 이유도 붙여주기
+
+### 3. 어릴 적 집과 지금의 집 비교
+
+> A Studio(apartment) : 원룸스타일의 집... ,Dormitory....
+>
+> A house(파란 지붕, 2층집)....
+
+### 3. 집을 뜯어 고치고 싶은데, 뭘 바꾸고 싶어요?
+
+> 벽지, 페인트 제외, 가구 배치...... 2가지?
+>
+> Reading nook, 매트 시공, 아기방, 조명(아이키아)
+
+### 3. 가족과 함께한 집에서 생긴 Memorable experience / 문제점 🏠
+
+> 창문 깨진 이야기, 바퀴벌레, 도어락 고장
+
+**When it comes to** a problem I had at home with my family, **I’d like to talk about** an episode with our **door lock**.
+
+**First**, one day the door handle broke, and we couldn’t open the door from the inside.
+It wasn’t a battery issue — the handle just stopped working, so the door wouldn’t open at all.
+Since we live on the 24th floor, going out through the window was impossible.
+So my wife and I had no choice but to take a half day off from work.
+At that moment, it felt strange and even a little scary.
+
+**Next**, we called a locksmith for help.
+At first, even he didn’t know what to do, so we ended up talking on the phone with the door stuck between us.
+Now that I think about it, that situation was actually pretty funny.
+In the end, he had to break the lock completely and replace it with a new one, which had a much sturdier handle.
+Looking back, it was ridiculous that we got stuck in our own apartment, but at least now we can laugh about it.
+
+**Overall**, it was a silly but very memorable experience with my family.
+
+### 5. 그럼 위의 문제의 언제, 원인, 어떻게 처리
+
+### 14. 나 vs 부모/친구의 해결 방법
+
+> 나: 스스로 해결못함, 엄빠 부름, 서비스를 부름, 전문가 고용 - 혼자 하려다 고쳤다, 바쁨, 시간적 여유가 없음
+>
+> 부모: 나에게 업체 부르라고 시킴, 직접 수리(시간이 많음, 경험이 많음), 경험이 많은 지인이 많음
+
+### 14. 5~10년간 (일반적인) 주택의 변화 (과거/현재 비교) 🏠
+
+> 5년에서 10년 사이...
+>
+> 스마트 기기....... 건축자재, 베란다 확장, 주차장 지하화...
+
+**When it comes to** houses in South Korea, **I’d like to talk about** safety and convenience.
+
+**First**, people are much more concerned about safety.
+In South Korea, most people live in apartment complexes.
+Now, parking lots are built underground, and the ground level is completely car-free, used only for parks and walking paths.
+**When I was little**, cars and motorcycles used to drive around on the ground, and it was quite dangerous. I even had a close call with a motorcycle while playing with my friends. Luckily, nothing serious happened.
+But now, with cars kept underground, the area has become much safer. These days, parents feel more comfortable letting their kids play outside.
+
+**Next**, life at home is a lot more convenient.
+New apartments in South Korea have smart home systems.
+**When I visited my friend’s new place**, he had a control panel on the wall and also used his phone. He could control the lights, appliances, and even the front door lock.
+When his car entered the parking lot, the air conditioner and lights turned on automatically.
+I thought it was really cool, and I hope I can live in a smart home like that someday.
+
+**Overall,** homes today are much easier and more comfortable to live in than before.
+
+### 15. 세들어 사는 것에 대해서 발생하는 문제와, 이를 어떻게 처리하고, 어떤 영향들을 주고 있는지 🏠
+
+> Broker fee.....application 을 통한 직거래
+>
+> 렌트료 빌싼건 .... 국가에서 보조, 세금 감면..
+>
+> 비싼 렌트료, 수리 잘안해줌, 간섭문제... 계약서... 
+
+**When it comes to** renting in my country, **I’d like to talk about** the cost.
+
+**First**, broker fees are very high.
+You have to pay a big fee to the agent, and sometimes it feels like paying another month’s rent.
+That’s just too much for many people.
+Because of that, more people try to make direct deals through local communities or apps.
+**For example**, in South Korea there’s a second-hand app called Carrot Market, and people use it to make direct deals for small places like studios.
+
+**Next**, monthly rent and maintenance fees are another problem.
+If you’re a tenant, you don’t really have the freedom to change things in the home.
+Even small things, like putting a nail in the wall or installing an air conditioner, need the landlord’s permission.
+**For example**, when I lived in a small studio, there was no air conditioner.
+So I bought a used one and installed it, but I had to leave it behind when I moved out.
+At that time, I felt it was really unfair, because I paid for it with my own money but still couldn’t take it with me.
+
+**Overall**, I think these are some problems when we talk about renting.
+
+### 14. 가전 제품으로 과거 현재 변화, 가사노동에 준 영향
+
+> 건조기, 세탁기 일체형... IoT로 다 묶임, 멀티쿠커, 가스스토브 > 인덕션
+
+### 15. 특정 가전 제품 설명
+
+## 파티
 
 ## RP
 
@@ -3772,11 +3757,37 @@ Anyway please let me know the best option. Bye
 ### Prompt
 
 1. 나는 OPIc 스크립트를 작성하고 있음
+
 2. 목표 수준은 IM3에서 IH 정도의 수준임
+
 3. 문법 수준이 그렇게 높지 않음
+
 4. 발음하기 좋고 외우기 좋은 것이 좋음
+
 5. 한국어를 주면 영어로 스크립트를 작성해줘
+
 6. 좋은 추천 문장이 있다면 따로 추천해줘
+
 7. 영어를 주면 확인해줘
+
 8. 미국인이 이해하기에 너무 한국식 표현이면 알려줘
+
 9. 항상 확인해줄 때는 내가 준 문장을 처음부터 다시 확인해줘.
+
+10. 경험이나 생각, 설명을 하는 스크립트의 구조는 아래와 같았으면 좋겠어
+
+    1. When it comes to / when we talk about ~ I'd like to tell you about ~
+
+       와 같은 식으로 한문장 정도의 가벼운 인트로, 굳이 저 패턴을 쓸 필요는 없으니 너가 추천해줘도 좋아
+
+    2. First, 짧은 첫번째 이유
+
+       1. 설명
+       2. 나의 생각 혹은 사례/경험, 기사 인용 등
+
+    3. Next, 두번째 짧은 이유
+
+       1. 설명
+       2. 나의 생각 혹은 사례/경험, 기사 인용 등
+
+    4. Overall, 한 문장 정도의 요약 
