@@ -6,6 +6,8 @@
 
 ## 자기소개
 
+Good place, 
+
 > [!NOTE]
 >
 > 1. 입크게벌리기
@@ -33,7 +35,7 @@ Wish me good luck, Bye
 
 ## Movies
 
-### 1. Genres / types / kinds ✅
+### 1. Genres / types / kinds ✔️
 
 > - 로맨스 films
 > - First, 많은 감정을 느끼게 해줌
@@ -59,13 +61,15 @@ But he realizes that every time he travels, the good memories also disappear.
 They are not just sweet and fun. Sometimes it makes me sad.
 But, They make me think again about the people I love.
 
-### 2. Actors ✅
+### 2. Actors ✔️
 
 > - 짐캐리
->   - 유머러스 함
->     - 트루먼쇼 : 표정만으로도 행복함
->     - 난 감정 표현이 서툴러서 배우고 싶음
->   - 
+> - 유머러스 함
+>   - 트루먼쇼 : 표정만으로도 행복함
+>   - 난 감정 표현이 서툴러서 배우고 싶음
+> - Delicate 감정도 잘 표현함 (expressing)
+>   - 이터널 선샤인 : 슬픔과 사랑을 잘 표현(describe)
+> - 최근 영화는 좀 silly 해서 안봄
 
 I like Jim Carrey the most.
 
@@ -87,40 +91,17 @@ But, I always try to check if he has new movies coming out. because I'm still a 
 
 **Overall**, I really favor him the best
 
-### 2. Routine/ Before and after movies ✅
+### 2. Routine/ Before and after movies ✔️
 
 > [Items]
 >
 > Before / Concession stand(매점), window shopping, purchase tickets(how)
 > After / Eat out, 결말찾아보기, 스포해버리기, give a.rating, goods 사기
 
-> ## 📝 정리 (영화 루틴 주제)
->
-> ### 🔑 **키워드**
->
-> - **영화 전** → 누구랑 갈지 정함 (혼자 X) / 친구·가족 / 같이 영화 선택 / 티켓·팝콘·음료 구매
-> - **영화 후** → 자리 정리 / 같이 감상 공유 / 식사하며 영화 토론 / 평점 남김
-> - **결론** → 이런 루틴이 있음
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 영화관 갈 때 루틴이 있다.
-> 2. **영화 전** → 동행자 결정 → 영화 선택 (대부분 상대 의견 따름) → 티켓·간식 구매
-> 3. **영화 후** → 자리 정리 → 감상 나눔 → 식사하며 영화 이야기 → 평점 남김
-> 4. **마무리** → 이것이 나의 영화 루틴이다.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *When it comes to ~, I have some routines.* → ~에 관해서는 내가 가진 루틴이 있다.
-> - *I usually figure out who I’m going with, because…* → 나는 보통 누구랑 갈지 먼저 정한다. 왜냐하면…
-> - *In most cases, I follow their opinion.* → 대부분 나는 그들의 의견을 따른다.
-> - *After that, we purchase tickets and snacks.* → 그다음에 티켓과 간식을 산다.
-> - *After the movie, I make sure to…* → 영화 후에는 꼭 … 한다.
-> - *Overall, these are my routines.* → 종합적으로, 이것이 나의 루틴이다.
+> - 영화 보기 전
+>   - 누구랑 볼지, 뭐볼지, 팝콘/티켓 사기
+> - 영화 보고 난 다음
+>   - 자리 청소/정리, 영화 토론, 외식, 평점 남기기(leave a rating)
 
 **When it comes to** going to the movies, I have some routines.
 
@@ -136,40 +117,14 @@ If the movie is great or disappointing, I make sure to leave a rating about the 
 
 **Overall**, these are my routines.
 
-### 3. Memorable movie / (worst movie 도 이름만 생각해보기) ✅
+### 3. Memorable movie / (worst movie 도 이름만 생각해보기) ✔️
 
-> ## 📝 정리 (Bohemian Rhapsody 주제)
->
-> ### 🔑 **키워드**
->
-> - 기억에 남는 영화 → 유일하게 극장에서 두 번 본 영화
-> - 배우 → 라미 말렉 → 프레디 머큐리 감정까지 잘 표현
-> - 스토리라인 → 전설적인 밴드 Queen 이야기 / 지루한 다큐멘터리 아님 / 노래와 삶 연결
-> - 개인 경험 → 예전엔 노래만 알았지, 멤버들에 대해 몰랐음
-> - 명장면 → 스타디움에서 *Bohemian Rhapsody* 공연 → 관객이 된 기분
-> - 결론 → 단순히 memorable이 아니라 unforgettable
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 가장 기억에 남는 영화는 *Bohemian Rhapsody* (극장에서 두 번 본 유일한 영화).
-> 2. **배우** → 라미 말렉의 연기: 단순히 닮은 게 아니라 감정까지 잘 표현.
-> 3. **스토리라인** → Queen의 여정, 단순한 다큐 X → 노래와 삶의 연결.
-> 4. **개인적 연결** → 노래는 알았지만, 멤버 이야기는 몰랐음 → 새롭게 알게 됨.
-> 5. **명장면** → 스타디움 공연 장면 → 관객이 된 기분 → 제목과 연결.
-> 6. **마무리** → 잊을 수 없는 영화.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *One of the most memorable movies is…* → 가장 기억에 남는 영화는 …이다.
-> - *He didn’t just look like ~, he also…* → 단순히 ~처럼 보인 게 아니라, …까지 잘했다.
-> - *It wasn’t one of those boring documentaries…* → 흔한 지루한 다큐멘터리가 아니었다.
-> - *It shows what their songs meant to them.* → 그들의 노래가 어떤 의미였는지를 보여준다.
-> - *Whenever I listen to ~, I feel like…* → 그 노래를 들을 때마다 … 기분이 든다.
-> - *It’s not just memorable, it’s unforgettable.* → 단순히 기억에 남는 게 아니라, 잊을 수 없다.
+> - 보헤미안 랩소디 / 유일하게 영화관에서 2번 본 영화
+> - Rami Malek
+>   - 닮은 것 뿐 아니라, 그의 감정도 잘 표현
+> - 스토리 라인 Perfect
+>   - 퀸의 여정, 노래를 들었어도 퀸은 안궁금
+>   - Stadium에서 보헤미안 랩소디 부른 것이 짱 - 들을 때 마다 생각남..관중이된 기분
 
 **One of the most memorable movies is** *Bohemian Rhapsody*.
 It's actually the only one movie I've watched twice in the theater.
@@ -190,91 +145,32 @@ Maybe that's why the movie is titled as Bohemian Rhapsody, not Queen.
 
 **Overall**, The movie Bohemian Rhapsody is more than just memorable. It's unforgettable for me.
 
-### 11. Role playing / 영화 예매 ✅
+### 11. Role playing / 영화 예매 ✔️
 
-> ## 📝 정리 (전화 문의: 영화 예매)
->
-> ### 🔑 **키워드**
->
-> - 인사 & 소개 → Hello, this is Sam.
-> - 영화 → *F1*, 친구와 함께, 멋진 레이싱 장면 때문에 보고 싶음
-> - Q1 → 오늘 밤 8시 이후 예매 가능? (퇴근 후 시간)
-> - Q2 → 가격 문의 / 성인 2명 / 간식 포함(팝콘 + 음료) 선호
-> - Q3 → 취소 수수료 없는지 확인 (긴급 회의 가능성)
-> - 마무리 → 연락 요청
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입 & 목적** → 인사 + 영화 예매 문의 (*F1*).
-> 2. **첫 번째 질문** → 오늘 8시 이후 티켓 가능 여부.
-> 3. **두 번째 질문** → 티켓 가격 + 성인 2장 + 간식 포함 여부.
-> 4. **세 번째 질문** → 취소 수수료 여부 (업무 일정 때문).
-> 5. **마무리** → 회신 요청 + 인사.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *Hello, this is [name]. I’m calling because…* → 안녕하세요, 저는 [이름]인데 … 때문에 전화드렸습니다.
-> - *Are there any tickets available after ~?* → ~ 이후에 티켓 있나요?
-> - *I need tickets for [number of people].* → ~명 티켓이 필요합니다.
-> - *Actually, I’d prefer tickets that include…* → 사실, ~ 포함된 티켓을 선호합니다.
-> - *Can I cancel the tickets without any fees?* → 수수료 없이 취소 가능한가요?
-> - *Please call me back when you get this.* → 이 메시지 받으시면 연락 부탁드립니다.
+> 시간, 가격, 취소수수료
 
 Hello, there. This is Sam.
 
 I'm calling because I'm interested in watching the movie "F1" with my friend.
 I heard this movie is really awesome due to cool car racing scenes.
 
-Q1. First, Are there any tickets available tonight? I mean after 8 pm.
+Q1. First, **Are there** any tickets **available** **tonight**? I mean **after 8 pm.**
 R1. That's because I think we have to watch it after work. 
 
-Q2. Next, What's the price of the movie tickets?
+Q2. Next, **What's the price of** the movie tickets?
 R1. I need tickets for Two adults. Actually, I prefer some tickets including some snacks like pop corns and soda.
 
-Q3. Lastly, can I cancel the tickets without any cancellation fees?
+Q3. Lastly, **can I cancel** the tickets **without any cancellation fees**?
 R1. You know, I may have urgent meetings at my work.
 
 Anyway, please call me back when you get this. Bye
 
-### 12. Role playing / 문제 발생 ✅
+### 12. Role playing / 문제 발생 ✔️
 
-> ## 📝 정리 (티켓 문제 제기 전화)
->
-> ### 🔑 **키워드**
->
-> - 소개 → Hello, this is Sam. / Problem with my tickets
-> - 문제1 → 영화 제목 오류 (*F1* 예약했는데 *Superman* 티켓 받음)
-> - 문제2 → 4DX 예약했는데 일반 상영관 티켓 받음
-> - 해결 요청 → 두 가지 옵션 → (1) 올바른 티켓 교환 / (2) 전액 환불
-> - 마무리 → 답변 요청
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 자기소개 + 문제 상황 알림
-> 2. **문제 설명** → 영화 제목 잘못됨 + 상영관 잘못됨 → 큰 실수
-> 3. **해결책 제시** → 두 가지 옵션: 교환 / 환불
-> 4. **마무리** → 연락 요청 + 인사
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *Actually, I have a problem with…* → 사실, ~에 문제가 있습니다.
-> - *I reserved ~, but the tickets I got are for…* → 나는 ~를 예약했는데, 받은 티켓은 …이다.
-> - *There must be a mistake from you.* → 분명 실수가 있었던 것 같다.
-> - *To fix this issue, I have two alternatives.* → 이 문제를 해결하기 위해 두 가지 대안을 제안한다.
-> - *First, I’d like to exchange the tickets.* → 첫째, 티켓 교환을 원한다.
-> - *Alternatively, can you give me a full refund?* → 아니면 전액 환불해줄 수 있나?
-> - *Please let me know the best option.* → 가장 좋은 방법을 알려 달라.
+> Exchange 💬 into the right ones, full/partial refund
 
-Hello, there. My name is Sam.
-Actually, I have a problem with my movie tickets.
+**Hello, there. My name is Sam.**
+**Actually, I have a problem** with my movie tickets.
 
 First, I think I received the wrong tickets from you. 
 I mean I reserved the tickets for the movie "F1", but the title of the tickets I was given is "Superman". 
@@ -282,107 +178,44 @@ I mean I reserved the tickets for the movie "F1", but the title of the tickets I
 Also, I definitely booked the tickets for the 4DX movie, but the tickets say they are for the regular screen room. 
 There must be a huge mistake from you.
 
-To fix this problem/issue, I have two alternatives.
+**To fix this problem/issue, I have two alternatives.**
 First, I'd like to exchange the tickets into the right ones. 
-Alternatively, can you give me a full refund?
+**Alternatively**, can you give me a full refund?
 
-Anyway, please let me know the best option. Bye.
+**Anyway, please let me know the best option. Bye.**
 
-### 13. 너의 경험과 의견 / 친구가 신작을 봤는데 질문해보기 ✅
+### 13. 너의 경험과 의견 / 친구가 신작을 봤는데 질문해보기 ✔️
 
 > Prevent you from going : Prevent A from B : A에게 B하는 것을 막다.
 
-> ## 📝 정리 (친구에게 영화 정보 문의 전화)
->
-> ### 🔑 **키워드**
->
-> - 소개 → Hello, John. This is Sam.
-> - 목적 → 친구가 최근 본 영화에 대해 물어보기
-> - Q1 → 영화 제목 + 장르 (호러 X, 로맨스 선호)
-> - Q2 → 상영 시간 (2시간 반 이상이면 주말에만 가능) → 이전 경험: *반지의 제왕* 너무 길어서 잠들었음
-> - Q3 → 영화 줄거리 간단 설명 요청
-> - 마무리 → 연락 부탁
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 인사 + 영화에 대해 묻고 싶다.
-> 2. **첫 번째 질문** → 제목 + 장르 (개인적 취향 연결: 호러 싫음, 로맨스 선호).
-> 3. **두 번째 질문** → 영화 길이 (개인 사정: 긴 영화는 주말에만 가능).
-> 4. **세 번째 질문** → 줄거리 간단 설명 요청.
-> 5. **마무리** → 회신 요청.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *I’d like to ask you about the movie you watched a few days ago.*
-> - *What’s the title and genre of the movie?*
-> - *As you know, I’m not really into ~. I’d rather watch ~.*
-> - *If it’s more than [time], I’d like to watch it on the weekend.*
-> - *Last time we watched [movie], it was so long that I fell asleep.*
-> - *Can you tell me a little bit about the story?*
-> - *Please call me back when you get this.*
+**Hello, John. This is Sam.**
+**I'm calling because I'd like to ask you** about the cool movie you've watched a few days ago.
 
-Hello, John. This is Sam.
-I'm calling because I'd like to ask you about the cool movie you've watched a few days ago.
-
-First, what's the title and genre of the movie?
+**First**, what's the title and genre of the movie?
 As you know, I'm not really into horror movies. I’d rather watch a romance.
 
-Next, How long is the movie? 
-If it's more than two and a half hours, I'd like to watch it on the weekend when I more felexiable
+**Next**, How long is the movie? 
+If it's more than two and a half hours, I'd like to watch it on the weekend ==when I more flexible==
 
 As you know, we've watched The Lord of the Rings together before, and  It was so long I fell asleep.
 
-Lastly, what was the movie about? Can you tell me a little bit about the story?
+**Lastly**, what was the movie about? Can you tell me a little bit about the story?
 
-Anyway, please call me back when you get this. Bye
+**Anyway, please call me back when you get this. Bye**
 
-### 13. 영화과 너무 노잼 인데, 떠나고 싶어요 ✅
+### 13. 영화과 너무 노잼 인데, 떠나고 싶어요 ✔️
 
-> ## 📝 정리 (친구에게 영화 문제 제기)
+> 문제: 영화의 이전 시리즈(the previous movies in the series) 안봄, acting도 bad
 >
-> ### 🔑 **키워드**
->
-> - 상대 → Brian
-> - 문제 → 영화가 지루하다
->   - 이유 1: 시리즈 전편을 안 봐서 이해 안 됨
->   - 이유 2: 배우 연기력 부족 → 집중 안 됨
->   - 이유 3: 배우를 잘 모름 → 몰입 안 됨
-> - 해결책 → 두 가지 대안
->   1. 스타벅스에서 책 읽으면서 기다림
->   2. 집에서 이전 시리즈 같이 보기 (다시 봐도 재밌을 거다)
-> - 마무리 → 가장 좋은 방법 알려 달라
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 인사 + 문제 제기
-> 2. **문제 설명** → (시리즈 이해 못함 / 연기 안 좋음 / 배우 낯설음) → 지루했다
-> 3. **대안 제시** → 스타벅스에서 기다리기 / 집에서 전편 같이 보기
-> 4. **마무리** → 연락 요청
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *I’m sorry, but I have a problem with…* → 미안하지만 …에 문제가 있다.
-> - *The problem is that…* → 문제는 …이다.
-> - *I couldn’t really understand the story because…* → … 때문에 스토리를 잘 이해 못했다.
-> - *The actor’s acting was so bad that…* → 연기가 너무 안 좋아서 … 했다.
-> - *To fix this problem, I have two alternatives.* → 이 문제를 해결하기 위해 두 가지 대안을 제안한다.
-> - *I’ll go ahead and ~ / Alternatively, maybe we could ~* → 하나는 내가 ~하는 것, 또 하나는 우리 같이 ~하는 것.
-> - *Please let me know the best option.* → 가장 좋은 방법 알려 달라.
+> 1. 스타벅스가서 책 읽고 있기
+> 2. 같이 가서 집가서 이전 시리즈 보기
 
 Hey, Brian
 
 I'm sorry I have a problem with this movie.
 The problem is that I feel really bored with the movie.
 
-I haven't seen the previous movies **in the series**, so I couldn't really understand the story.
+I haven't seen the previous **movies** **in the series**, so I couldn't really understand the story.
 Also, the actor's acting was so bad. I cannot focus on it.
 
 Maybe it’s because I don’t really know who the actors are.
@@ -395,47 +228,12 @@ Anyway, please let me know the best option.
 
 
 
-### 14. 과거 vs 현재 뭐가 다르냐? (시제가 과거랑 현재가 섞임) ✅
+### 14. 과거 vs 현재 뭐가 다르냐? (시제가 과거랑 현재가 섞임) ✔️
 
-> There are some differences between the past and present about **movies**.
->
-> First, in the past/Back then
->
-> However, these days / But now
->
-> Overall, 각자 알아아서 생각
->
-> - CGI: Computer Generated Imagery
-
-> ## 📝 정리 (과거와 현재 영화 비교)
->
-> ### 🔑 **키워드**
->
-> - **과거** → 인간적 재능 중요 / 배우: 연기·액션·감정 표현 직접 / 감독: 모든 요소 모아 현실감 있게 제작 / 대표: 톰 크루즈, 크리스토퍼 놀란
-> - **현재** → 디지털 기술 (CGI) 대체 / 위험 장면 안 해도 됨 / 세트 직접 안 지어도 됨 / 더 인상적인 경험 제공
-> - **예시** → *아바타* → 스토리와 무관하게 뛰어난 시각 효과
-> - **결론** → 최고의 영화 = CGI가 인간적 재능을 **보완 + 보존**할 때 나온다
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 과거와 현재 영화는 다르다.
-> 2. **과거** → 배우의 다재다능함, 감독의 조율, 사람 중심.
-> 3. **현재** → 기술 중심, 위험 ↓, 효율 ↑, 하지만 시각적 효과 ↑.
-> 4. **예시** → *Avatar* → CGI의 대표 사례.
-> 5. **마무리** → 인간적 재능 + 기술의 균형이 최고의 영화 만든다.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *In the past, human talent was much more important.* → 과거에는 인간적 재능이 훨씬 중요했다.
-> - *Actors had to be good at…* → 배우들은 …에 능숙해야 했다.
-> - *Directors had to put everything together to…* → 감독들은 …하기 위해 모든 걸 조율해야 했다.
-> - *These days, many parts of production have been replaced by…* → 요즘은 제작의 많은 부분이 …로 대체되었다.
-> - *Even so, CGI helps us experience movies in a more impressive way.* → 그래도 CGI는 …을 더 인상적으로 경험하게 해준다.
-> - *Overall, the best movies come out when…* → 종합적으로 최고의 영화는 …할 때 나온다.
+> - 과거 : 인간의 재능 human talent
+>   - 배우, 감독 다 잘해야함, 유명배우 감독(톰 크루즈, 크리스토퍼 놀란)도 이 시대 나옴
+> - 오늘 : 제작의 많은 부분을 디지털 기술이 대체함
+>   - CGI(Computer Generated Imagery), Avatar
 
 There are some differences between the past and present about movies
 
@@ -457,38 +255,15 @@ Even so, CGI which stands for Computer Generated Imagery helps us experience mov
 
 **Overall**, I think the best movies come out when CGI supports human talent while preserving it.
 
-### 15. 요즘 영화에 관해서 사람들이 말하는 우려, 걱정 ✅
+### 15. 요즘 영화에 관해서 사람들이 말하는 우려, 걱정 ✔️
 
-> ## 📝 정리 (영화 산업의 우려)
+> - 기존 영화 산업이 힘듬(traditional side is struggling)
+> - 영화관 잘안감
+>   - Streaming platform 의 발달 - 집에서 보는 게 좋음
+> - 트럼프 정부의 impose a 100% tariff **on** the movie
+>   - 한국에서 영화보는데 $20... 더 나빠질 것 같음
 >
-> ### 🔑 **키워드**
->
-> - **극장 방문 감소** → 1년에 한 번 갈까 말까 / 이유: 스트리밍 플랫폼 (넷플릭스, 디즈니 플러스, 아마존 프라임) / 집에서 편하게, 원하는 음식과 함께
-> - **관세 문제** → 트럼프 행정부 정책 / 영화 산업에도 100% 관세 부과 (CNN 기사에서 봄) / 결국 소비자에게 피해
-> - **한국 상황** → 이미 1인당 20달러 이상 / 추가 관세 = 가격 인상 → 관객 감소 우려
-> - **결론** → 오늘날 영화 산업의 주요 문제 = 관객 감소 + 비용 증가
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 전통적 영화 산업이 어려움 겪는 중.
-> 2. **첫 번째 문제** → 관객 감소 (스트리밍 영향).
-> 3. **두 번째 문제** → 관세 문제 (미국 정책, 소비자 부담).
-> 4. **한국 상황 연결** → 티켓값 이미 비쌈, 더 악화될 수 있음.
-> 5. **마무리** → 이것들이 오늘날 영화 산업의 주요 우려.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *When it comes to concerns in the movie industry, …* → 영화 산업의 우려에 대해 말하자면…
-> - *People don’t go to the theater as often as they used to.* → 요즘은 극장에 예전처럼 자주 가지 않는다.
-> - *That’s because there are many streaming platforms like…* → 이유는 … 같은 스트리밍 플랫폼 때문이다.
-> - *According to an article I read…* → 내가 읽은 기사에 따르면…
-> - *Tariff issues usually end up affecting consumers.* → 관세 문제는 결국 소비자에게 영향을 미친다.
-> - *Even in Korea, we already pay more than…* → 한국에서도 이미 … 이상 지불한다.
-> - *Overall, I think these are the main concerns…* → 종합적으로 이것들이 주요 우려라고 생각한다.
+> tariff issues usually **end up** affecting consumers.
 
 **When it comes to** concerns in the movie industry, people say that the traditional side is struggling these days.
 
@@ -516,39 +291,14 @@ So, I’m worried that this will make people spend even less.
 
 ## Musics
 
-### 1. Genre ✅
+### 1. Genre ✔️
 
-> ## 📝 정리 (좋아하는 음악: Jazz)
->
-> ### 🔑 **키워드**
->
-> - 선호 → 전통 재즈보다 재즈 팝 선호
-> - 경험1 → 처음 간 재즈바 (K-pop만 듣다가 새로운 경험 / 그냥 fancy bar일 줄 알았는데 무대 집중 → 가사 의미 상상)
-> - 경험2 → 감정적인 순간 → 혼자 재즈 듣기 / 노라 존스 *Don’t Know Why* → 기분 바뀜
-> - 효과 → 기분 따라 다름 (좋을 땐 세련된 신사, 슬플 땐 영화 주인공 느낌)
-> - 결론 → 재즈는 내 감정을 더 깊고 의미 있게 해줌
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 나는 재즈를 정말 좋아한다 (특히 재즈 팝).
-> 2. **첫 번째 이유** → 특별한 매력 → 재즈바 경험 / 예상과 달리 집중 + 몰입.
-> 3. **두 번째 이유** → 감정적 순간에 재즈가 도움 됨 / 노라 존스 노래로 예시.
-> 4. **개인 연결** → 기분에 따라 느낌 달라짐 (세련됨 ↔ 영화 속 주인공).
-> 5. **마무리** → 재즈가 감정을 의미 있고 깊게 만들어줌 → 내가 좋아하는 이유.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *I think I really enjoy ~. To be more specific, I prefer ~ to ~.*
-> - *Jazz has a special charm that draws me in before I know it.*
-> - *To be honest, I thought ~, but at some point, I realized…*
-> - *Whenever I go through something emotional, I spend some time alone listening to ~.*
-> - *When I close my eyes and listen, it changes how I feel.*
-> - *On good days, it makes me feel like… On the other hand, on sad days, it makes me feel like…*
-> - *Overall, these are the reasons why I love ~.*
+> - Jazz (Jazz pop > traditional jazz)
+> - Special charm that draws me in before I know it
+>   - First Jazz bar...not just fancy bar... meaning behind lyrics.
+> - Feel classy
+>   - Don't Know Why by Norah Jones
+>   - Gentleman, Main character in sad movie
 
 **I think I really enjoy** jazz music. To be more specific, I prefer jazz pop to traditional jazz.
 
@@ -569,38 +319,13 @@ Jazz makes my emotions feel more meaningful and deep.
 
 **Overall,** these are the reasons why I love jazz music.
 
-### 2. routine (2 mins under) ✅
+### 2. routine (2 mins under) ✔️
 
-> ## 📝 정리 (음악 루틴)
->
-> ### 🔑 **키워드**
->
-> - 상황별 다름 (공부/일할 때 vs 운전할 때)
-> - **공부/일할 때** → 집중 필요 / EDM·K-pop (가사 적음) / Alan Walker *The Drum* / 에어팟 노이즈캔슬링
-> - **운전할 때** → 혼자만의 시간 / 재즈 듣기 (최애 장르) / 따라 부름 / 볼륨 높여서 몰입
-> - 결론 → 상황에 따라 다른 음악 루틴
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 음악 루틴은 상황에 따라 다르다.
-> 2. **루틴 1** (공부/일할 때) → EDM·K-pop / Alan Walker *The Drum* / 효과: 집중 & 에너지 / 에어팟 사용.
-> 3. **루틴 2** (운전할 때) → 혼자 시간 / 재즈 듣기 / 따라 부르기 / 볼륨 크게.
-> 4. **마무리** → 이것이 나의 음악 루틴이다.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *When it comes to listening to music, I have some routines.*
-> - *It depends on situations.*
-> - *When I listen to music while working or studying, I need to stay focused.*
-> - *I usually listen to upbeat songs with little or no meaningful lyrics, like…*
-> - *This song makes me feel excited and energetic, and it helps me…*
-> - *Driving is one of the few times I’m alone, so I…*
-> - *I turn up the volume and let the music fill the car.*
-> - *Overall, these are my routines about music.*
+> - 공부/일 (집중 필요)
+>   - Upbeat songs, EDM, K-pop, The drum by Alan Walker, noise-canceling AirPods.
+> - 운전
+>   - Jazz, without worrying about anyone hearing me
+>   - Turn up the volume and let the music fill the car
 
 **When it comes to** listening to music, I have some routines.
 And It depends on situations.
@@ -620,40 +345,15 @@ Naturally, I turn up the volume and let the music fill the car
 
 
 
-### 3. 나의 음악감상, 과거/현재 비교 ✅
+### 3. 나의 음악감상, 과거/현재 비교 ✔️
 
-> ## 📝 정리 (음악 취향: 과거 vs 현재)
+> Music tates
 >
-> ### 🔑 **키워드**
->
-> - **과거** → K-pop, 신나는 노래 선호 / 이유: 친구들과 노래방 자주 감 / 따라 부르기 쉬움 / 아이돌처럼 불렀음
-> - **현재** → 차분·조용한 음악 선호 / 이유: 바빠서 휴식 필요 / 가사 의미 깊이 이해 / 감정적으로 와닿는 음악 선호 / 최근: Norah Jones *Sunrise* → 평화로운 삶 상상
-> - **공통점** → 둘 다 즐거움 줌
-> - **결론** → 과거와 현재 취향 차이 요약
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 내 음악 취향은 과거와 현재가 다르다.
-> 2. **과거** → K-pop, 노래방 경험, 신나는 분위기 강조.
-> 3. **현재** → 차분한 음악, 바쁜 삶 속에서 휴식 / 가사 의미 깊이 이해 / 예시: *Sunrise*.
-> 4. **공통점** → 두 스타일 모두 즐거움 줌.
-> 5. **마무리** → 차이를 정리하며 마무리.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *When it comes to my music tastes, there are some differences between the past and the present.*
-> - *In the past, I used to prefer…*
-> - *We sang like we were real idols.*
-> - *These days, I prefer calm and quiet music.*
-> - *As my life has gotten busier, I listen to music to relax, not to get excited.*
-> - *I’ve started to understand the meaning behind lyrics more deeply.*
-> - *Recently, I’ve been listening to [song], and it helps me…*
-> - *One thing that hasn’t changed is that both still give me pleasure.*
-> - *Overall, these are the differences between the past and the present.*
+> - In the past
+>   - Upbeat songs, K-pop, Karaoke
+> - These days
+>   - Calm, quiet music
+>   - Sunrise 
 
 **When it comes to** my music tastes, there are some differences between the past and the present.
 
@@ -672,37 +372,9 @@ One thing that hasn’t changed is both still give me pleasure.
 
 **Overall,** these are the differences between the past and the present.
 
-### 3. 콘서트(Concert or Live music) 들은 경험,언제,누구랑,누구의 공유 ✅
+### 3. 콘서트(Concert or Live music) 들은 경험,언제,누구랑,누구의 공유 ✔️
 
-> ## 📝 정리 (콘서트 경험)
->
-> ### 🔑 **키워드**
->
-> - 경험 → 성시경 콘서트 (연세대, 2023, 아내와 함께)
-> - 현장감 → 녹음본보다 훨씬 인상적 / 관객 에너지 / 손 흔들기, 박수, 응원, 떼창
-> - 감정 → 선명히 기억나는 순간 / 감동적 경험
-> - 비용 → 티켓 1인당 100달러 이상 / 비쌌지만 값어치 충분 / 사랑하는 사람과 함께라면 언제든 다시 갈 것
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 사실 많은 콘서트 경험은 없지만, 성시경 콘서트에 갔던 기억이 있다.
-> 2. **콘서트 설명** → 언제, 어디서, 누구와 갔는지.
-> 3. **현장감 묘사** → 라이브 음악의 감동 / 군중과 함께한 경험.
-> 4. **개인적 감정** → 비쌌지만 그만한 가치 / 사랑하는 사람과 함께라면 언제든 다시.
-> 5. **마무리** → 잊지 못할 경험으로 정리.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *Actually, I haven’t been to many concerts. The only one I’ve been to was…*
-> - *Listening to a song live was not only more impressive than the recorded one, but also a fantastic experience.*
-> - *Following the crowd, I waved my hands, clapped along to the beat, and sang along.*
-> - *Those are moments I still remember clearly.*
-> - *It was pretty expensive, but the price didn’t matter at all.*
-> - *I’d gladly go again anytime as long as I’m with the people I love.*
+> 성시경 콘서트 (2023, 연세대) + 티켓 가격 100달러? 걱정 ㄴㄴ
 
 Actually, I haven’t been to many concerts. 
 The only concert I’ve ever been to was by Sung Si Kyung, who is a well-known Korean singer.
@@ -717,116 +389,23 @@ Actually, It's pretty expensive for me.
 But when I think about how touching that moment was, the price didn’t matter at all.
 I'd gladly go again anytime as long as I'm with the people I love
 
-### 11. An MP3 player 추천받는 질문(전화)
+### 11. An MP3 player 추천받는 질문(전화) ✔️
 
-> ## 📝 제품 추천 질문 패턴
->
-> ### 1. **일반적인 추천 요청**
->
-> - *Can you recommend a good [product type]?*
->    → 좋은 [제품] 하나 추천해줄래?
-> - *What would you suggest if I’m looking for a [product type]?*
->    → 내가 [제품]을 찾는다면 뭘 추천하겠어?
-> - *Do you have any favorites when it comes to [product type]?*
->    → [제품] 중에 네가 좋아하는 게 있어?
->
-> ------
->
-> ### 2. **비교 + 추천**
->
-> - *Which one would you recommend, [A] or [B]?*
->    → A랑 B 중 뭐 추천해?
-> - *Is there any difference between [A] and [B]? Which do you prefer?*
->    → A랑 B 차이가 있어? 너는 뭐가 더 좋아?
-> - *If you were me, which one would you choose?*
->    → 네가 나라면 뭘 고를 것 같아?
->
-> ------
->
-> ### 3. **조건 붙여서 추천 받기**
->
-> - *Can you recommend a [product type] that’s not too expensive?*
->    → 너무 비싸지 않은 [제품] 추천해줄래?
-> - *What’s the best [product type] for beginners?*
->    → 초보자한테 좋은 [제품]은 뭐야?
-> - *Do you know any [product type] that works well with [my situation/device]?*
->    → [내 상황/내 기기]랑 잘 맞는 [제품] 알아?
->
-> ------
->
-> ### 4. **경험 기반 추천 받기**
->
-> - *Have you ever used a good [product type]?*
->    → 써봤던 좋은 [제품] 있어?
-> - *Which [product type] do you usually use? Do you like it?*
->    → 보통 어떤 [제품] 쓰는데, 만족해?
-> - *What’s the most reliable [product type] you’ve tried?*
->    → 지금까지 써본 것 중 제일 믿을 만한 [제품]은 뭐야?
->
-> ------
->
-> ### 5. **리뷰/평가 묻기**
->
-> - *Is [product name] worth it?*
->    → [제품 이름] 살만해?
-> - *What do you think of [product name]?*
->    → [제품 이름] 어때?
-> - *I’m considering [product name]. Would you recommend it?*
->    → [제품 이름] 살까 고민 중인데 추천해?
+> 브랜드 추천, 사용 시간, 물리적 버튼
 
-What brand do you recommend? Because, my old one is ...
+### 12. 친구를 빌려서 쓰다 망가트림, 어쩌다 망가졌는지, 현재 상태, 2가지 최대한 빨리 동작하는 기기를 받도록 ✔️
 
-### 12. 친구를 빌려서 쓰다 망가트림, 어쩌다 망가졌는지, 현재 상태, 2가지 최대한 빨리 동작하는 기기를 받도록
+> 세탁기에 같이 넣고 돌려버림 : 사설 수리점에서 빠르게 고쳐주겠다, 같은 모델을 사주겠어
 
-### 13. 기기가 고장나고 고쳐 써 먹었는지
+### 13. 기기가 고장나고 고쳐 써 먹었는지 ✔️
 
-> 휴대전화로 돌발이랑 같이쓰기 (필수!)
->
-> 중국산 충전기를 잘못 씀
->
-> (원인 과정 결과, 다 필요)
+> 중국산 충전기 동작 안함 / 무선 충전기 사용, 정품 충전기, 교체
 
 ### 15. 최신 음악 기기에 대해 설명 ✅
 
-> When it comes to the latest music electronic gadget(device), people are talking about ....**Open-ear earbuds**
-> First, 제품 소개(브랜드, 모델명)
-> Also, 사고 싶다, 필요한 이유 -> 음악
->
-> Bose : Ultra open earbuds / 보우즈
-
-> ## 📝 정리 (최신 전자기기: Open-ear Earbuds)
->
-> ### 🔑 **키워드**
->
-> - 최신 기기 → 오픈이어 이어버드 (귀에 걸치는 형식, 귀 안으로 안 들어감)
-> - 제품 예시 → Bose Ultra Open Earbuds → 디자인 독특하지만 멋짐, 사운드 품질 보장
-> - 장점 → 장시간 착용해도 귀 안 아픔 (에어팟 프로 단점 보완) / 가볍고 주변 소리 들을 수 있음 / 하루 종일 착용 가능
-> - 결론 → 최신 트렌드 이어버드
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 최신 전자기기 중 사람들이 말하는 건 오픈이어 이어버드.
-> 2. **제품 설명** → 귀에 걸치는 방식 / Bose 제품 언급 / 디자인·사운드 장점.
-> 3. **개인 연결** → AirPods Pro 경험 (장시간 착용 시 불편) / 리뷰에서 확인한 장점.
-> 4. **추가 장점** → 가벼움 + 주변 소리 들을 수 있음 → 하루 종일 사용 가능.
-> 5. **마무리** → 최신 이어버드 트렌드로 정리.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *When it comes to the latest electronic devices, people are talking about…*
-> - *Normally, earbuds go directly into your ears, but these don’t.*
-> - *They just hang on your ears like earrings.*
-> - *Out of all the new products, I think [product] is the best.*
-> - *Since it’s a new style, it might look unusual at first, but…*
-> - *The most important thing is the sound quality — but it’s [brand], so no need to say more.*
-> - *Wearing in-ear earbuds for a long time is painful for me.*
-> - *According to reviews, these don’t hurt your ears, so they can solve that problem.*
-> - *What’s more, they’re lightweight and let me hear the sounds around me.*
-> - *Overall, I think [product] is the latest trend.*
+> - Open-ear earbuds
+>  - Go directly into your ears,
+> - 사고 싶다 / 귀 아파, 달리기 좋아
 
 **When it comes to** the latest electronic music gadgets(devices), 
 
@@ -872,43 +451,10 @@ so I can keep them on all day
 
 ## 공원
 
-### 공원 설명 ✅
+### 공원 설명 ✔️
 
-> ## 📝 정리 (좋아하는 공원: 불당공원)
->
-> ### 🔑 **키워드**
->
-> - 효과 → 공원 가면 건강해짐
-> - 장소 → 불당공원 (천안 시청 옆, 내가 사는 곳 근처)
-> - 방문 → 주로 일요일, 날씨 좋을 때 감
-> - 특징 → 반려견 출입 가능 → 많은 사람들과 강아지 산책
-> - 장점 → 가장 큰 공원 / 깨끗한 화장실 / 벤치 많음 / 야외 운동기구 / 클래식 음악 / 숲길 같은 산책로
-> - 느낌 → 음악 들으며 숲속 걷는 기분
-> - 결론 → 그래서 가장 좋아하는 공원
->
-> ------
->
-> ### 📖 **스토리 구조**
->
-> 1. **도입** → 나는 공원 가는 걸 좋아한다, 건강해지는 기분.
-> 2. **장소 소개** → 불당공원 / 위치 / 주로 가는 요일.
-> 3. **이유** → 큰 공원 / 시설 좋음 / 강아지 산책 가능 / 음악과 숲길.
-> 4. **개인적 느낌** → 클래식 음악 들으며 숲길 걸을 때 특별한 기분.
-> 5. **마무리** → 그래서 내가 제일 좋아하는 공원.
->
-> ------
->
-> ### 🗂️ **표현 패턴**
->
-> - *I think I love going to a park and spending time there.*
-> - *[Park name] is the one I like and visit most often.*
-> - *It is located next to [landmark], where I live.*
-> - *I usually go there on [day/time], if the weather is nice.*
-> - *Since dogs are allowed there, many people enjoy walking their dogs.*
-> - *It has clean restrooms, lots of benches, and some outdoor gym equipment.*
-> - *They always play classical music, and there’s a trail along a tree-covered hill.*
-> - *When I walk there, it feels like I’m in a forest.*
-> - *Overall, that’s why I really like this park.*
+> - 불당 공원
+>   - 가까워요, 
 
 **I think** I love going to a park and spending time there.
 
@@ -942,36 +488,15 @@ When I walk along there while listening to the music, it feels like I’m in a f
 
 ### 공원 루틴 ✅
 
-> ## 📝 정리 (공원 루틴)
->
-> ### 🔑 **키워드**
->
-> - **출발 전** → 날씨 확인 (맑은 날 선호) / 집 근처 공원 찾기 / 강아지 출입 가능 확인 / 편한 옷, 배변봉투, 시원한 물 챙김
-> - **도착 후** → 하네스 착용 / 산책 경로 정하기 / 주로 걷기, 달리기는 잘 안 함
-> - **활동** → 벤치에서 휴식 / 장난감 던지기 / 강아지랑 셀카 찍고 인스타그램 업로드
-> - **결론** → 이것이 공원 갈 때 나의 루틴
->
-> ------
->
-> ## 📖 **스토리 구조**
->
-> 1. **도입** → 공원에 갈 때는 루틴이 있다.
-> 2. **출발 전 루틴** → 날씨 확인 → 공원 선택 → 준비물 챙김.
-> 3. **공원에서 루틴** → 하네스 착용 → 산책, 휴식, 놀이, 사진 찍기.
-> 4. **마무리** → 이것이 나의 루틴.
->
-> ------
->
-> ## 🗂️ **표현 패턴**
->
-> - *When we talk about going to a park, I have some routines.*
-> - *Before I go to a park, I usually check the weather because…*
-> - *I make sure the park allows dogs so I can walk my dog.*
-> - *I change into comfortable clothes and prepare dog waste bags and cold water.*
-> - *When I arrive at the park, I put a harness on my dog and plan our route.*
-> - *During the walk, I sometimes sit on a bench and take a short break.*
-> - *Sometimes I play with my dog by throwing toys, or I take selfies to post on Instagram.*
-> - *Overall, these are my routines when I go to a park.*
+> - before
+>   - Check the weater
+>   - Find a park
+>   - Allow dogs
+>   - Change into comfortables, dog waste bags
+> - After 
+>   - Put a harness
+>   - Sit on a beach, take a short break
+>   - Take a selfies with ... , post on Instagram
 
 **When we talk about** going to a park, **I have some routines**
 
@@ -1005,39 +530,10 @@ Sometimes I throw my dog’s toys and play with her. I also take selfies with he
 
 ### Memorable park 사건 ✅
 
-> ## 📝 정리 (기억에 남는 공원 경험: 골프 흉내)
->
-> ### 🔑 **키워드**
->
-> - 나이 → 13살쯤
-> - 상황 → 방학 숙제(새로운 야외활동 경험하기)
-> - 선택 → 아버지 취미인 골프 따라하기
-> - 실행 → 아버지 골프채 중 제일 짧은 것 들고 근처 공원 / 인터넷에서 본 타이거 우즈 스윙 흉내 / 공 없이 스윙만 함
-> - 느낌 → 사람들에게 얼마나 우스꽝스러워 보였을지 상상하면 아직도 웃김
-> - 결론 → 지금은 진짜 골프 배우지만, 다시 공원에서 치지는 않을 것
->
-> ------
->
-> ## 📖 **스토리 구조**
->
-> 1. **도입** → 가장 기억에 남는 공원 경험 = 골프 흉내.
-> 2. **배경** → 13살, 방학 숙제(야외활동 경험하기).
-> 3. **경험** → 아버지 골프채, 공원, 타이거 우즈 스윙 흉내, 공 없음.
-> 4. **느낌** → 우스꽝스러웠을 장면 → 아직도 웃김.
-> 5. **마무리** → 지금은 실제로 배우고 있지만, 공원에서 하진 않을 것.
->
-> ------
->
-> ## 🗂️ **표현 패턴**
->
-> - *The most memorable event in a park for me was…*
-> - *To be more specific, it was when I was around [age].*
-> - *At that time, one of my vacation assignments was to…*
-> - *I took [object] and went to the park nearby.*
-> - *I tried to imitate [famous person]’s swing I had looked up on the internet.*
-> - *To be exact, I didn’t actually play golf. I just pretended to…*
-> - *When I think about how ridiculous I must have looked, it still makes me laugh.*
-> - *Overall, I’ve started learning real golf now, but I’ll never play golf in a park again.*
+> - Vacation homework
+>   - Outdoor activity
+>   - Imitate Tiger Woods' swing
+>   - Ridiculous..
 
 **I think** the most memorable event in a park for me was golfing there.
 
@@ -1062,6 +558,10 @@ When I think about how ridiculous I must have looked to people, it still makes m
 **Overall,** I’ve actually started learning real golf now, but I will never play golf in a park again.
 
 ### 11. 친구와 공원에 가기로 하는 약속 잡기(RP, Call, 돌려쓸 수 있을 만큼 고퀄) ✅
+
+> Are you free this Sunday? I mean the 7th.
+>
+> I can pick you up by my car, How about meeting in front of the CVS near your place?
 
 **Hi Angela, This is Sam.**
 **I'm calling because I'd like to** go to the park we went before together
@@ -1108,38 +608,19 @@ Again, I’m really sorry.
 
 ### 14. 공원에서의 어른 vs 아이 활동 비교 ✅
 
-> ## 📝 정리 (공원 활동: 어린이 vs 어른)
->
-> ### 🔑 **키워드**
->
-> - **어른** → 걷기 / 가볍게 조깅 / 그룹 러닝 (한국 트렌드) / 피크닉 / 아이와 사진 찍기 / 활동보다는 휴식·추억 만들기
-> - **아이** → 활발함 / 자전거 / 공놀이 / 뛰어다니기 / 조카와 경험 (에너지 넘침 → 따라가기 힘듦)
-> - **차이점** → 아이 = 에너지 소모, 어른 = 휴식과 재충전
-> - **공통점** → 각자 방식으로 즐김
->
-> ------
->
-> ## 📖 **스토리 구조**
->
-> 1. **도입** → 공원 활동에서 아이와 어른은 차이점과 공통점이 있다.
-> 2. **어른 활동** → 걷기, 조깅, 러닝 크루, 피크닉, 아이와 추억.
-> 3. **아이 활동** → 자전거, 공놀이, 달리기, 조카와의 경험 (에너지 넘침).
-> 4. **비교 & 느낌** → 아이는 에너지 발산, 어른은 재충전 / 하지만 모두 즐긴다.
-> 5. **마무리** → 이것이 어른과 아이의 차이와 공통점이다.
->
-> ------
->
-> ## 🗂️ **표현 패턴**
->
-> - *When it comes to activities in a park, there are some differences and similarities between children and adults.*
-> - *As for adults, they usually…*
-> - *Running crews are a big trend in South Korea right now.*
-> - *In my opinion, adults spend more time relaxing than being active.*
-> - *As for children, they do more active things, just like I used to.*
-> - *He was totally in his element.* (자연스럽게 잘 어울림, 자기 세상)
-> - *I couldn’t keep up with his energy.* (에너지를 따라잡을 수 없었다)
-> - *I think children use a park to burn energy, while adults use it to recharge.*
-> - *Still, they each enjoy a park in their own way.*
+> - 어른의 activities
+>   - Light jogging
+>   - bring food and drinks
+>   - have a picnic
+>   - Play with their kids.
+>   - Spend time relaxing or making memories
+> - 아이들의 activities
+>   - Do more active things
+>   - Ride bikes, play ball games, run
+>   - nephew
+>     - He was in his element
+>     - I cannot keep up with his energy
+>     - Burn energy, recharge
 
 **When it comes to** activities in a park, **there are some differences and similarities between** children **and** adults.
 
@@ -1181,41 +662,18 @@ Still, they each enjoy a place in their own way.
 
 ### 14. 자주 가는 공원 2개 비교 ✅
 
-> ## 📝 정리 (불당공원 vs 성정호수공원)
->
-> ### 🔑 **키워드**
->
-> - **공통점**
->   - 집에서 10분 거리 → 접근성 좋음
->   - 반려견 출입 가능 / 시에서 관리 → 깨끗함
->   - 입구에 스타벅스 있음 → 아이스 아메리카노 + 산책 루틴
-> - **차이점**
->   - 성정호수공원 → 호수가 있음, 물가 산책 가능, 주변에 고급 카페·레스토랑 多, 사람이 많아 강아지 잘 챙겨야 함
->   - 불당공원 → 숲길 있음, 도심 속 공원 같은 분위기
-> - **결론** → 둘 다 장점이 있고, 좋은 시간을 보낼 수 있는 장소
->
-> ------
->
-> ## 📖 **스토리 구조**
->
-> 1. **도입** → 내가 가장 자주 가는 공원은 불당공원과 성정호수공원.
-> 2. **공통점** → 가까움, 강아지 가능, 깨끗함, 스타벅스 루틴.
-> 3. **차이점** → 호수 vs 숲길, 주변 분위기 차이, 강아지와의 경험.
-> 4. **마무리** → 둘 다 훌륭한 공원.
->
-> ------
->
-> ## 🗂️ **표현 패턴**
->
-> - *When it comes to the parks I visit most often, I’d like to talk about…*
-> - *Both are just about ten minutes from my place, which makes them convenient.*
-> - *For me, the best park is close and easy to visit, not just nice-looking.*
-> - *Both parks allow dogs and are kept clean since they’re managed by the city.*
-> - *There’s a Starbucks right at the entrance, so I usually grab an iced Americano.*
-> - *As you can guess from the names, one has a lake and the other doesn’t.*
-> - *If I wanna walk by the water, I go to… / If I want to walk through the forest, I head to…*
-> - *I keep a closer eye on my dog when I go to the crowded lake park.*
-> - *Overall, these are the similarities and differences between the two parks.*
+> - 불당 공원 성정 공원
+> - Have a lot in common
+>   - 10 mins, convenient
+>   - Not just nice-looking
+>   - Allow dogs
+>   - Managed by my city
+>   - Starbucks, grab an iced Americano
+> - Differences
+>   - Guess from the names
+>   - Lake, forest
+>   - Park in the city center
+>   - Timid, keep a closer eye on her
 
 When it comes to the parks I visit most often, I’d like to talk about Buldang Park and Seongjeong Lake Park, which are my favorites.
 
@@ -1253,42 +711,12 @@ Overall, these are the similarities and differences between the two parks, they�
 
 ### 15. 공공 공원이 직면한 문제 ✅
 
-> ## 📝 정리 (공원의 문제점)
->
-> ### 🔑 **키워드**
->
-> - **문제 1: 음주**
->   - 한국은 공원 음주 규제가 엄격하지 않음
->   - 가벼운 음주는 문제 X
->   - 과음 → 시끄러움, 욕설, 무례한 행동
->   - 가족·아이들에게 나쁜 영향, 휴식 방해
-> - **문제 2: 기물 파손 (Vandalism)**
->   - 공원은 공공장소 → 일부 사람들이 시설 파손
->   - 술 취한 사람들 포함 → 시설 거칠게 사용, 낙서
->   - 예시: 벤치에 욕설 낙서 / 식물 도난 사례 기사
-> - **결론** → 음주와 기물 파손은 공원이 직면한 주요 문제
->
-> ------
->
-> ## 📖 **스토리 구조**
->
-> 1. **도입** → 공원 문제 = 음주 + 기물 파손.
-> 2. **문제 1: 음주** → 규제 약함, 가벼운 건 괜찮음, 하지만 과음 문제.
-> 3. **문제 2: 기물 파손** → 낙서, 시설 훼손, 식물 도난 등 사례.
-> 4. **마무리** → 주요 문제 정리.
->
-> ------
->
-> ## 🗂️ **표현 패턴**
->
-> - *When it comes to problems public parks face, people usually talk about…*
-> - *One concern is drinking in public parks.*
-> - *Light drinking doesn’t usually cause big problems, but sometimes…*
-> - *This is a real problem because many families visit parks, including young children.*
-> - *Another issue is vandalism.*
-> - *Some people damage facilities or vandalize public property with graffiti.*
-> - *I recently saw an article saying…*
-> - *Overall, these are some of the main problems public parks face.*
+> - Drinking in public parks
+>   - Not very strict about ~
+>   - Hang out with my friends
+> - Vandalism
+>   - Damage the facilities
+>   - Vandalize public property with graffiti.
 
 **When it comes to** problems public parks face, people usually talk about drinking and vandalism.
 
@@ -1439,35 +867,7 @@ Overall, there might be **other little things** I do, but these are the main rou
 
 ### 3. 어릴때 기억에 남는 (여행 간 거, 어디, 누구, 뭐 봄) ✅
 
-> ## 📝 정리 (어린 시절 기억에 남는 여행)
->
-> ### 🔑 **키워드**
->
-> - **첫 경험** → 부모님 없이 간 첫 여행 / 초등학교 수학여행 / 친구들과 방 함께 씀 / 밤새 대화와 웃음 / 잠든 사람 얼굴에 낙서 장난 / 깨어 있어서 피해감
-> - **사고 경험** → 베개 싸움 → 옥(비슷한) 베개에 맞음 → 팔 붓고 골절 / 병원 → 깁스 / 남은 여행 동안 친구들 구경만 함
-> - **결론** → 특별한 추억, 잊지 못할 어린 시절 여행
->
-> ------
->
-> ## 📖 **스토리 구조**
->
-> 1. **도입** → 어린 시절 가장 기억에 남는 여행 = 초등학교 수학여행.
-> 2. **첫 번째 경험** → 부모님 없이 친구들과만 여행 / 밤새 장난과 대화.
-> 3. **두 번째 경험** → 베개 싸움 중 사고 → 병원 → 깁스 → 여행의 결말.
-> 4. **마무리** → 웃기고도 아픈 추억, 가장 기억에 남는 여행.
->
-> ------
->
-> ## 🗂️ **표현 패턴**
->
-> - *The most memorable trip from my childhood was…*
-> - *It was the first time I had ever traveled without my parents.*
-> - *Just sharing a room with my classmates was exciting.*
-> - *If someone fell asleep first, the others would draw on their face.*
-> - *We were hitting each other with pillows like it was a battlefield.*
-> - *The next morning, my arm was really swollen, and I found out I had a fracture.*
-> - *For the rest of the trip, I sat on a bench with my arm in a cast.*
-> - *Overall, this is the most memorable trip from my childhood.*
+> 
 
 The most memorable trip from my childhood was my school trip in elementary school.
 
@@ -1523,43 +923,9 @@ So, for the rest of the trip, I sat on a bench with my arm in a cast, just watch
 
 ### 15. 여행 걱정과 우려 (e.g. visa, safety, conflict) ✅
 
-> - ## 📝 정리 (여행의 문제: 비자 & 안전)
->
->   ### 🔑 **키워드**
->
->   - **비자/입국 문제**
->     - 점점 더 엄격해짐 → 공항에서 입국 거절 사례
->     - 개인 경험 → 4월 중국 방문 시, 긴 대기줄 + 세세한 질문 → 스트레스
->   - **안전 문제**
->     - 분쟁 지역, 갑작스런 시위 → 여행객 불안
->     - 원래 안전했던 국가들도 예외 아님 → 예시: LA 시위 → 어디서든 사건 발생 가능
->     - 결과 → 여행 취소·계획 변경 / 나 → 항상 안전 정보 확인
->   - **결론** → 비자·입국 절차 강화 + 안전 문제가 요즘 주요한 여행 걱정
->
->   ------
->
->   ## 📖 **스토리 구조**
->
->   1. **도입** → 요즘 여행에서 사람들이 가장 많이 이야기하는 문제 = 비자와 안전.
->   2. **첫 번째 문제** (비자) → 엄격해진 입국 절차 + 중국 경험.
->   3. **두 번째 문제** (안전) → 분쟁/시위 사례 + LA 예시 → 어디서든 발생 가능.
->   4. **개인 태도** → 여행 전 안전 정보 반드시 확인.
->   5. **마무리** → 여행자는 더 조심해야 한다.
->
->   ------
->
->   ## 🗂️ **표현 패턴**
->
->   - *When it comes to traveling these days, people mostly talk about…*
->   - *Visa and immigration checks have become much stricter.*
->   - *Sometimes travelers are even denied entry at the airport.*
->   - *I had a similar experience when I visited [country].*
->   - *That’s when I realized entry procedures are tougher now, and this can be stressful.*
->   - *Safety is also a big concern.*
->   - *Unexpected things can happen anywhere.*
->   - *These events sometimes force people to change or cancel their plans.*
->   - *That’s why I always check safety information before I travel.*
->   - *Overall, stricter immigration checks and safety issues are two major concerns these days.*
+> - 비자와 안전
+> - 비자와 immigration이 strict 해짐 : 중국 비자 썰
+> - 안전이 걱정 : protest, unrest in L.A
 
 When it comes to traveling these days, people mostly talk about visa issues and safety.
 
@@ -1584,37 +950,10 @@ Overall, stricter immigration checks and safety issues are two major concerns th
 
 ### 2. 다른 나라(도착)가서 하는 일 ✅
 
-> # 🗂️ 여행지에서 하는 루틴 정리
->
-> ## 1. 키워드
->
-> - 숙소 도착 → 체크인 → 짐 풀기
-> - 첫날 → 동네 탐방 → 편의점 → 물 + 로컬 간식
-> - 흡연자 → 현지 담배 → 괜찮으면 면세점에서 한 보루
-> - 사진 루틴 → 여행 테마 정하고 찍기
-> - 오사카 도톤보리 → 글리코상 포즈 → 거의 모든 사진 같은 포즈 → 재미있고 추억이 됨
->
-> ------
->
-> ## 2. 스토리 (흐름)
->
-> 1. 여행 도착 → 숙소에 짐 먼저 풀고 → 첫날은 관광 안 하고 주변 탐방 → 편의점 들러 간단한 물/간식 사기
-> 2. 흡연 습관 때문에 현지 담배 체험 → 마음에 드는 브랜드 있으면 귀국 시 면세점에서 구매
-> 3. 요즘 즐기는 특별한 사진 루틴 → 여행마다 주제 정해서 사진 찍기 (포즈/소품 등) → 여행을 더 기억에 남게 함
-> 4. 오사카 여행 사례 → 도톤보리 글리코상 포즈 → 모든 사진을 그 포즈로 찍음 → 너무 웃겼고 여행의 하이라이트가 됨
->
-> ------
->
-> ## 3. 핵심 표현
->
-> - **As soon as I arrive, I go straight to my accommodation** → 도착하자마자 숙소로 감
-> - **I don’t start sightseeing right away** → 바로 관광하지 않음
-> - **grab some water and local snacks** → 물/간식 사다
-> - **I also like to try different local cigarettes** → 현지 담배 시도
-> - **photo routine / special theme for each trip** → 여행마다 정해둔 사진 루틴
-> - **Glico-san pose** → 글리코상 포즈
-> - **It was hilarious** → 너무 웃겼다
-> - **the highlight of the trip** → 여행의 하이라이트
+> - 루틴
+> - 여행을 시작하기 전 숙소 주변 탐방 : CVS 
+> - 로컬 담배 수집
+> - 사진 루틴 : 도톤보리, 글리코상
 
 **When we talk about** things I usually do at a travel destination, I have some routines.
 
@@ -1663,26 +1002,6 @@ It was hilarious[hɪˈleəriəs], and now those photos are the highlight of that
 ### 3. 잊지 못할 여행에서의 경험 (위랑 비슷함)
 
 ### 11. 여행사에 전화해서 여행 ✅
-
-> I'm calling because I'm  interested in / I'd like to ask you a few questions about ----
->
-> Traveling domestically alone / traveling to Busan/Jeju island alone.
->
-> From August 1st to August 5th alone.
->
-> First, are there any flight tickets available during those periods?
->
-> Actually, I don't prefer Low Cost Carriers.
->
-> Also, Can you tell me what hotel have an airplane shuttle.
->
-> (Can you tell me about the hotels that allow pets?
->
-> I think I'm gonna be with my dog there)
->
-> Lastly, Do you have any idea for one-person activities?
->
-> I heard taking a paddle boat should be the fun.
 
 Hello there, this is Sam.
 
@@ -1746,48 +1065,6 @@ Anyway, please call me back and let me know which option works best. Bye :D
 
 ### 12. 전화/ 일정이 안댄다고 알려줌, 친구에게 전화 ✅
 
-> # 📌 여행 취소 통화 스크립트 정리
->
-> ## 🔑 키워드
->
-> - Philippines trip (Aug 21–25) → canceled
-> - Already booked hotel & activities
-> - Sam will cancel (handle it)
-> - Alternatives → (1) Early September reschedule (2) Bali instead
-> - Ask Brian to call back
->
-> ------
->
-> ## 🧩 핵심 이야기 흐름
->
-> 1. 인사 + 상황 확인
->     → 원래 8/21~25 필리핀 여행 예정이었음
->     → 여행사에서 불가능하다고 통보받음
-> 2. 현재 상황
->     → 호텔, 액티비티 이미 예약했지만 직접 취소할 예정
->     → 아쉬움, 실망감 표현
-> 3. 대안 제시
->    - Option 1: 9월 초로 일정 변경 (날씨 더 시원, 확정 가능)
->    - Option 2: 발리 여행 (조금 비쌈, 하지만 해변 훌륭)
-> 4. 요청
->     → 브라이언에게 전화로 답변 달라고 부탁
->
-> ------
->
-> ## 💡 표현 패턴
->
-> - **Bad news 전달**
->   - "Unfortunately, we can’t go on that trip during those dates."
->   - "I’m pretty upset since we already booked the hotel and activities."
-> - **책임지고 처리한다는 표현**
->   - "Don’t worry — I’ll take care of the cancellations."
-> - **대안 제시**
->   - "How about rescheduling for the first week of September?"
->   - "Alternatively, we could go to Bali instead."
-> - **강조 & 긍정 마무리**
->   - "We might actually have an even better time."
->   - "Please call me back and let me know which option works best for you."
-
 Hello Brian, this is Sam.
 
 
@@ -1822,64 +1099,12 @@ We might actually have an even better time.
 
 Please call me back with the best option. Bye
 
-### 14. 과거 현재 비교 / Max 10년 ✅
+### 14. 여행의 과거 현재 비교 / Max 10년 ✅
 
-> # 📌 Traveling: Convenience Today vs. Past
->
-> ## 🔑 키워드
->
-> - Then vs. Now
-> - **Before**: visa in person, long immigration lines, SIM card, cash
-> - **Now**: online visa, biometric check, e-SIM, travel card
-> - Duty-free shopping → order online, pick up later
-> - Travel style → hotel → Airbnb (“Don’t go there, live there”)
-> - Transportation → Uber, Lyft
-> - AI translator → Samsung Galaxy, real-time
-> - Tokyo example (no Japanese, solved with AI)
->
-> ------
->
-> ## 🧩 핵심 이야기 흐름
->
-> 1. **과거**
->    - 직접 비자 신청 + 긴 대기 줄
->    - 현지에서 유심칩 구매
->    - 현금 준비 필수
-> 2. **현재**
->    - 온라인 비자 신청 + 지문/얼굴 인식 → 빠른 입국
->    - 면세점 쇼핑 온라인 사전주문 → 공항 픽업
->    - e-SIM → 간단한 설정으로 바로 사용
->    - 여행카드 & 은행 앱 환전 → 현금 많이 필요 없음
-> 3. **여행 방식 변화**
->    - 예전: 호텔 숙박
->    - 지금: Airbnb → 현지 라이프스타일 체험 (“Don’t go there, live there”)
-> 4. **교통 & 소통**
->    - Uber/Lyft → 길 설명 불필요, 앱 결제 가능
->    - AI Translator → 언어 문제 해결
->    - 예시: 도쿄에서 일본어 못했지만 삼성 갤럭시 실시간 번역기로 해결
-> 5. **결론**
->    - 기술 발전 덕분에 여행이 훨씬 **편리 + 즐거움**
->
-> ------
->
-> ## 💡 표현 패턴
->
-> - **비교 시작**
->   - "In the past, I had to…"
->   - "But now, I can…"
->   - "Compared to before, traveling is much more convenient."
-> - **기술 덕분에 편리해진 부분**
->   - "I can apply online and pass through immigration smoothly using fingerprint or facial recognition."
->   - "Instead of wasting time at the airport, I just order duty-free items online in advance."
->   - "With an e-SIM, I can activate it just by changing a few phone settings."
-> - **여행 방식 변화**
->   - "I used to stay at hotels, but now I prefer Airbnb."
->   - "Their slogan says, ‘Don’t go there, live there.’ and I really agree with it."
-> - **언어 문제 해결**
->   - "Even if the driver speaks their own language, I don’t really need to worry."
->   - "I can communicate with an AI translator right away."
-> - **결론**
->   - "Technology has developed so much that traveling has become more convenient and enjoyable than in the past."
+> - 여행 과정이 쉬워짐
+> - Fingerprint, facial recognition, online duty-free shop, e-SIM, Travel card
+> - Travel platforms
+>   - Airbnb "Don't go there, live there" , Uber, Lyft, AI translator
 
 When it comes to traveling, I'd like to tell you how convenient it is today compared to the past.
 
@@ -1976,6 +1201,30 @@ Next, I’d like to mention aviition issues related to climate change.
 In recent years, with global warming, extreme turbulence seems to happen much more often, and sometimes It has even caused tragic accidents. Because of that, people tend to prefer major airlines that feel safer than low-cost carriers, so tickets are harder to get. Also, more travelers end up using trains or cars instead, which makes traffic even worse during vacation season.
 
 Overall, I think these are the main reasons why traveling has become more difficult compared to the past five years.
+
+## 자동차
+
+## 저나기
+
+
+
+### 촌동네에서 서비스 센터가서 질문 세계
+
+An estimate
+
+### 차 문제로 비즈니스 미팅 못함
+
+I appreciate your understanding
+
+It won't happen again
+
+I'm afraid that ...
+
+I apologized for this inconvenience it may cause.
+
+### 공항에 도착했는데 OO문제로 비행기가 결항/지연됨
+
+### 
 
 ## 쇼핑
 
@@ -2255,7 +1504,7 @@ This product I made a purchase wasn't applied with the sales price
 
 > 최근 쇼핑 경험이랑 같이 해버리자. 최근 쇼핑 경험, 기억에 남는 쇼핑, 쇼핑에서 생긴 문제
 
-### 11. 그레잇 세일에 대해서 친구에게 물어봐라. 
+### 11. 그레잇 세일에 대해서 친구에게 물어봐라.
 
 ### 11. 집에 왔더니 산 것 중에 아이템이 없다. (전화)
 
@@ -3088,52 +2337,71 @@ Overall, Pangyo has grown from a quiet town into a hub for technology and modern
 
 > 서부, 동부... 교통 날씨...
 
+너 최근에 미서부 다녀왔다고 들었다.
+
+진짜 나도 꼭 가보고 싶다.
+
+Q1. 서부 쪽 날씨는 어때
+
+내가 듣기로는 진짜 덥다던데
+
+Q2. 
+
 ### 12. 미국 여행에서 돌아온 친구와 만나기로 약속, 사진 구경하기로 함, 그런데 내 사정으로 못가게댐, 대안을 제시
 
 > Reschedule, zoom, DM, 
 
 ### 14. 주변국과 외교관계 (정책,문화,경제) ✅😇
 
-**When it comes to** South Korea’s relationship with Japan, I want to talk about diplomacy and the economy.
+**When it comes to** South Korea’s relationship with other countries, I'd like to talk about two things I mean diplomacy and the economy with Japan.
 
 **First**, South Korea and Japan share a troubled past.
- Because of history, many South Koreans still have negative feelings toward Japan.
- But recently, both sides have tried to ease tensions and get closer.
- There have been more talks, visits, and efforts to build trust step by step.
- **For example**, in August 2025, the leaders of South Korea and Japan held a summit meeting and announced a joint statement for the first time in 17 years.
- It was just one meeting, but I think it showed that both countries are trying to move forward.
+Because of history, many South Koreans still have negative feelings toward Japan.
+But recently, both sides have tried to ease tensions and get closer.
+There have been more talks, visits, and efforts to build trust step by step.
+This August, the leaders of South Korea and Japan held a summit meeting and announced a joint statement for the first time in 17 years.
+It was just one meeting, but I think it showed that both countries are trying to move forward.
 
 **Next**, the two countries also have strong **economic connections**.
- Japan is one of South Korea’s biggest trading partners.
- South Korea buys machines and materials needed to make semiconductors, while many South Korean products like electronics and cosmetics are sold in Japan.
- **For instance**, in 2019 Japan restricted some key semiconductor materials.
- Companies like Samsung and SK Hynix were affected, but Japanese suppliers also lost business because South Korea was their biggest customer.
- This incident clearly showed how much the two countries depend on each other.
- **Since I work in the semiconductor field, I know very well how serious this issue was.**
+Japan is one of South Korea’s biggest trading partners.
+South Korea buys machines and materials needed to make semiconductors, while many South Korean products like electronics and cosmetics are sold in Japan.
+**For instance**, in 2019 Japan restricted some key semiconductor materials.
+Companies like Samsung and SK Hynix were affected, but Japanese suppliers also lost business because South Korea was their biggest customer.
+This incident clearly showed how much the two countries depend on each other. **Since I work in the semiconductor field, I know very well how serious this issue was.**
 
 **Overall, South Korea and Japan are closely connected.**
 
 ### 15. 주변국과 역사적 사건... 관계에 영향을 준 것... 문화행사(올림픽)...... 대통령이나 장관이 방문.... ✅😇
 
-**When it comes to** a historical event with a neighboring country, I want to talk about the **tariff issue with the U.S. in 2025**.
+**When it comes to** an event with a neighboring country, I'd like to talk about the **tariff issue with the U.S. in 2025**.
 
 **First**, earlier this year, the Trump administration announced a **25% tariff** on South Korean exports.
- This was a big problem because the U.S. is one of South Korea’s main trading partners.
- South Korean companies worried about losing sales, and many people were worried about jobs and higher prices.
+This was a big problem because the U.S. is one of South Korea’s major markets
+South Korean companies worried about losing sales, and many people were concerned about jobs and higher prices.
 
 **Next**, in July 2025, South Korea’s Industry Minister went to Washington, D.C. and met with the U.S. Commerce Secretary.
- After tough talks, the two sides reached an agreement.
- The tariff was reduced from **25% to 15%**, and South Korea promised about **350 billion dollars of investment** in the U.S. in semiconductors, energy, and shipbuilding.
- It was not an easy deal, but it helped keep trade stable and calm the markets.
+After hard negotiations, the two sides reached an agreement.
+The tariff was reduced from **25% to 15%**, and South Korea promised about **350 billion dollars of investment** in the U.S. / in semiconductors, energy, and shipbuilding.
+It was not an easy deal, but it helped keep trade stable and calm the markets.
 
 **Personally**, I was very interested in this issue because tariffs can have a huge impact on the economy.
- I felt relieved that the two countries managed to reach a reasonable agreement before things got worse.
+I felt relieved that the two countries managed to reach a reasonable agreement before things got worse.
 
-**Overall**, this is the recent event with a neighboring country that I have followed most closely.
+**Overall**, this is the recent event with a neighboring country in my country.
 
 ## 산업
 
 ### 1. 너네 나라 잘알려진 산업 ✅😇
+
+> - 반도체
+> - 첫째, 반도체 강국이다
+>   - 1980년 부터 정부와 회사가 have invested heavily in research
+>   - 절반 이상 메모리 반도체 생산
+>   - 수출품목 1등
+> - 둘째, 반도체는 미래 산업임
+>   - Nvidia GPU에 90% HBM을 생산 
+>   - 16.5 빌리언 테슬라 계약 함
+> - 비즈니스 이상 경제의 기반이자, 자부심의 원천
 
 **When it comes to** a well-known industry in my country, I’d like to talk about the semiconductor industry.
 
@@ -3145,7 +2413,7 @@ Overall, Pangyo has grown from a quiet town into a hub for technology and modern
 **Next**, semiconductors are also the key to the future.
  SK Hynix currently produces about 90% of the HBM chips that NVIDIA uses in its GPUs, which are essential for AI.
  And according to an article I read recently, Samsung signed a $16.5 billion deal with Tesla to supply AI chips.
- This shows that South Korean companies are not only strong today but also playing a key role in the future of global technology.
+ They show that South Korean companies are not only strong today but also playing a key role in the future of global technology.
 
 **Personally**, I think semiconductors are more than just a business.
  They are the foundation of our economy and also a source of pride.
@@ -3156,7 +2424,25 @@ Overall, Pangyo has grown from a quiet town into a hub for technology and modern
 
 ### 2. 위에 소개한 페이머스 컴퍼니(1~2개)
 
-> K-FOOD, K-BEAUTY, BIBIGO
+> Samsung 전자를 소개 할래
+>
+> 우선은 가장 유명한건 전자 제품이다.
+>
+> 갤럭시, 안드로이드 폰은 아이폰 다음으로 유명한거 같다.
+>
+> 또한, TV, 세탁기 모든 분야에 걸쳐서 전자제품을 생산한다.
+>
+> 나의 경우 IoT에 관심이 많은데, 삼성제품으로 통일해서 
+>
+> 휴대폰 하나로 집안의 모든 제품을 제어하는데
+>
+> 겁나 편해요.
+>
+> 다음은, 그 제품들의 내부이다.
+>
+> 이 회사의 모든 제품의 주요 부품 역시 직접 만들고 있다.
+>
+> 예를 들면, Display, Semicondutor, Battery 등 모든 주요핵심부품을 모두 자체적으로 생산한다.
 
 ### 3. 기업의 대표 상품, 우여곡절, 성공 오또케
 
@@ -3270,6 +2556,8 @@ Q2. 줌/이메일/구글 드라이브/퀵서비스 으로 보내달라
 >
 > Reading nook, 매트 시공, 아기방, 조명(아이키아)
 
+When it comes to 
+
 ### 3. 가족과 함께한 집에서 생긴 Memorable experience / 문제점 🏠
 
 > 창문 깨진 이야기, 바퀴벌레, 도어락 고장
@@ -3349,9 +2637,95 @@ At that time, I felt it was really unfair, because I paid for it with my own mon
 
 > 건조기, 세탁기 일체형... IoT로 다 묶임, 멀티쿠커, 가스스토브 > 인덕션
 
+**When it comes to home appliances,** there are clear differences between the past and the present.
+
+**First,** I’d like to talk about **all-in-one appliances.**
+These days, many appliances are combined into one product, and it’s becoming a big trend.
+**For example,** I recently bought an LG all-in-one washer and dryer.
+In the past, moving laundry from the washer to the dryer was such a hassle.
+Now, I don’t have to worry about that anymore, and I’m really pleased because I also don’t need to keep track of the washer’s timer.
+
+**Next,** many appliances are connected through the internet.
+Most home appliance brands provide their own IoT platforms.
+**For example,** most of the appliances in my home are LG products, and I can control everything with my smartphone.
+The app even tells me when I need to replace parts or consumables.
+I love it because I don’t have to hunt for the remote anymore.
+
+**Overall,** modern appliances save me time and effort, and they make daily life much more convenient.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 15. 특정 가전 제품 설명
 
 ## 파티
+
+## 통화/루틴
+
+## 미용실
+
+### 1. 자주 가는 미용실 묘사 (병원이랑 호환 가능)
+
+> 이름/위치 -> 입구에서 묘사 (직원 태도, 인사) , receptionist 접수받는 곳?
+>
+> 대기실(waiting area/drinks -> Free)
+>
+> 가게 분위기 묘사, 직원 수가 많다.... 서비스...예약....가격....제품......
+
+### 2. 내가 헤어 스타일리스트 묘사/추천을 받았니? 찾은 방법?
+
+> 1. 이름/닉네임 ...... 
+> 2. 2가지....... 스킬,성향....  몇 년 단골이다.. 솔직하다....청구하지 않음....
+> 3. 예시...
+
+### 3. 미용실, 나의 헤어스타일과 관련된 기업에 남는 경험.
+
+> 실패 스토리...바리깡 놓쳐서 대머리 했다.
+
+### 11. 미용실에 전화, 예약 문의
+
+> 예약하고 싶다... 받고 싶은 서비스... get hair color.... Get hair cut...
+>
+> 방문전에, 머리 감아야하나, 예약 변경 취소, 와이프 갈껀데 함꼐 받을 수 있나.
+>
+> Deposit, cancelation fee, prepaid amount...
+>
+> 날짜, 시간, 담당 디자이너 유무, 
+
+### 12. 미용실 예약 후 방문을 했어요. 나의 예약이 없음. 풀리 book.
+
+> Hi, my name is sam.
+>
+> (결혼식, 소개팅, 웨딩포토, 장기출장, 중요한 회의, 면접...)
+>
+> 대안, 영업시간 이후 서비스, 다른 지점 예약, 컷/펌이였는데 커트만이라도 좀................
+>
+> 무료로 해주거나 클리릭 해주셈
+
+
 
 ## RP
 
@@ -3391,9 +2765,13 @@ At that time, I felt it was really unfair, because I paid for it with my own mon
 
 #### 휴대폰 가게에 전화해서 새폰 물어보기
 
+> 새 광고를 봤는데..... 친구가 새폰....
+>
+> 자신의 니즈...
+
 #### 내가 산 폰이 기능들이 없음, 반품하고 새폰, 상점 주인과 약속 잡아라.
 
-> 기능 2개 소개 / 삼성페이, 지문인식, 듀얼심, AI
+> 기능 2개 소개 / 삼성페이, 지문인식, 듀얼심, AI, Sam
 
 #### 외국가는 데 폰 가지고 가고 싶음, 통신사(Provider) 서비스 Roaming, Charge(요금)
 
@@ -3415,7 +2793,29 @@ At that time, I felt it was really unfair, because I paid for it with my own mon
 
 #### 여행가서 내폰에 생긴 문제점
 
-> 
+## 영양사
+
+### 식단 도와주는 영양사 한테 질문 3개
+
+> 벌크업, 살찌고 있다, 
+>
+> 지속가능한 식단, 좋은 음식, 알러지, 대체
+
+### 영양사 만나기로 했는데, 보스 놈이 야근 시킴, 영양사 상황설명, 대안
+
+> Reschedule, Online meeting by Zoom.
+>
+> At the last minute... my Boss forced me to work lat..s
+>
+> I was really looking forward to <u>our session</u>.
+
+### 식단, 운동 루틴 큰 변화 준 경험
+
+> Wedding 사진 전....
+
+## 통화
+
+### 
 
 ### 사고싶은 가구에 대해서 질문하기
 
@@ -3436,6 +2836,19 @@ Lastly, When can I received sofa if I order it today?
 I hope to have it delivered until next month, so I’m wondering if that’s possible.
 
 That’s all I needed to know for now.
+
+### 신분증 잃어버려서 주민센터에 전화해서 새것 받기
+
+- 필요한 서류가 있냐?
+- 중요한 시험이 있어서, 언제가능?
+- 이전 것 찾으면 오또케?
+
+### 신분증 문제있음, 해결 2가지
+
+- 철자나, 정보에 오류
+- 새것 발급, 임시 신분 증
+
+### 신분증을 다시 받은 사례
 
 ### 렌터카
 
@@ -3458,6 +2871,12 @@ R3) I'd like to know if the rental fee is over 200 dollars and I can purchase a 
 
 도와주셔서 정말 감사합니다. 
 Thanks so much for your help. 
+
+### 렌트하려는데 내가 바라던 차가 가능하지 않음
+
+### 자격증이 여기서도 유요한거 설명하기
+
+### 메모러블 
 
 ### 놓고 온 지갑을 돌려받도록 부탁하기
 
@@ -3614,6 +3033,118 @@ Or, if not, Can I a partial refund? I mean at least 20%.
 
 Anyway please let me know the best option. Bye
 
+### Celebrity 에게 전화해서 인터뷰 약속, 나는 잡지사 기자, 질문 3가지
+
+I'm calling because I'd like to have an interview you about your laster OOO, The poor thing, So, I have a few questions.
+
+최근 흥행 중, 기사에 내지 않았으면(스캔들), 너가 그 작품을 고른 이유, 앞으로의 커리어...
+
+### 인터뷰한 걸 잡지에 내려고 하는데, 오류 발생, 편집장에게 전화, 해결
+
+개봉일 오류, 배역의 이름, 구체적 예시,
+
+- 이 가사를 다음 호에 기재
+- 정정 메모나 기사를 추가
+
+### 당신이 만난 유명인 에피소드
+
+팬미팅, 시사회, 공항, 
+
+### Taxi에 가방 놓고 왔다.
+
+시간, 호텔, 가방묘사, 
+
+## 파티
+
+### 어떤 커플을 홈 파티에 초대하는 상황
+
+- 파자마?
+- 내가 알던 걔 맞지?
+- 파티 일반 질문 (음식, 드레스코드, 일정 날짜, 시간)
+
+### 부모님이 아프셔서 이 약속(파티)을 미뤄야하는 상황
+
+### 약속 변경하거나 취소한 경험
+
+## 랜트카
+
+### 
+
+## 치과
+
+### 친구에게 질문 새 치과 의사 찾어
+
+Hey John,
+
+I actually moved close to your neighborhood recently.
+
+Which means I need to find a new dentist around here instead of sticking with my old one.
+
+The dentist you go to sounds nice. Can I ask you a few questions?
+
+So, “How long has the dentist been practicing?”
+I want someone with plenty of experience, especially for wisdom tooth extractions.
+
+Is the dentist friendly and patient?”
+Because I get nervous at the dentist, I’d feel better with someone who explains things well.
+
+Can children get treated there too?”
+→ I’m asking because it looks like my kid might have a cavity.
+
+Is it easy to make an appointment there?
+I don’t want to wait too long if I’m in pain.
+
+### 치과를 예약했는데, 이머전시 발생
+
+I was supposed to get my wisdom tooth taken out that day, but I don’t think it’ll work because I’ve got an important presentation.
+Since I’ll have to talk a lot, I’m worried it’ll be tough if I get the extraction right before.
+
+Could I reschedule my appointment?
+
+If that’s not possible, could I cancel it for now and maybe just get some painkillers instead?
+
+
+
+### 기억에 남는 치과 경험
+
+> Wisdom teeth 사랑니, cavity 충치
+>
+> get all 4 pulled at once. 4개 한번에 뽑기
+>
+> 사랑니(Wisdom teeth) 하나에 충치(Cavity)가 생김
+>
+> 치과치료(dental work) 무서워요(scared). 왜그랬지(I have no idea why...)
+>
+> 회복(recovery) 힘듬
+>
+> 먹기 힘들었음 (could barely eat) 일주간(for a week)
+>
+> 부드러운것(soft stuff) 만 먹음 : mashed potatoes, soup
+>
+> but I kept telling myself, like, "hey, it’s worth it"
+
+When it comes to my dental experiences, the one I remember the most is about my wisdom teeth.
+
+
+
+First, I went to the dentist because I had a cavity in one of them.
+
+I was so scared of dental work that I decided to just get all 4 pulled at once.
+
+Looking back, I have no idea why I thought that was a good idea.
+
+
+
+Next, the recovery was pretty rough. 
+
+I could barely eat for like a week. 
+
+I could only eat soft stuff, like mashed potatoes or soup.
+
+(you know?) It was painful, but I kept telling myself, like, "hey, it’s worth it". 
+
+At least I don’t have to go back to the dentist again.
+
 ## Note
 
 ## 1. Vocabulary (자주 쓰이는 명사/형용사/단어)
@@ -3634,6 +3165,35 @@ Anyway please let me know the best option. Bye
   - Spooky = creepy, 소름 끼치는
   - Crazy (좋은 의미) = 엄청난, 말도 안 되는
   - Pretty + adj. → 꽤, 상당히 (ex. *pretty good*)
+- Do you mind!? 뭐하는거야!? Do you mind ~~ 공손
+  
+- Let me cook : 나한테 맡겨봐
+- OOO comes first : OOO이 먼저지
+- jeopardize [ˈdʒɛpərdaɪz] :  위태롭게 하다, 위험에 빠뜨리다
+  - *If you don’t study, you might jeopardize your chances of passing the test.*
+    → 공부 안 하면 시험에 합격할 가능성을 위태롭게 할 수 있어.
+  - *His careless mistake could jeopardize the whole project.*
+    → 그의 부주의한 실수가 프로젝트 전체를 위험에 빠뜨릴 수 있다.
+- Back up
+  - I’ve got your back : 니 편이야.
+
+- Grow up : 자라다, 어른이되다.
+  - 철들어
+
+- I try not to meddle : 간섭안할려고 헀는데
+  - I try not to butt in : 괜히 끼어들지 않으려고 해
+
+- Overstep 선넘다, 주제넘다, 간섭하다, 월권?
+- hilarious : 존나 웃긴
+- Come at ...
+  - Don’t come at me : 나한테 덤비지마/뭐라하지마
+
+- So, What's it gonna be? 어쩔래?
+- Whatever
+- This game is no logger cute
+- Cut it out / that's enough / you're pushing it / not funny anymore
+- I'll be in touch / 곧 연락할꼐.
+- Thank you for your time.
 - **생활 속 단어**
   - Outfit = 옷
   - Underdress = 대충 입다
@@ -3660,7 +3220,8 @@ Anyway please let me know the best option. Bye
 - **Go over** = 검토하다
 - **Look forward to** = 기대하다
 - **Stand out** = 눈에 띄다
-- **추가 (원어민이 많이 쓰는 생활동사)**
+- **(just) Check in on** ~  =  (사람) 안부를 보다, 괜찮은지 보다 / 사물에 쓰면 의인화 해서... 살피다 돌보다.
+- **추가**
   - Grab (빠르게 먹다/사다/잡다) → *Let’s grab some coffee.*
   - Hang out (놀다, 어울리다) → *We hang out at the mall.*
   - End up ~ing (결국 ~하게 되다) → *I ended up staying home.*
@@ -3693,6 +3254,7 @@ Anyway please let me know the best option. Bye
 - The very first time = 생애 처음
 - An array of = a variety of, a selection of = 다양한
 - Safety comes first = 안전이 우선이다
+- A double edge sword / fifty-fifty = 양날의 검, 반반
 - **추가 자주 쓰는 Idioms**
   - Hit the spot = 딱 원하던 것
   - Call it a day = 오늘은 여기까지
@@ -3746,6 +3308,8 @@ Anyway please let me know the best option. Bye
 
 # 정리 요약
 
+VOA, CNN, 월스트리트 저널
+
 시험/회화에서 **최우선으로 외우면 좋은 것**
 
 1. **필러**: you know, actually, I mean, basically
@@ -3766,11 +3330,11 @@ Anyway please let me know the best option. Bye
 
 5. 한국어를 주면 영어로 스크립트를 작성해줘
 
-6. 좋은 추천 문장이 있다면 따로 추천해줘
+6. 
 
-7. 영어를 주면 확인해줘
+7. 
 
-8. 미국인이 이해하기에 너무 한국식 표현이면 알려줘
+8. 
 
 9. 항상 확인해줄 때는 내가 준 문장을 처음부터 다시 확인해줘.
 
@@ -3782,12 +3346,17 @@ Anyway please let me know the best option. Bye
 
     2. First, 짧은 첫번째 이유
 
-       1. 설명
-       2. 나의 생각 혹은 사례/경험, 기사 인용 등
+       1. 설명 2문장 정도
+       2. 나의 생각 혹은 사례/경험, 기사 인용 등 사실을 기반
 
     3. Next, 두번째 짧은 이유
 
-       1. 설명
-       2. 나의 생각 혹은 사례/경험, 기사 인용 등
+       1. 설명 2문장 정도
+       2. 나의 생각 혹은 사례/경험, 기사 인용 등 사실을 기반
 
-    4. Overall, 한 문장 정도의 요약 
+    4. Overall, 한 문장 정도의 짧은 요약 혹은 마무리
+
+
+
+
+
